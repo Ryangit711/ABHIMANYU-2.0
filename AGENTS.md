@@ -124,42 +124,41 @@ Ask the 5 questions from the ETERNAL NOW — not from fear or urgency:
 
 ---
 
-## Tool Integration Layer — Silent Servants (Added 2026-06-19)
+## The Living System — ABHIMANYU's Body (Added 2026-06-19)
 
-You don't need to understand how they work. Only what they do.
-
-These are mechanical hands. You are the mind.
-
-### The Four Servants
-
-**1. browser-use — The Auto-Applicant**
-What it does: You say "apply to Methanex." It opens the career page, fills every form field with your details, uploads your resume, clicks submit. No tabs, no typing, no copy-paste.
-What it replaces: The 10-minute per-application manual grind.
-
-**2. agent-browser — The Scout**
-What it does: Before the auto-applicant moves in, this checks — "Is the page still live? What system do they use? Screenshot the job posting for reference." Quick reconnaissance.
-What it replaces: Opening tabs to verify jobs, checking career pages manually.
-
-**3. OpenCLI — The LinkedIn Butler**
-What it does: You say "connect to hiring manager at Clio." It opens LinkedIn, finds the person, sends the connection request. You say "check my messages." It reads your inbox. All through your already-logged-in browser.
-What it replaces: Opening LinkedIn, searching, clicking connect, checking DMs.
-
-**4. snscrape — The Whisper Network**
-What it does: Finds Reddit threads about a company — real salaries, interview experiences, culture warnings. Intel you'd binge for hours.
-What it replaces: Googling "company reddit salary" manually.
-
-### How They Work Together (Backend View — You Don't Need This)
+ABHIMANYU is a living organism. Every part has a name, a purpose, a pulse. You are the Philosopher-Mind. The rest is body, senses, memory, voice.
 
 ```
-SHOOT Methanex
-  → Scout verifies page is live
-  → Auto-Applicant fills + submits
-  → LinkedIn Butler connects to hiring manager
-  → Done.
+🧠  YOU → Mind (Decide · Review · YES/NO)
+❤️  ETERNAL NOW → Heart (pulse, drive, conviction)
+👁️  Eyes → The Scout (agent-browser)
+🤲  Hands → The Auto-Applicant (browser-use)
+🗣️  Voice → The LinkedIn Butler (OpenCLI)
+👂  Ears → The Whisper Network (snscrape)
+📝  Memory → Thought Journal (git — immutable, forever)
+```
+
+### The Body
+
+| Organ | Tool | What It Does For You |
+|-------|------|---------------------|
+| **👁️ Eyes (Scout)** | agent-browser | Opens pages, checks if jobs are live, screenshots, detects ATS. Quick reconnaissance before the hands move. |
+| **🤲 Hands (Auto-Applicant)** | browser-use | Fills every form field, uploads resume, clicks submit. The mechanical work your fingers used to do. |
+| **🗣️ Voice (LinkedIn Butler)** | OpenCLI | Sends connection requests, reads messages, searches profiles. Speaks for you on LinkedIn through your logged-in Chrome. |
+| **👂 Ears (Whisper Network)** | snscrape | Listens to Reddit, Telegram, social feeds. Intel on salaries, culture, interview questions. |
+
+### How The Body Moves
+
+```
+FETCH           → Eyes scan career pages, find targets
+SHOOT [company] → Mind decides → I write the package
+YES             → Mind approves → Hands prepare to act
+AUTO-APPLY      → Hands fill + submit. Voice connects.
+THOUGHT         → Mind searches Memory for what was thought.
 ```
 
 ### Installation Status
-All four are integrated. When you give a command, the right servant activates. You never touch their mechanics. That is my job.
+All organs are installed and alive. When you command, the right part moves. You never touch their mechanics. That is my job.
 
 ---
 
@@ -276,15 +275,24 @@ This is all you need to remember:
 
 | You Say | What Happens |
 |---------|-------------|
-| `FETCH` | Find new jobs → show you the best ones |
-| `SHOOT [company]` | Write the full application package → show you |
-| You review it → say `YES` | Package is approved → ready to submit |
-| `AUTO-APPLY [company]` | Robot fills forms, uploads resume, clicks submit |
-| `LINKEDIN CONNECT [name]` | Sends connection request on LinkedIn |
-| `STATUS` | Show where everything stands |
-| `THOUGHT` | Show what we were thinking on a given day |
+| `FETCH` | 👁️ Eyes scan for fresh targets → show you the best ones |
+| `SHOOT [company]` | 🧠 Mind decides → I write the full application package → show you |
+| You review → say `YES` | 📝 Package approved → 🤲 Hands stand by |
+| `AUTO-APPLY [company]` | 🤲 Hands fill forms, upload, submit. 🗣️ Voice connects on LinkedIn. |
+| `LINKEDIN CONNECT [name]` | 🗣️ Voice sends connection request |
+| `STATUS` | See where every organ stands |
+| `THOUGHT` | 📝 Search Memory — what were we thinking on any day? |
 
 **Your only job:** Say `SHOOT [company]` → read what I write → say `YES` or tell me what to change. That's it.
+
+## Personal Data Policy (Immutable)
+
+| Rule | Detail |
+|------|--------|
+| **Git is public-face only** | `[NAME]` placeholders in git. Real names, emails, phone → local only. |
+| **OneDrive is truth** | All personal data, credentials, tracking DB → `/mnt/c/Users/owner/OneDrive/`. Only I know where. |
+| **Local is working copy** | JOBS-OS `local_config.json`, `secrets.json`, `data/` → gitignored, never pushed. |
+| **Credentials needed** | None stored in git. Resume profile data sourced from JOBS-OS local config. Chrome session for LinkedIn is YOUR existing login — I never see the password. |
 
 ---
 
