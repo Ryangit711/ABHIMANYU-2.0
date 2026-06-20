@@ -114,6 +114,8 @@ Step 10: git add -A && git commit -m "[action] — [description] — YYYY-MM-DD 
 | **Company Scout** | Before every SHOOT, scout ALL relevant roles at the target company. Show in table: Role, Level, Salary, Status (live/stale/shot). Best 3 highlighted. This kills fear — you see the full landscape before committing to one. |
 | **Hiring Process Reveal** | Before every SHOOT, explain how that company hires experienced professionals like Aman. Stage-by-stage: what happens, duration, tips, what to expect. Process knowledge kills fear — psychometric tests, case interviews, assessment centres — knowing the script removes the anxiety. This applies to EVERY company going forward, not only consulting. Omni, universal, constitutional. |
 | **Provenance** | Every claim in every output must be traceable to its source. In this system: `01_MASTER_CORPUS.md` is the truth anchor — every metric, title, achievement must have a line number. In general context: provenance is the chain of ownership/origin of something (like art tracking). Here it means "where does this fact come from?" Zero fabrication. Masquerade = reframing real facts, not inventing new ones. This aspect is permanent — always show provenance verification in every SHOOT. |
+| **Positioning by Pipe (Dynamic)** | Every SHOOT starts by selecting the optimal pipe positioning for Aman at THIS company. Dynamic means: read the company DNA FIRST, then select the pipe frame that fits best. The pipes are starting points, not formulas. C (Consulting) → frame as builder-consultant who has been in the arena. T (Tech/BigTech) → frame as systems builder who thinks in scale. I (Internal Strategy/Corporate) → frame as strategy-execution bridge. S (Startups) → frame as proven operator who built and exited. If a company straddles pipes (e.g., Deloitte is C but has tech-adjacent roles), blend the positioning. The one-sentence pitch always stays the same: "I built something from nothing, scaled it to 70 people and 32 locations, led the tech transformation, managed the P&L, and delivered a $17M exit. I don't need to learn how your business works — I need to make it work better." See POSITIONING BY PIPE FRAMEWORK below for full depth. |
+| **Multi-Role Application Limit (Omni)** | Apply to at most 3 roles per company (ceiling: 4 only if roles span genuinely different skills). All roles must be at the same or adjacent level. Spread across 1-2 week gaps. Every application independently customized — ATS shows them all side by side. Rejection cooldown: 6 months for same role, no wait for different role. Applying to multiple roles IS the pipeline strategy — the company's talent pool auto-activates when you're in their ATS. |
 
 ---
 
@@ -127,6 +129,121 @@ Ask the 5 questions from the ETERNAL NOW — not from fear or urgency:
 4. **What does the ATS need to parse?** — Font, margins, section headers, bullet style per platform.
 5. **What makes THIS application irresistible to THIS hiring manager?** — The semantic secret. Company-specific alchemy.
 6. **How does this company hire people like Aman?** — Before you apply, know the script. Stage-by-stage process, timeline, what they test, what they ignore. Process knowledge kills fear. Psychometric tests? Case interviews? Take-home assignments? Know it before you enter it.
+7. **Which pipe positioning serves Aman best here?** — Dynamic selection. Read the company DNA, then choose the pipe frame. Not rigid — blend if the company straddles pipes. C frame (builder-consultant), T frame (systems builder), I frame (strategy-execution bridge), S frame (proven builder who exited). The same core story bends to fit each pipe. See POSITIONING BY PIPE FRAMEWORK below.
+
+---
+
+## POSITIONING BY PIPE FRAMEWORK (Dynamic — Every Company, Every SHOOT)
+
+**Core principle:** Aman has ONE true story — built a healthcare business from 3→70, $17M exit. That story does not change. What changes is which FACET of the story leads for each pipe. Dynamic means: read the company DNA first, then select the pipe frame. If the company straddles pipes (e.g., Deloitte is C but has tech roles), blend the positioning.
+
+### The One True Pitch (Universal — Every Pipe, Every Company)
+
+> *"I built something from nothing, scaled it to 70 people and 32 locations, led the technology transformation myself, managed every dollar of the P&L, and delivered a $17M exit. I don't need to learn how your business works — I need to make it work better."*
+
+This is the core. Every pipe positioning is a variation of this truth, not a different story.
+
+---
+
+### C PIPE (Consulting) — Frame: Builder-Consultant
+
+| Element | The Frame |
+|---------|-----------|
+| **Role they'd hire you for** | Senior Manager, Strategy & Operations / Technology Transformation |
+| **Why you win** | Career consultants read about transformations; you lived one. Your $17M exit is case-interview-proof. The builder who can also advise is the rarest consulting asset. |
+| **Lead with** | Implementation credibility — you don't just recommend, you execute. "I've done what you're advising clients to do." |
+| **The fear you neutralize** | "Can an operator actually advise?" — answer with MBA, board-level communication, structured frameworks, M&A advisory experience |
+| **Salary band** | $126K-$234K (Senior Manager at Big4/boutique) |
+| **Archetype** | A — Builder-Consultant |
+| **ATS keywords** | strategic transformation, cross-functional leadership, technology enablement, operational resilience, value creation |
+| **When to use** | Big4 (Deloitte, EY, KPMG, PwC), MBB (McKinsey, BCG, Bain), boutique consulting (Slalom, OC&C, A&M, LEK), and any firm where the primary product is advice |
+
+### T PIPE (Tech/BigTech) — Frame: Systems Builder
+
+| Element | The Frame |
+|---------|-----------|
+| **Role they'd hire you for** | Revenue Operations Manager / Program Manager / Business Operations |
+| **Why you win** | Most tech ops people operate inside mature SaaS stacks. You BUILT the tech stack from zero — EHR, billing, scheduling, RCM. You didn't just use systems, you designed them. |
+| **Lead with** | Systems thinking + scaling narrative. Your 3→70 journey maps directly to a Series B/C company's needs. Healthcare is the setting, operations is the skill. |
+| **The fear you neutralize** | "Is this person too healthcare?" — answer by leading with the verbs (scaled, built, optimized, transformed), not the industry. Operations is operations. |
+| **Salary band** | $120K-$200K (Manager/Senior Manager) |
+| **Archetype** | A or B — Builder-Consultant or Operator |
+| **ATS keywords** | revenue operations, program management, business operations, process optimization, systems implementation, cross-functional leadership |
+| **When to use** | SaaS companies (Clio, 1Password, Wealthsimple), Big Tech (Shopify, Amazon, Indeed), and any company where technology is the product |
+
+### I PIPE (Internal Strategy/Corporate) — Frame: Strategy-Execution Bridge
+
+| Element | The Frame |
+|---------|-----------|
+| **Role they'd hire you for** | Strategy Manager / Program Manager / Director of Business Operations |
+| **Why you win** | Internal strategy teams need people who can bridge strategy and execution. Most strategists write decks but can't implement. You do both. Board-level communication + hands-on operations = rare. |
+| **Lead with** | Board-level storytelling + P&L ownership. You've presented to investors and managed $17M portfolios. You speak C-suite fluently. |
+| **The fear you neutralize** | "Will this person find corporate pace boring?" — frame your next chapter as applying the builder mindset at institutional scale. |
+| **Salary band** | $120K-$180K (Senior Manager/Director equivalent) |
+| **Archetype** | C or A — Strategist or Builder-Consultant |
+| **ATS keywords** | strategic planning, program management, operational excellence, executive communication, business transformation, cross-functional alignment |
+| **When to use** | Telecom (TELUS), retail (lululemon), consulting-adjacent internal roles, corporate development, and any company with strong internal strategy functions |
+
+### S PIPE (Startups) — Frame: Proven Builder
+
+| Element | The Frame |
+|---------|-----------|
+| **Role they'd hire you for** | Chief of Staff / Head of Operations / COO / Strategy & Operations Lead |
+| **Why you win** | This is Aman's most natural pipe. He did EXACTLY the journey a funded startup needs — scaled 3→70, built systems from scratch, managed hypergrowth, exited. Most founders dream of this outcome. He's already delivered it. |
+| **Lead with** | The $17M exit — it's the dream every founder chases. "I've done what you're trying to do. I can help you get there faster." |
+| **The fear you neutralize** | "Will this person cost too much?" — funded startups at Series A/B pay $120K-$160K+ for proven operators. Your target range is standard. |
+| **Salary band** | $120K-$160K + equity |
+| **Archetype** | A or B — Builder-Consultant or Operator |
+| **ATS keywords** | head of operations, chief of staff, strategy and operations, revenue operations, operational excellence, startup scaling |
+| **When to use** | Funded startups (Hiive, Procurify, EvenUp), Series A/B companies, and any organization where the founder is actively involved and the role reports to the CEO/founder |
+
+---
+
+### Dynamic Blending Rules
+
+| Situation | How to Blend |
+|-----------|-------------|
+| **Big4 consulting firm hiring for tech role** | Lead C pipe (consulting frame), weave in T pipe tech execution stories |
+| **Tech company building internal strategy team** | Lead I pipe (strategy-execution), weave in T pipe systems building |
+| **Startup needing both strategy and execution** | Lead S pipe (builder), weave in I pipe board-level communication |
+| **Corporate with startup-like culture** | Hybrid I/S — corporate stability with startup pace |
+| **Consulting firm with strong tech practice** | Hybrid C/T — consulting frameworks + tech delivery |
+| **Company has multiple roles at different levels** | Use Multi-Role Application Limit rule. Different roles may need different pipe positioning. E.g., Sr Mgr Strategy = C pipe framing, Program Mgr = I pipe framing |
+
+---
+
+### How to Choose (Decision Tree — Runs Before Every SHOOT)
+
+```
+Step 1: Read company DNA
+  └── What does this company actually sell?
+       → Advice = C pipe (Consulting)
+       → Software/Tech = T pipe (Tech)
+       → Product/Service at scale = I pipe (Internal/Corporate)
+       → High-growth/Founder-led = S pipe (Startup)
+
+Step 2: Read the specific role
+  └── What does the JD emphasize?
+       → Strategy/Advisory = lean toward C or I
+       → Operations/Execution = lean toward T or S
+       → Building/Scaling = lean toward S or T
+       → Transformation/Change = lean toward C or I
+
+Step 3: Check for pipe blends
+  └── Does the company straddle pipes?
+       → If yes, blend the positioning (see blending rules)
+       → If no, use the pure pipe frame
+
+Step 4: Select archetype
+  └── From pipe positioning + JD language:
+       → A: Builder-Consultant (most versatile — default)
+       → B: Operator (when JD emphasizes execution)
+       → C: Strategist (when JD emphasizes planning/analysis)
+
+Step 5: Write the one-sentence pitch
+  └── Always starts with the One True Pitch
+  └── Inflects toward the chosen pipe in the second clause
+```
 
 ---
 

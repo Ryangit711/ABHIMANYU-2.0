@@ -14,11 +14,15 @@ description: "Triggered when user says SHOOT, SHOOT [company name], or pastes a 
 - Cover letter rules: AGENTS.md cover letter format section
 - Networking: AGENTS.md networking section
 - Consulting: `CONSULTING_OS.md`
+- Positioning by Pipe: AGENTS.md — POSITIONING BY PIPE FRAMEWORK section
+- Multi-Role Limit: AGENTS.md — Multi-Role Application Limit kernel rule
 
 ## The 15 Sections (Every Job, Every Time)
 
 ### 1. HEADER
 Company, Role, Team, Salary (range + midpoint), Location, Fit Score, Pipe, Wave, NOC, TEER, Archetype
+
+**Pipe positioning pre-selected:** Run the decision tree from POSITIONING BY PIPE FRAMEWORK in AGENTS.md. Read company DNA → select pipe frame → blend if needed → choose archetype. All 15 sections flow from this selection.
 
 ### 2. COMPANY SCOUT (All Relevant Roles)
 **Permanent constitutional section — kills fear by showing the full landscape.**
