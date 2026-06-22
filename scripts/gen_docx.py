@@ -224,7 +224,11 @@ def generate(company):
             config, size=Pt(9))
 
     respath = os.path.join(folder, f"Aman_Kumar_{company}_Director_Strategy.docx" if company == "Methanex" else f"Aman_Kumar_{company}_SrMgr_Integration.docx")
-    doc.save(respath)
+    try:
+        doc.save(respath)
+    except PermissionError:
+        respath = os.path.join(lfolder, os.path.basename(respath))
+        doc.save(respath)
     doc.save(os.path.join(lfolder, os.path.basename(respath)))
     print(f"Resume: {respath}")
 
@@ -299,9 +303,134 @@ def generate(company):
     add_body(doc, body, config, space_after=0)
 
     clpath = os.path.join(folder, f"Cover_Letter_{company}_Director_Strategy.docx" if company == "Methanex" else f"Cover_Letter_{company}_SrMgr_Integration.docx")
-    doc.save(clpath)
+    try:
+        doc.save(clpath)
+    except PermissionError:
+        clpath = os.path.join(lfolder, os.path.basename(clpath))
+        doc.save(clpath)
     doc.save(os.path.join(lfolder, os.path.basename(clpath)))
     print(f"Cover:   {clpath}")
+
+    # --- CASE (Semantic Narrative) ---
+    doc = Document()
+    set_margins(doc, config["margins"])
+
+    if company == "Methanex":
+        # Title
+        p = doc.add_paragraph()
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        run = p.add_run("CASE — Aman Kumar × Methanex")
+        run.font.name = config["font"]
+        run.font.size = Pt(18)
+        run.bold = True
+
+        p = doc.add_paragraph()
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        run = p.add_run("The Strategist Who Built From Zero")
+        run.font.name = config["font"]
+        run.font.size = Pt(13)
+        run.font.color.rgb = RGBColor(100, 100, 100)
+
+        add_body(doc, "", config, space_after=4)
+
+        # Section: The Situation
+        add_section_header(doc, "The Situation", config)
+        add_body(doc, (
+            "Methanex is the world's largest methanol producer — 10.4M tonnes annually, approximately 20% of the "
+            "internationally traded market — operating at the intersection of global commodity volatility, post-merger "
+            "integration, and a generational energy transition. The $2.05B acquisition of OCI Global's international "
+            "methanol business closed in June 2025, fundamentally reshaping Methanex's geographic and operational "
+            "footprint. Low-carbon methanol — M100 as marine fuel, renewable methanol from circular sources, the "
+            "Atlas joint venture on the US Gulf Coast — is no longer a long-dated possibility. It is a present-tense "
+            "strategic imperative.\n\n"
+            "This is the context in which the Director, Strategy operates. Not as a planner. As a navigator."
+        ), config, size=Pt(10.5))
+
+        # Section: The Candidate
+        add_section_header(doc, "The Candidate", config)
+        add_body(doc, (
+            "Aman Kumar spent eight years doing exactly what Methanex needs now: building the strategic infrastructure "
+            "of a complex, multi-site organization from zero — and then navigating it through a transformative acquisition.\n\n"
+            "He did not inherit a strategic planning process. He designed one. He did not take over an existing financial "
+            "model. He built it. He did not merely participate in an M&A transaction. He directed it — from first-day "
+            "diligence through Day 1 readiness through 100-day integration, retaining 100% of key talent across five "
+            "clinic groups and 32 locations."
+        ), config, size=Pt(10.5))
+
+        # Section: The Alignment
+        add_section_header(doc, "The Alignment", config)
+        add_bullet(doc,
+            " — built the strategy cycle from scratch: annual ELT sessions, quarterly OKR cascades, board-ready reporting across 32 locations, 5 consecutive cycles", config,
+            bold_prefix="Global Strategy Process")
+        add_bullet(doc,
+            " — multi-scenario P&L models across 12 departments, capital allocation frameworks, DCF and valuation analysis, board-level financial reporting", config,
+            bold_prefix="Valuation & Financial Analysis")
+        add_bullet(doc,
+            " — directed full-cycle $17M acquisition: 8 diligence workstreams, Day 1/100 milestones, 8-system consolidation in 90 days, 100% talent retention", config,
+            bold_prefix="M&A Execution")
+        add_bullet(doc,
+            " — coordinated 12 departments, 5 clinic groups, 32 locations — building governance rhythms, escalation protocols, decision-making frameworks", config,
+            bold_prefix="Cross-Functional Leadership")
+        add_bullet(doc,
+            " — created board-level reporting, investor materials, executive presentations from zero — presented with the rigor Methanex's Board expects", config,
+            bold_prefix="Board-Level Communication")
+
+        # Section: The Semantic Fit
+        add_section_header(doc, "The Semantic Fit", config)
+        add_body(doc, (
+            "Methanex operates on a strategic framework: Leadership, Low Cost, Operational Excellence. "
+            "The culture is defined by The Power of Agility. The value system is Integrity, Trust, Respect, "
+            "Professionalism — underwritten by Responsible Care.\n\n"
+            "Aman's career is a case study in this exact operating model:"
+        ), config, size=Pt(10.5))
+        add_bullet(doc,
+            "Built the strategic system that governed 70 people across 32 locations. Did not inherit leadership — created it.", config, bold_prefix="Leadership")
+        add_bullet(doc,
+            "Managed P&L across 12 departments. Built the financial models that optimized resource allocation. Every dollar had a decision behind it.", config, bold_prefix="Low Cost")
+        add_bullet(doc,
+            "Designed governance rhythms, hiring frameworks, training programs, quality standards. Built the machine that ran without him.", config, bold_prefix="Operational Excellence")
+        add_bullet(doc,
+            "Navigated a 3-person startup through growth to a $17M exit. When the acquisition hit, structured 8 workstreams in days.", config, bold_prefix="Power of Agility")
+        add_bullet(doc,
+            "Coordinated 5 clinic groups, 12 departments, 32 locations — many operating independently before his systems brought them together.", config, bold_prefix="One Team")
+
+        # Section: The Opportunity
+        add_section_header(doc, "The Opportunity", config)
+        add_body(doc, (
+            "Methanex is 1,700 people globally, approximately 150 in Vancouver. The Director, Strategy sits in "
+            "that Vancouver HQ, serving as the connective tissue between the Board of Directors, the Executive "
+            "Leadership Team, and the operational reality of a global methanol business navigating integration, "
+            "volatility, and transition.\n\n"
+            "Aman has done exactly this — at smaller scale, in a different industry — with a clarity and rigor "
+            "that suggest something deeper than domain experience. He is not a strategist who needs to learn "
+            "execution. He is an executive who happens to call himself a strategist because that is where the "
+            "intellectual challenge lives.\n\n"
+            "Strategy is fractal. The questions are the same at every scale: Where do we allocate capital? How "
+            "do we grow? What risks do we need to manage? How do we align a global organization around a shared "
+            "plan? Aman has answered these questions in the arena. He is ready to answer them at Methanex's scale."
+        ), config, size=Pt(10.5))
+
+        # Footer
+        add_body(doc, "", config, space_after=4)
+        p = doc.add_paragraph()
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        run = p.add_run("—")
+        run.font.name = config["font"]
+        run.font.size = Pt(10)
+        run.font.color.rgb = RGBColor(150, 150, 150)
+        add_body(doc, (
+            "This document is not a resume. A resume is a record of what you have done. "
+            "This is a case for who you are, and why that identity was built for this moment at this company."
+        ), config, italic=True, size=Pt(9), space_after=0)
+
+    casepath = os.path.join(folder, f"Case_{company}_Director_Strategy.docx" if company == "Methanex" else f"Case_{company}_SrMgr_Integration.docx")
+    try:
+        doc.save(casepath)
+    except PermissionError:
+        casepath = os.path.join(lfolder, os.path.basename(casepath))
+        doc.save(casepath)
+    doc.save(os.path.join(lfolder, os.path.basename(casepath)))
+    print(f"Case:    {casepath}")
     print("Done.")
 
 if __name__ == "__main__":
