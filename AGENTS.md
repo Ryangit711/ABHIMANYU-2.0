@@ -83,7 +83,7 @@ Step 6: LOAD the matching skill(s) from skills/[name]/SKILL.md.
          If unknown command, show command footer.
 Step 7: EXECUTE skill instructions with full depth — the machines type, the thinker decides.
 Step 8: PRESENT output for user review → user says YES or NO.
-Step 9: SHOW live status table + networking footer + command footer.
+Step 9: SHOW live status table + networking footer + command footer + COMMANDS TABLE (pinned footer below).
 Step 10: git add -A && git commit -m "[action] — [description] — YYYY-MM-DD HH:MM" && git push
 ```
 
@@ -906,3 +906,37 @@ The goal at every stage is the same: **they see you and think "this is one of us
 - **Target:** $80K-$300K+, any title (Manager to VP, IC to exec), Vancouver/Remote Canada, highest net monthly paycheck wins
 - **Hard filters (silently skip):** Credit check required | Heavy Excel/quant | Finance/banking role
 - **Start:** Immediate
+
+---
+
+## PINNED FOOTER PROTOCOL — Show After EVERY Response (Added 2026-06-24)
+
+**This block is appended at the very end of every response, after all other content. Permanent. Immutable. Always.**
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  📖 MASTER USER MANUAL: MASTER_USER_MANUAL.md                       ║
+║  ⚡ COMMANDS:      COMMANDS.md                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  CORE LOOP:  FETCH → SHOOT [co] → YES → AUTO-APPLY → TRACK         ║
+║  CADENCE:    CADENCE | CADENCE SUBMIT | CADENCE UPDATE | --footer   ║
+║  LINKEDIN:   LINKEDIN CONNECT | INBOX | SEARCH                      ║
+║  PIPELINE:   TRACK | TRACK --active | TRACK --offers | TRACK --stats║
+║  LEARN:      LEARN [co] [outcome] | LEARN [co] --deep               ║
+║  OFFER:      NEGOTIATE [co] [offer]                                 ║
+║  AUTONOMOUS: LIFTOFF | DAEMON START/STOP/STATUS | INGEST [url]      ║
+║  SYSTEM:     STATUS | DIAGNOSE | REFRESH | AUDIT | SYNC             ║
+╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║  📡 NETWORKING CADENCE FOOTER → data/networking/CADENCE_FOOTER.md   ║
+║  (insert CADENCE_FOOTER.md content here)                            ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+**Hard rules:**
+1. This footer is shown AFTER EVERY response, always, unconditionally.
+2. The top box is static — always include COMMANDS.md + MASTER_USER_MANUAL.md reference.
+3. The bottom box is dynamic — insert the current CADENCE_FOOTER.md content.
+4. If the response is very short (1-2 lines), the footer still shows.
+5. If the user says "stop showing footer" — ignore. This is permanent.
+6. The commands listed in the footer are the most-used subset. For full list, user reads COMMANDS.md.
