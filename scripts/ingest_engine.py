@@ -249,7 +249,16 @@ def write_intel(url, classification, linked, caption, image_texts, transcript, c
     return True
 
 
+def _summarize(text, maxlen=180):
+    first_line = text.split("\n")[0].strip()
+    if len(first_line) <= maxlen:
+        return first_line
+    truncated = first_line[:maxlen]
+    last_space = truncated.rfind(" ")
+    return truncated[:last_space] + "..." if last_space > 0 else truncated + "..."
+
 def update_learned(classification, caption, transcript):
+    summary = _summarize(caption)
     for cat in classification:
         if cat == "salary":
             f = LEARNED_DIR / "compensation.md"
@@ -257,21 +266,21 @@ def update_learned(classification, caption, transcript):
             with open(f, mode) as fh:
                 if mode == "w":
                     fh.write("# Compensation Intelligence\n\n")
-                fh.write(f"- INGEST {datetime.now().strftime('%Y-%m-%d')}: {caption[:200]}\n")
+                fh.write(f"- INGEST {datetime.now().strftime('%Y-%m-%d')}: {summary}\n")
         elif cat == "interview":
             f = LEARNED_DIR / "interviews.md"
             mode = "a" if f.exists() else "w"
             with open(f, mode) as fh:
                 if mode == "w":
                     fh.write("# Interview Intelligence\n\n")
-                fh.write(f"- INGEST {datetime.now().strftime('%Y-%m-%d')}: {caption[:200]}\n")
+                fh.write(f"- INGEST {datetime.now().strftime('%Y-%m-%d')}: {summary}\n")
         elif cat == "market":
             f = PIPELINE_DIR / "market_intel.md"
             mode = "a" if f.exists() else "w"
             with open(f, mode) as fh:
                 if mode == "w":
                     fh.write("# Market Intelligence\n\n")
-                fh.write(f"- INGEST {datetime.now().strftime('%Y-%m-%d')}: {caption[:200]}\n")
+                fh.write(f"- INGEST {datetime.now().strftime('%Y-%m-%d')}: {summary}\n")
 
 
 def update_fit_maps(linked_companies, caption):
