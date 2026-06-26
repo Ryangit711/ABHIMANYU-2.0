@@ -1,40 +1,34 @@
-# PIPELINE TRACKER — Live Kanban
+# Pipeline Tracker — Updated 2026-06-25
 
-Updated: 2026-06-24 18:30 — Indeed ❌ REJECTED — learning captured
+## Active Applications
 
-## Verified Status
+| Company | Role | Pipe | Salary | Stage | T+Days | Next Action | Notes |
+|---------|------|------|--------|-------|--------|-------------|-------|
+| **UBC** | Sr Mgr Strategic Initiatives & Engagement | I | $91K–$143K | 🔵 SHOT | D0 | Review package, say YES to deploy | 8/10 fit, Indeed, 24h fresh |
 
-| Status | Company | Role | Salary | ~Net/Mo | Stage | Reality |
-|:------:|---------|------|:------:|:-------:|:-----:|---------|
-| ✅ | **DoorDash Canada** | Mgr, S&O – Dasher & Logistics | $148K-$185K | $7.9K-$9.5K | **SUBMITTED** | ✅ Live on Greenhouse |
-| 🔵 | **Providence Healthcare** | Dir, Clinical & Operations | $130.9K-$188.1K | $7.2K-$9.7K | **SHOT — SUBMIT NOW** | ✅ Still live (Jun 18) |
-| ❌ | **Indeed** | Sr Mgr, Integration | $133K-$199K | $7.2K-$9.9K | REJECTED D3 | 💡 Screening rejection — ATS/keyword mismatch likely |
-| 🟢 | FMD Services | Dir, Strategy & Execution | $150K-$195K | $8.0K-$9.7K | LIVE | ❓ Need 24h freshness check |
-| 🟢 | Jobber | Sr Mgr, Product Marketing | $155.2K-$204.5K | $8.2K-$10.1K | LIVE | ❓ Need 24h freshness check |
-| 🟡 | Coast Mountain Bus | Sr Dir, Bus Transformation | $146K-$219K | $7.9K-$10.6K | LIVE | ⚠️ Credit check unverified |
-| 🟡 | BC Rapid Transit | Sr Mgr, Asset Integration | $120.6K-$180.8K | $6.8K-$9.2K | LIVE | ⚠️ Credit check possible per policy |
-| 🟢 | BC 1 Call | Dir, Strategic Ops | $130K-$140K | $7.1K-$7.5K | LIVE | ❓ Need 24h freshness check |
-| 🟢 | Providence Healthcare | Sr Mgr, Strategic Projects | $106K-$153K | $6.1K-$7.9K | RECOVERED | ❓ Need freshness check |
-| 🟢 | CGI | Director Consulting Svcs | $110K-$210K | $6.3K-$10.3K | LIVE | ❓ Need 24h freshness check |
-| 🟢 | EA | Ops & Process Lead | $92.9K-$129.2K | $5.5K-$7.0K | RECOVERED | ❓ Need freshness check |
+## Pipeline Summary
 
-## Silently Removed (Expired/Dead)
-| Target | Reason |
-|--------|--------|
-| ~~EA SPORTS Sr Dir FC Franchise Strategy ($190.5K-$267.3K)~~ | Role NOT live on EA careers. Listing was stale. |
-| ~~BC Cancer Dir Clinical Operations ($128K-$184K)~~ | Role expired on PHSA. |
-| ~~Accenture Performance Strategy Mgr~~ | Role freshness unconfirmed — needs recheck |
-| ~~EA Dev Director Technical Operations~~ | JD needed to verify quant risk |
+- **Total Active:** 1
+- **SHOTS (pending approval):** 1
+- **Submitted:** 0
+- **Callbacks:** 0
+- **Offers:** 0
+- **Rejected:** 0
 
-## Top Priority — RIGHT NOW
-1. **SUBMIT Providence** → Open browser → career.providencehealthcare.ca → upload 3 DOCX files → submit
-2. **REFRESH FETCH** → Sweep all sources for NEW 24h jobs posted today (Jun 24 has fresh roles)
-3. ~~**Indeed follow-up** → D3 callback window — REJECTED~~ ✅ Learnings captured
+---
 
-## Pipeline Stats
-- Ready to Submit: **2** (Providence Dir, DoorDash Canada)
-- Submitted: **0** 
-- Rejected: **1** (Indeed — screening, keyword/ATS)
-- Needs SHOOT Package: **4** (FMD, Jobber, BC 1 Call, CGI)
-- Needs Freshness Check: **6**
-- Expired/Dead: **2**
+## UBC — Senior Manager, Strategic Initiatives and Engagement
+
+- **Applied:** 2026-06-25
+- **Source:** Indeed
+- **Fit Score:** 8/10
+- **Salary Range:** $91K–$143K
+- **Apply Via:** Indeed
+- **Pipe:** I (Internal Strategy/Corporate)
+- **Positioning:** Strategy-Execution Bridge — board-level communication + hands-on operations
+- **Key Fit Factors:** Strategic planning frameworks (built from zero), P&L ownership ($4M ARR), 12-department budget management, stakeholder engagement across 5 groups, governance/compliance, $17M acquisition leadership
+- **Files:** /home/aryan/opencode_test/2026-06-25/UBC/SHOOT_UBC.md
+
+---
+
+*Last updated: 2026-06-25 by ABHIMANYU 2.0*

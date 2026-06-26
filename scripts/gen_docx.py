@@ -69,6 +69,30 @@ CONFIG = {
         "margins": Inches(0.75),
         "pages": 1,
         "ats_notes": "DoorDash Greenhouse ATS — DOCX, Liberation Sans 10pt, 0.75in margins"
+    },
+    "UBC": {
+        "font": "Liberation Sans",
+        "size": Pt(10),
+        "header_size": Pt(12),
+        "margins": Inches(0.75),
+        "pages": 1,
+        "ats_notes": "UBC / Indeed ATS — DOCX, Liberation Sans 10pt, 0.75in margins, public sector format"
+    },
+    "Practice_Better": {
+        "font": "Liberation Sans",
+        "size": Pt(10),
+        "header_size": Pt(12),
+        "margins": Inches(0.75),
+        "pages": 2,
+        "ats_notes": "Practice Better Greenhouse ATS — DOCX, Liberation Sans 10pt, 0.75in margins"
+    },
+    "RAM_Consulting": {
+        "font": "Liberation Sans",
+        "size": Pt(10),
+        "header_size": Pt(12),
+        "margins": Inches(0.75),
+        "pages": 2,
+        "ats_notes": "RAM Consulting DayforceHCM ATS — DOCX, Liberation Sans 10pt, 0.75in margins, project delivery focus"
     }
 }
 
@@ -203,7 +227,10 @@ def get_date(company):
         "Deloitte": "2026-06-19",
         "Hiive": "2026-06-22",
         "Providence_Healthcare": "2026-06-22",
-        "DoorDash_Canada": "2026-06-24"
+        "DoorDash_Canada": "2026-06-24",
+        "UBC": "2026-06-25",
+        "Practice_Better": "2026-06-25",
+        "RAM_Consulting": "2026-06-25"
     }
     return DATES.get(company, "2026-06-22")
 
@@ -247,6 +274,13 @@ def generate(company):
             "Led the complete technology transformation, owned end-to-end P&L, and delivered a $17M exit. "
             "Built marketplace-style incentive systems balancing worker earnings with cost efficiency — directly transferable to Dasher pay strategy. "
             "Also led cross‑functional teams across 12 departments, delivering board‑level insights and strategic alignment.", config)
+    elif company == "Practice_Better":
+        add_body(doc,
+            "Revenue operations executive who architected the complete RevOps infrastructure for a multi-site healthcare "
+            "SaaS business from zero to $4M ARR across 32 locations, then directed through a $17M exit. "
+            "Combines a builder's instinct for scalable systems with an operator's discipline for SaaS metrics (MRR, ARR, churn, CAC, LTV), "
+            "pipeline integrity, and cross-functional GTM execution. Proven ability to own the revenue operations function end-to-end "
+            "for a scaling healthcare SaaS company.", config)
     else:
         add_body(doc,
             "Operations executive who built multi-site operational infrastructure from scratch, "
@@ -274,6 +308,12 @@ def generate(company):
             "Marketplace Operations  |  Pay & Incentive Design  |  P&L Management  |  "
             "Cross-Functional Leadership  |  Behavioral Economics  |  Data-Driven Strategy  |  "
             "0-to-1 Scaling  |  Operational Excellence", config, size=Pt(9.5))
+    elif company == "Practice_Better":
+        add_body(doc,
+            "Revenue Operations  |  SaaS Metrics (MRR, ARR, Churn, CAC, LTV)  |  P&L Management  |  "
+            "Revenue Cycle Management  |  GTM Alignment  |  Pipeline Management  |  Forecasting & Budgeting  |  "
+            "Process Optimization  |  Workflow Automation  |  EHR / Practice Management Platforms  |  "
+            "KPI Dashboard Design  |  SaaS Scaling Infrastructure  |  Team Building (3$\\rightarrow$70 FTEs)", config, size=Pt(9.5))
     else:
         add_body(doc,
             "M&A Integration  |  Cross-Functional Program Management  |  Operational Infrastructure  |  "
@@ -391,6 +431,64 @@ def generate(company):
         add_bullet(doc,
             " — negotiated vendor contracts and technology procurement, achieving 12% cost savings while maintaining service quality",
             config, bold_prefix="Vendor Management & Cost Savings")
+    elif company == "UBC":
+        add_body(doc,
+            "Directed end-to-end operations for a multi-site healthcare organization. Served as the primary "
+            "strategic and operational leader, building governance frameworks, stakeholder engagement "
+            "processes, and financial infrastructure from zero.", config, italic=True, size=Pt(9.5))
+        add_bullet(doc,
+            " — built company-wide strategic planning framework across 5 annual cycles: board-level strategy "
+            "sessions, departmental OKR cascades, quarterly performance reviews — delivering 100% alignment "
+            "on annual priorities across 5 clinic groups and 12 departments",
+            config, bold_prefix="Strategic Planning & Governance")
+        add_bullet(doc,
+            " — managed full P&L ownership for $4M ARR organization: department-level budgets, variance "
+            "analysis, multi-scenario forecasting, and board-ready financial reporting across 12 departments",
+            config, bold_prefix="Budget & Financial Management")
+        add_bullet(doc,
+            " — directed end-to-end $17M acquisition: 8 concurrent due diligence workstreams, Day 1 readiness, "
+            "90-day systems consolidation across 32 locations, 100% key talent retention",
+            config, bold_prefix="Acquisition & Integration Leadership")
+        add_bullet(doc,
+            " — built operational governance framework satisfying both internal accountability requirements and "
+            "external regulatory review (HIPAA, state licensing) across 5 jurisdictions",
+            config, bold_prefix="Compliance & Regulatory Governance")
+        add_bullet(doc,
+            " — stakeholder engagement across 12 departments, 5 clinic groups with competing priorities: "
+            "established monthly check-in cadences, escalation frameworks, and prioritization matrices",
+            config, bold_prefix="Stakeholder Engagement & Alignment")
+    elif company == "Practice_Better":
+        add_body(doc,
+            "Architected the complete revenue operations infrastructure for a multi-site healthcare SaaS business "
+            "from zero to \$4M ARR across 32 locations — built the systems, teams, and processes that converted "
+            "pipeline into predictable, scalable revenue.", config, italic=True, size=Pt(9.5))
+        add_bullet(doc,
+            " — built end-to-end revenue operations from zero: EHR, billing, scheduling, RCM, and analytics — "
+            "designed and implemented the entire tech stack from scratch — scaled from 3 to 70 employees "
+            "across 32 locations without adding operational complexity",
+            config, bold_prefix="Revenue Operations Infrastructure")
+        add_bullet(doc,
+            " — architected SaaS metrics framework: MRR, ARR, churn, CAC, LTV, and payback period — "
+            "built KPI dashboards replacing manual spreadsheets — reduced reporting lag by 30%, "
+            "enabled real-time data-driven decisions across all 32 locations",
+            config, bold_prefix="SaaS Metrics & Data Infrastructure")
+        add_bullet(doc,
+            " — identified and eliminated revenue lifecycle bottlenecks: automated billing workflows, "
+            "replaced manual reconciliation with real-time RCM, reduced administrative overhead by 40%+",
+            config, bold_prefix="Pipeline Management & Optimization")
+        add_bullet(doc,
+            " — managed full P&L ownership for \$4M ARR organization: budget planning, variance analysis, "
+            "resource allocation, and multi-scenario forecasting across 12 departments",
+            config, bold_prefix="P&L Ownership & Forecasting")
+        add_bullet(doc,
+            " — directed full-cycle \$17M acquisition: 8 due diligence workstreams, integration playbook, "
+            "Day 1/100 milestones, systems consolidation across 8$\\rightarrow$1 unified platform, "
+            "100% key talent retention",
+            config, bold_prefix="M&A Revenue Integration")
+        add_bullet(doc,
+            " — coordinated cross-functional GTM alignment: sales, operations, finance, and clinical teams — "
+            "reduced pipeline variance from 40% to under 10% through unified reporting and accountability",
+            config, bold_prefix="GTM Alignment & Cross-Functional Leadership")
     else:
         add_body(doc,
             "Directed end-to-end operations for a multi-site healthcare group. Served as the primary "
@@ -445,6 +543,12 @@ def generate(company):
             "ERP/Financial Systems  |  SQL  |  Excel/Google Sheets (advanced modeling)  |  "
             "Data Analysis  |  Project Management Tools",
             config, size=Pt(9))
+    elif company == "Practice_Better":
+        add_body(doc,
+            "Revenue Operations Platforms  |  EHR / Practice Management (Athenahealth, eClinicalWorks)  |  "
+            "G Suite  |  CRM Platforms  |  KPI Dashboard Design  |  Financial Modeling  |  "
+            "OKR Frameworks  |  Jira / Confluence  |  Data Visualization",
+            config, size=Pt(9))
     else:
         add_body(doc,
             "Athenahealth  |  eClinicalWorks  |  CRM Platforms  |  Google Workspace  |  "
@@ -459,6 +563,10 @@ def generate(company):
         role_str = "Director_Clinical_Operations"
     elif company == "DoorDash_Canada":
         role_str = "Manager_SO_Dasher_Logistics"
+    elif company == "UBC":
+        role_str = "SrMgr_Strategic_Initiatives"
+    elif company == "Practice_Better":
+        role_str = "Director_Revenue_Operations"
     else:
         role_str = "SrMgr_Integration"
 
@@ -484,7 +592,7 @@ def generate(company):
     add_plain_run(cover_contact, "  |  ", config["font"], Pt(9), color="505050")
     add_hyperlink_contact(cover_contact, "LinkedIn", f"https://{LINKEDIN}", config["font"], Pt(9))
     add_body(doc, LOCATION, config, size=Pt(9), space_after=4)
-    DATE_LABELS = {"Indeed": "June 20, 2026", "Methanex": "June 21, 2026", "Deloitte": "June 19, 2026", "Hiive": "June 22, 2026", "Providence_Healthcare": "June 22, 2026", "DoorDash_Canada": "June 24, 2026"}
+    DATE_LABELS = {"Indeed": "June 20, 2026", "Methanex": "June 21, 2026", "Deloitte": "June 19, 2026", "Hiive": "June 22, 2026", "Providence_Healthcare": "June 22, 2026", "DoorDash_Canada": "June 24, 2026", "UBC": "June 25, 2026"}
     add_body(doc, DATE_LABELS.get(company, "June 22, 2026"), config, space_after=8)
 
     if company == "Methanex":
@@ -603,6 +711,74 @@ def generate(company):
             "that changes that.\n\n"
             "I want to help you clear the bottlenecks.\n\n"
             "I am based in Vancouver and ready to be in your HQ five days a week."
+        )
+    elif company == "UBC":
+        add_body(doc, "UBC Human Resources", config, space_after=0)
+        add_body(doc, "University of British Columbia, Vancouver, BC", config, space_after=8)
+        add_body(doc, "Re: Senior Manager, Strategic Initiatives and Engagement", config, bold=True, space_after=8)
+
+        body = (
+            "Dear Hiring Committee,\n\n"
+            "UBC's Shaping UBC's Next Century plan articulates an ambitious mandate: deliver strategic priorities "
+            "through disciplined resource allocation, stakeholder engagement, and institutional effectiveness. "
+            "The Senior Manager, Strategic Initiatives and Engagement role sits at the center of this mandate. "
+            "This is exactly where I deliver the most value.\n\n"
+            "I spent eight years building the strategic and operational infrastructure for a multi-site organization "
+            "from scratch. When I joined, there were 3 people, no governance structure, and no strategic planning "
+            "process. When I left, it was 70 people across 32 locations with a $17M acquisition that I directed "
+            "end-to-end. The strategic planning system I built --- annual strategy sessions cascading through "
+            "departmental OKRs, board-level reporting, and quarterly performance reviews --- gave executive leadership "
+            "real-time visibility into execution across every location. The budget frameworks I designed governed "
+            "resource allocation across 12 departments. The acquisition I led involved 8 concurrent workstreams and "
+            "an integration that retained 100% of key talent.\n\n"
+            "What made this possible was not a pre-existing playbook. I created it --- the governance rhythms, "
+            "the strategic planning cycles, the financial models, the stakeholder engagement frameworks, the policy "
+            "documentation systems --- all from scratch, across a complex, multi-jurisdictional operating environment. "
+            "I learned that strategic leadership in complex institutions is not about having all the answers. It is "
+            "about building the process that surfaces the right questions, engages the right stakeholders, and delivers "
+            "the right outcomes.\n\n"
+            "UBC faces exactly the challenges I have solved: how to allocate constrained resources across competing "
+            "strategic priorities, how to align diverse stakeholders around shared goals, how to build governance "
+            "frameworks that satisfy both institutional accountability and external transparency, how to translate "
+            "strategic intent into operational reality across a large, complex organization. I have navigated this "
+            "complexity in healthcare. I am ready to navigate it at UBC.\n\n"
+            "I am drawn to UBC because it is the intellectual backbone of British Columbia's future. I want to "
+            "contribute to that future as someone who builds --- not as an observer, but as a practitioner who has "
+            "delivered strategic infrastructure at scale. My MBA, my 8 years of progressive operational leadership, "
+            "and my $17M acquisition experience have prepared me to do exactly what this role requires.\n\n"
+            "I would welcome the opportunity to discuss how my experience building strategic and operational "
+            "infrastructure can support UBC's next chapter of academic excellence and institutional impact."
+        )
+    elif company == "Practice_Better":
+        add_body(doc, "Practice Better", config, space_after=0)
+        add_body(doc, "Toronto, ON (Remote Canada)", config, space_after=8)
+        add_body(doc, "Re: Director of Revenue Operations", config, bold=True, space_after=8)
+
+        body = (
+            "Dear Hiring Manager,\n\n"
+            "I build revenue operations infrastructure. I've done it from zero, scaled it to $4M ARR, "
+            "and delivered a $17M exit. That's the exact journey Practice Better is on right now --- "
+            "and I want to be the operator who builds what comes next.\n\n"
+            "When I joined SkyflyMD, there was no revenue operations system. No billing infrastructure, "
+            "no scheduling automation, no KPI visibility. By the time I directed the $17M exit, we had "
+            "a complete revenue operations stack spanning 32 locations: EHR, billing, RCM, analytics, "
+            "and forecasting --- all built in-house, all scaled from zero to support 70 employees and "
+            "$4M ARR. I didn't inherit a system. I built one.\n\n"
+            "What makes this relevant to Practice Better is what I learned building that system: in healthcare "
+            "SaaS, revenue operations is not just about pipeline management. It's about aligning clinical "
+            "workflows with financial outcomes --- making sure the GTM engine and the product engine speak "
+            "the same language. That's the gap I've seen most scaling healthcare SaaS companies struggle with, "
+            "and that's exactly what I've solved.\n\n"
+            "At SkyflyMD, I also managed the full P&L --- $4M ARR across 12 departments. I built the "
+            "forecasting models, the variance analysis frameworks, and the board-level reporting that gave "
+            "executive leadership real-time visibility. I know what it means to own the numbers and be "
+            "accountable for them.\n\n"
+            "I'm targeting Director of Revenue Operations roles at scaling healthcare SaaS companies because "
+            "this is the exact problem I've already solved. Practice Better is at the stage where the founder "
+            "can't own revenue ops alone anymore --- and that's where I come in. I build the function, hire "
+            "the team, and create the infrastructure that makes the next phase of growth inevitable.\n\n"
+            "I would welcome the opportunity to discuss how my experience building and scaling revenue "
+            "operations for healthcare SaaS can support Practice Better's next chapter."
         )
     else:
         add_body(doc, "Indeed", config, space_after=0)
