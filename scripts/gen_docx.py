@@ -109,6 +109,14 @@ CONFIG = {
         "margins": Inches(0.75),
         "pages": 2,
         "ats_notes": "KPMG ICIMS ATS — DOCX, Liberation Sans 10pt, 0.75in margins, Director program delivery"
+    },
+    "Microsoft": {
+        "font": "Segoe UI",
+        "size": Pt(10),
+        "header_size": Pt(12),
+        "margins": Inches(0.75),
+        "pages": 2,
+        "ats_notes": "Microsoft Workday ATS — DOCX, Segoe UI 10pt, 0.75in margins, Sr TPM Security"
     }
 }
 
@@ -248,7 +256,8 @@ def get_date(company):
         "Practice_Better": "2026-06-25",
         "RAM_Consulting": "2026-06-25",
         "BWZ": "2026-06-25",
-        "KPMG": "2026-06-25"
+        "KPMG": "2026-06-25",
+        "Microsoft": "2026-06-25"
     }
     return DATES.get(company, "2026-06-22")
 
@@ -313,6 +322,13 @@ def generate(company):
             "delivery (P&L ownership, governance, cross-functional leadership) with the strategic framing of a "
             "consultant (board-level reporting, business case development, digital transformation advisory). "
             "MBA + BSc IT. Builder who can also advise.", config)
+    elif company == "Microsoft":
+        add_body(doc,
+            "Senior technical program management leader with 8+ years building and scaling a multi-site enterprise "
+            "from 3 to 70 people, 32 locations, and $4M ARR — culminating in a $17M exit. Expertise in defining "
+            "operational readiness frameworks, leading cross-functional technology transformations, managing complex "
+            "programs across distributed teams, and translating strategic priorities into measurable outcomes. "
+            "MBA-trained with deep P&L ownership and executive-level communication.", config)
     else:
         add_body(doc,
             "Operations executive who built multi-site operational infrastructure from scratch, "
@@ -358,6 +374,12 @@ def generate(company):
             "Cross-Functional Leadership  |  Strategic Planning & OKRs  |  M&A & Integration  |  "
             "Client Relationship Management  |  Business Case Development  |  Risk Management  |  "
             "Board-Level Reporting & Stakeholder Engagement", config, size=Pt(9.5))
+    elif company == "Microsoft":
+        add_body(doc,
+            "Technical Program Management  |  Cross-Functional Leadership  |  Operational Readiness Frameworks  |  "
+            "Strategic Planning & Execution  |  Technology Transformation  |  P&L Management  |  "
+            "Governance & Compliance  |  Executive Communication  |  M&A Integration  |  "
+            "KPI & Metrics Design  |  AI-Augmented Workflows  |  Stakeholder Management", config, size=Pt(9.5))
     else:
         add_body(doc,
             "M&A Integration  |  Cross-Functional Program Management  |  Operational Infrastructure  |  "
@@ -592,6 +614,34 @@ def generate(company):
             " — led cross-functional teams across 12 departments, 6 clinical and operational functions — "
             "managed 70 FTEs through hypergrowth, built hiring frameworks, training programs, and quality standards",
             config, bold_prefix="Cross-Functional Leadership & Team Building")
+    elif company == "Microsoft":
+        add_body(doc,
+            "Built and scaled a multi-site enterprise from 3 to 70 people, 32 locations, and $4M ARR — "
+            "then directed a $17M exit. Served as the primary operator, systems architect, and program "
+            "manager defining how work got done at scale.", config, italic=True, size=Pt(9.5))
+        add_bullet(doc,
+            " — defined and scaled operational readiness frameworks, success metrics, and governance processes "
+            "across clinical, financial, compliance, and technology domains — enabling growth from 3 to 70 FTEs "
+            "across 32 geographically distributed locations",
+            config, bold_prefix="Operational Readiness Frameworks")
+        add_bullet(doc,
+            " — led cross-functional technology transformation: designed and implemented EHR, billing, scheduling, "
+            "and RCM platform across 32 locations — managed program dependencies, vendor selection, stakeholder "
+            "alignment, and rollout sequencing",
+            config, bold_prefix="Technology Transformation Programs")
+        add_bullet(doc,
+            " — managed $4M ARR P&L, built board-level reporting dashboards, investor communications, and "
+            "executive strategy cadence — translated operational signals into executive insights for a $17M exit",
+            config, bold_prefix="Program Metrics & Executive Communication")
+        add_bullet(doc,
+            " — led cross-functional integration programs spanning M&A, technology, compliance, and operations — "
+            "aligned priorities across 7+ departments with competing objectives, built governance frameworks "
+            "with clear decision rights",
+            config, bold_prefix="Cross-Organizational Program Leadership")
+        add_bullet(doc,
+            " — designed customer feedback loops, operational dashboards, and KPI frameworks that directly "
+            "informed product roadmaps, service improvements, and strategic resource allocation decisions",
+            config, bold_prefix="Customer Feedback → Product Strategy")
     else:
         add_body(doc,
             "Directed end-to-end operations for a multi-site healthcare group. Served as the primary "
@@ -664,6 +714,12 @@ def generate(company):
             "Data Visualization & KPI Dashboards  |  Financial Modeling & Analysis  |  "
             "AI-Augmented Workflows  |  OKR Frameworks  |  Project Management Tools (Jira, Confluence)  |  "
             "Cross-Functional Leadership Tools", config, size=Pt(9))
+    elif company == "Microsoft":
+        add_body(doc,
+            "Program Management & Governance Frameworks  |  Operational Readiness & Scale  |  "
+            "Data Visualization & KPI Dashboards  |  AI-Augmented Workflows  |  "
+            "ERP / Financial Systems  |  OKR Frameworks  |  Project Management Tools (Jira, Confluence)  |  "
+            "Cross-Functional Collaboration Platforms  |  Executive Communication Tools", config, size=Pt(9))
     else:
         add_body(doc,
             "Athenahealth  |  eClinicalWorks  |  CRM Platforms  |  Google Workspace  |  "
@@ -686,6 +742,8 @@ def generate(company):
         role_str = "Strategy_Ops_Manager"
     elif company == "KPMG":
         role_str = "Director_Delivery_Services"
+    elif company == "Microsoft":
+        role_str = "SrTPM_Security"
     else:
         role_str = "SrMgr_Integration"
 
@@ -711,7 +769,7 @@ def generate(company):
     add_plain_run(cover_contact, "  |  ", config["font"], Pt(9), color="505050")
     add_hyperlink_contact(cover_contact, "LinkedIn", f"https://{LINKEDIN}", config["font"], Pt(9))
     add_body(doc, LOCATION, config, size=Pt(9), space_after=4)
-    DATE_LABELS = {"Indeed": "June 20, 2026", "Methanex": "June 21, 2026", "Deloitte": "June 19, 2026", "Hiive": "June 22, 2026", "Providence_Healthcare": "June 22, 2026", "DoorDash_Canada": "June 24, 2026", "UBC": "June 25, 2026", "BWZ": "June 25, 2026", "KPMG": "June 25, 2026"}
+    DATE_LABELS = {"Indeed": "June 20, 2026", "Methanex": "June 21, 2026", "Deloitte": "June 19, 2026", "Hiive": "June 22, 2026", "Providence_Healthcare": "June 22, 2026", "DoorDash_Canada": "June 24, 2026", "UBC": "June 25, 2026", "BWZ": "June 25, 2026", "KPMG": "June 25, 2026", "Microsoft": "June 25, 2026"}
     add_body(doc, DATE_LABELS.get(company, "June 22, 2026"), config, space_after=8)
 
     if company == "Methanex":
@@ -948,6 +1006,38 @@ def generate(company):
             "that's a founder story I deeply understand because I lived my own version of it.\n\n"
             "I'd welcome the chance to talk about how I can help BWZ bring order to the messy middle "
             "while keeping the builder spirit that got you here."
+        )
+    elif company == "Microsoft":
+        add_body(doc, "Microsoft Security", config, space_after=0)
+        add_body(doc, "Vancouver, BC", config, space_after=8)
+        add_body(doc, "Re: Senior Technical Program Manager — Security", config, bold=True, space_after=8)
+
+        body = (
+            "Dear Hiring Manager,\n\n"
+            "I read about Microsoft Security's 'Getting Customers Ready for AI' initiative and recognized "
+            "something familiar: the challenge of defining operational readiness at scale for a complex, "
+            "rapidly evolving domain. I've done exactly this before — not in security, but in healthcare, "
+            "which has the same dynamics: regulation, distributed stakeholders, high-stakes outcomes, "
+            "and the gap between wanting to adopt new technology and actually being ready to do it safely.\n\n"
+            "I built a multi-site enterprise from 3 to 70 people, 32 locations, and $4M ARR — then "
+            "directed a $17M exit. The defining achievement was not the growth itself but the operational "
+            "infrastructure I built to make that growth sustainable: readiness frameworks that governed "
+            "how we deployed technology, onboarded locations, trained teams, and measured success. "
+            "Every new location followed the same process: assess readiness, build the baseline, deploy, "
+            "measure, iterate. That framework turned chaos into repeatable scale.\n\n"
+            "That's exactly what this role owns — defining the frameworks, metrics, and operational "
+            "processes that help enterprises confidently prepare for AI adoption. The domains differ, "
+            "but the skill is identical: building the system that makes readiness repeatable.\n\n"
+            "What excites me about Microsoft specifically is the scope. Microsoft Security spans identity "
+            "(Entra), data (Purview), threat protection (Defender), SIEM (Sentinel), and AI security "
+            "(Security Copilot). Your Security Dashboard for AI (launched 2026) is exactly the kind of "
+            "product that needs operational readiness frameworks to drive adoption at enterprise scale. "
+            "The Forrester TEI study showing 124% ROI from security consolidation validates what I've "
+            "always believed: readiness isn't a cost center — it's a value driver.\n\n"
+            "I hold an MBA and 8 years building and scaling operational readiness in a complex, "
+            "multi-stakeholder environment. I'm ready to bring that builder mindset to Microsoft Security.\n\n"
+            "I would welcome the opportunity to discuss how my experience building readiness frameworks "
+            "at scale can support Microsoft Security's mission to help enterprises adopt AI securely."
         )
     else:
         add_body(doc, "Indeed", config, space_after=0)
