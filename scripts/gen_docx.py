@@ -101,6 +101,14 @@ CONFIG = {
         "margins": Inches(0.75),
         "pages": 2,
         "ats_notes": "BWZ Lever ATS — DOCX, Calibri 10pt, 0.75in margins, strategy & operations focus"
+    },
+    "KPMG": {
+        "font": "Liberation Sans",
+        "size": Pt(10),
+        "header_size": Pt(12),
+        "margins": Inches(0.75),
+        "pages": 2,
+        "ats_notes": "KPMG ICIMS ATS — DOCX, Liberation Sans 10pt, 0.75in margins, Director program delivery"
     }
 }
 
@@ -239,7 +247,8 @@ def get_date(company):
         "UBC": "2026-06-25",
         "Practice_Better": "2026-06-25",
         "RAM_Consulting": "2026-06-25",
-        "BWZ": "2026-06-25"
+        "BWZ": "2026-06-25",
+        "KPMG": "2026-06-25"
     }
     return DATES.get(company, "2026-06-22")
 
@@ -297,6 +306,13 @@ def generate(company):
             "and business case development for scale-stage companies. Combines a builder's hands-on execution with "
             "a strategist's ability to pressure-test ideas and turn ambiguity into actionable plans. "
             "MBA preferred, founder DNA, AI-native operator.", config)
+    elif company == "KPMG":
+        add_body(doc,
+            "Operations and program delivery executive who built a multi-site organization from 3 to 70 people, "
+            "32 locations, and $4M ARR — then directed a $17M acquisition end-to-end. Combines hands-on program "
+            "delivery (P&L ownership, governance, cross-functional leadership) with the strategic framing of a "
+            "consultant (board-level reporting, business case development, digital transformation advisory). "
+            "MBA + BSc IT. Builder who can also advise.", config)
     else:
         add_body(doc,
             "Operations executive who built multi-site operational infrastructure from scratch, "
@@ -336,6 +352,12 @@ def generate(company):
             "Cross-Functional Leadership  |  Business Modeling (Revenue, Cost, Margin)  |  P&L Management  |  "
             "AI-Augmented Workflows  |  Data Analytics & Dashboarding  |  Strategic Planning & OKRs  |  "
             "Operational Infrastructure Design", config, size=Pt(9.5))
+    elif company == "KPMG":
+        add_body(doc,
+            "Program Delivery & Governance  |  Digital Transformation  |  P&L Management  |  "
+            "Cross-Functional Leadership  |  Strategic Planning & OKRs  |  M&A & Integration  |  "
+            "Client Relationship Management  |  Business Case Development  |  Risk Management  |  "
+            "Board-Level Reporting & Stakeholder Engagement", config, size=Pt(9.5))
     else:
         add_body(doc,
             "M&A Integration  |  Cross-Functional Program Management  |  Operational Infrastructure  |  "
@@ -542,6 +564,34 @@ def generate(company):
             " — led AI-driven workflow transformation: automated billing, scheduling, and reporting processes — "
             "reduced administrative overhead by 40%+, used AI tools daily to accelerate decision-making",
             config, bold_prefix="AI-Augmented Operations")
+    elif company == "KPMG":
+        add_body(doc,
+            "Built a multi-site organization from 3 to 70 people, 32 locations, and $4M ARR — then directed "
+            "a $17M acquisition end-to-end. Served as both the builder who executed and the strategist who "
+            "designed the delivery framework.", config, italic=True, size=Pt(9.5))
+        add_bullet(doc,
+            " — directed end-to-end $17M acquisition: 8 concurrent due diligence workstreams across finance, "
+            "legal, operations, and provider contracts — built integration playbook, Day 1/100 milestones, "
+            "consolidated 8 systems into 1 unified platform, 100% key talent retention",
+            config, bold_prefix="Program Delivery & Governance")
+        add_bullet(doc,
+            " — led complete digital transformation: designed and implemented EHR, billing, scheduling, RCM, "
+            "and analytics platform across 32 locations — replaced paper-based processes with integrated tech stack",
+            config, bold_prefix="Digital Transformation")
+        add_bullet(doc,
+            " — managed full P&L ownership for $4M ARR organization: department budgets, variance analysis, "
+            "multi-scenario forecasting, capital allocation across 12 departments — presented board-ready "
+            "financial reporting to executive leadership and investors",
+            config, bold_prefix="P&L Management & Financial Reporting")
+        add_bullet(doc,
+            " — built strategic planning and governance framework from scratch: annual strategy cycles, "
+            "OKR cascades, quarterly reviews, board reporting — across 5 clinic groups, 12 departments, "
+            "32 locations, and 5 jurisdictional regulatory environments",
+            config, bold_prefix="Strategic Planning & Risk Management")
+        add_bullet(doc,
+            " — led cross-functional teams across 12 departments, 6 clinical and operational functions — "
+            "managed 70 FTEs through hypergrowth, built hiring frameworks, training programs, and quality standards",
+            config, bold_prefix="Cross-Functional Leadership & Team Building")
     else:
         add_body(doc,
             "Directed end-to-end operations for a multi-site healthcare group. Served as the primary "
@@ -608,6 +658,12 @@ def generate(company):
             "AI-Augmented Workflows  |  Project Management Tools  |  OKR Frameworks  |  "
             "ERP / Financial Systems  |  Data Visualization  |  Cross-Functional Collaboration Tools",
             config, size=Pt(9))
+    elif company == "KPMG":
+        add_body(doc,
+            "Program Management & Governance  |  ERP / Financial Systems  |  Digital Transformation Platforms  |  "
+            "Data Visualization & KPI Dashboards  |  Financial Modeling & Analysis  |  "
+            "AI-Augmented Workflows  |  OKR Frameworks  |  Project Management Tools (Jira, Confluence)  |  "
+            "Cross-Functional Leadership Tools", config, size=Pt(9))
     else:
         add_body(doc,
             "Athenahealth  |  eClinicalWorks  |  CRM Platforms  |  Google Workspace  |  "
@@ -628,6 +684,8 @@ def generate(company):
         role_str = "Director_Revenue_Operations"
     elif company == "BWZ":
         role_str = "Strategy_Ops_Manager"
+    elif company == "KPMG":
+        role_str = "Director_Delivery_Services"
     else:
         role_str = "SrMgr_Integration"
 
@@ -653,7 +711,7 @@ def generate(company):
     add_plain_run(cover_contact, "  |  ", config["font"], Pt(9), color="505050")
     add_hyperlink_contact(cover_contact, "LinkedIn", f"https://{LINKEDIN}", config["font"], Pt(9))
     add_body(doc, LOCATION, config, size=Pt(9), space_after=4)
-    DATE_LABELS = {"Indeed": "June 20, 2026", "Methanex": "June 21, 2026", "Deloitte": "June 19, 2026", "Hiive": "June 22, 2026", "Providence_Healthcare": "June 22, 2026", "DoorDash_Canada": "June 24, 2026", "UBC": "June 25, 2026", "BWZ": "June 25, 2026"}
+    DATE_LABELS = {"Indeed": "June 20, 2026", "Methanex": "June 21, 2026", "Deloitte": "June 19, 2026", "Hiive": "June 22, 2026", "Providence_Healthcare": "June 22, 2026", "DoorDash_Canada": "June 24, 2026", "UBC": "June 25, 2026", "BWZ": "June 25, 2026", "KPMG": "June 25, 2026"}
     add_body(doc, DATE_LABELS.get(company, "June 22, 2026"), config, space_after=8)
 
     if company == "Methanex":
@@ -840,6 +898,30 @@ def generate(company):
             "the team, and create the infrastructure that makes the next phase of growth inevitable.\n\n"
             "I would welcome the opportunity to discuss how my experience building and scaling revenue "
             "operations for healthcare SaaS can support Practice Better's next chapter."
+        )
+    elif company == "KPMG":
+        add_body(doc, "KPMG Canada", config, space_after=0)
+        add_body(doc, "777 Dunsmuir Street, 11th Floor, Vancouver, BC V7Y 1K3", config, space_after=8)
+        add_body(doc, "Re: Director, Delivery Services — Program Director (Req 32769)", config, bold=True, space_after=8)
+
+        body = (
+            "Dear Hiring Manager,\n\n"
+            "KPMG's clients come to you to build the kind of business I've already built. "
+            "I scaled a company from 3 people to 70, from zero to $4M ARR, from one location to 32 — "
+            "and then directed a $17M acquisition that I managed end-to-end. "
+            "I led the digital transformation, owned the P&L, built the governance frameworks, "
+            "and retained 100% of key talent through the transition.\n\n"
+            "What I've learned from that journey is directly relevant to the Director, Delivery Services role: "
+            "program delivery is not about following a playbook — it's about building one when none exists. "
+            "I designed the strategic planning system, the financial models, the governance rhythms, "
+            "and the integration playbook from scratch — across 5 clinic groups, 12 departments, "
+            "32 locations, and 5 jurisdictional regulatory environments.\n\n"
+            "I'm drawn to KPMG because you serve clients who are navigating exactly these challenges — "
+            "digital transformation, operational scaling, M&A integration, program governance. "
+            "I've done what you advise. I want to bring that lived experience to your clients.\n\n"
+            "I hold an MBA, a BSc in Information Technology, and 8 years of progressive leadership "
+            "building and delivering complex programs at scale. I would welcome the opportunity to "
+            "discuss how my program delivery experience can contribute to KPMG's Digital practice in Vancouver."
         )
     elif company == "BWZ":
         add_body(doc, "Black & White Zebra", config, space_after=0)
