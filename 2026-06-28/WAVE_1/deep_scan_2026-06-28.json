@@ -1,0 +1,1632 @@
+{
+  "scan_timestamp": "2026-06-28 22:06",
+  "config": {
+    "master_corpus": "01_MASTER_CORPUS.md",
+    "score_keywords_count": 19
+  },
+  "results": {
+    "T": [
+      {
+        "company": "Clio",
+        "pipe": "Tech / BigTech",
+        "url": "https://www.clio.com/about/careers/",
+        "slug": "clio",
+        "status": "scraped",
+        "error": null,
+        "job_count": 47,
+        "fitting_count": 2,
+        "jobs": [
+          {
+            "title": "Business Operations",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 80,
+            "passes_filters": true
+          },
+          {
+            "title": "Revenue Operations",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 80,
+            "passes_filters": true
+          },
+          {
+            "title": "Hybrid model",
+            "location": "striking the right balance between the benefits of in person connectivity that in office brings, and the flexibility of remote",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 20,
+            "passes_filters": false
+          },
+          {
+            "title": "![](https://www.clio.com/wp",
+            "location": "content/themes/clio/assets/img/offices/canada-vancouver.png)",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 20,
+            "passes_filters": false
+          },
+          {
+            "title": "[Clio](https://www.clio.com/)",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "All teams",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Content Department",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Customer Success",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Editorial Department",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Finance",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Marketing",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "People",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Product",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "All locations",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Calgary",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Dublin",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Manchester",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Sydney",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Toronto",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Vancouver",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Barcelona",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Bogot\u00e1",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Cape Town",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "London",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "New York",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Santiago",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Explore our locations",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Equitable compensation for your contributions, regardless of gender, race, or any other identifying factor",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Access to pay transparency on all of our global roles",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Company equity for applicable employees",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Flexible paid time off (4",
+            "location": "week minimum with opportunities for personalization based on individual needs and achievements)",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Parental leave options for birthing and non",
+            "location": "birthing parents",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "A $500 contribution to your child\u2019s RESP",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Virtual and In",
+            "location": "person Wellness Programs to support mental and physical health",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Paid time for volunteering through our Clio Gives program",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "$2000 annual counseling benefit for CAD Clions",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "36 Openings",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "13 Openings",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "9 Openings",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "79 Openings",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "67 Openings",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "81 Openings",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "16 Openings",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Take me to the Canadian site",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Engineering",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 0,
+            "passes_filters": false
+          },
+          {
+            "title": "Remote",
+            "location": "Australia",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 0,
+            "passes_filters": false
+          },
+          {
+            "title": "Specialized learning and development programs and access to an in",
+            "location": "house performance coach",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 0,
+            "passes_filters": false
+          }
+        ],
+        "fitting_jobs": [
+          {
+            "title": "Business Operations",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 80,
+            "passes_filters": true
+          },
+          {
+            "title": "Revenue Operations",
+            "location": "",
+            "company": "Clio",
+            "url": "https://www.clio.com/about/careers/",
+            "fit_score": 80,
+            "passes_filters": true
+          }
+        ]
+      },
+      {
+        "company": "Shopify",
+        "pipe": "Tech / BigTech",
+        "url": "https://www.shopify.com/careers",
+        "slug": "shopify",
+        "status": "scraped",
+        "error": null,
+        "job_count": 24,
+        "fitting_count": 0,
+        "jobs": [
+          {
+            "title": "Product Data Science",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Technical Program Management",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Product Design",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Design Management",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Writing",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Brand Design",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Motion Design",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Industrial Design",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Product Management",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Incubation Sales",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Integrated System Sales",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Launch Services",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Customer Success",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Partner Management",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Revenue Marketing",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Sales Acceleration",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Sales Acquisition",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Sales Development",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Software Engineering",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 0,
+            "passes_filters": false
+          },
+          {
+            "title": "Applied ML Engineering",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 0,
+            "passes_filters": false
+          },
+          {
+            "title": "Infrastructure Engineering",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 0,
+            "passes_filters": false
+          },
+          {
+            "title": "Security Engineering",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 0,
+            "passes_filters": false
+          },
+          {
+            "title": "Data Engineering",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 0,
+            "passes_filters": false
+          },
+          {
+            "title": "Technical Solution Engineering",
+            "location": "",
+            "company": "Shopify",
+            "url": "https://www.shopify.com/careers",
+            "fit_score": 0,
+            "passes_filters": false
+          }
+        ],
+        "fitting_jobs": []
+      },
+      {
+        "company": "Amazon",
+        "pipe": "Tech / BigTech",
+        "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+        "slug": "amazon",
+        "status": "scraped",
+        "error": null,
+        "job_count": 97,
+        "fitting_count": 5,
+        "jobs": [
+          {
+            "title": "Experience owning program strategy, end to end delivery, and communicating results to senior leadership",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 80,
+            "passes_filters": true
+          },
+          {
+            "title": "[Leadership principles](https://www.amazon.jobs/content/our",
+            "location": "workplace/leadership-principles)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 45,
+            "passes_filters": true
+          },
+          {
+            "title": "Experience leading and interacting with cross",
+            "location": "functional teams",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 45,
+            "passes_filters": true
+          },
+          {
+            "title": "5+ years of supply chain management (e.g. logistics, inventory turn management, forecasting, operations) experience, or Bachelor's degree",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 45,
+            "passes_filters": true
+          },
+          {
+            "title": "[Our Leadership Principles](https://www.amazon.jobs/content/en",
+            "location": "gb/our-workplace/leadership-principles)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 45,
+            "passes_filters": true
+          },
+          {
+            "title": "[Locations](https://www.amazon.jobs/en",
+            "location": "gb/locations)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[Job Categories](https://www.amazon.jobs/en",
+            "location": "gb/job_categories)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "My career",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[My applications](https://www.amazon.jobs/applicant/dashboard/applications)",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[My profile](https://www.amazon.jobs/user/details)",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[Account security](https://passport.amazon.jobs/accountInfo)",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[Settings](https://www.amazon.jobs/applicant/communication",
+            "location": "preferences)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[Sign out](https://www.amazon.jobs/logout)",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Resources",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[Disability accommodations](https://www.amazon.jobs/content/how",
+            "location": "we-hire/accommodations)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[Interview tips](https://www.amazon.jobs/content/how",
+            "location": "we-hire/interviewing-at-amazon)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[Working at Amazon](https://www.amazon.jobs/content/our",
+            "location": "workplace/working-at-amazon)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[FAQ](https://www.amazon.jobs/content/faq)",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Milan, ITA",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Job ID: 10460654",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience in transportation or supply chain",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience in business or financial analysis",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Knowledge of Microsoft Excel at an advanced level, including: pivot tables, macros, index/match, vlookup, VBA, data links, etc.",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience that includes strong analytical skills, attention to detail, and effective communication abilities",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience prioritizing and handling multiple assignments at any given time while maintaining commitment to deadlines, or experience in a fast",
+            "location": "paced, high-tech company",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "...Read more",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Virtual, TS, IND",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Job ID: 10415764",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience with Excel",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience with SQL",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience performing ad hoc analysis using advanced Excel, or experience working with large",
+            "location": "scale data mining and reporting tools (examples: SQL, MS Access, Essbase, Cognos) and other financial systems (examples: Oracle, SAP, Lawson, JD Edwards)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience managing teams who deliver on defined goals and timelines",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience using data to drive root cause elimination and process improvement",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Thane, MH, IND",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Job ID: 10440724",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience in security and loss prevention",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience with MS Office Professional Suite, including Microsoft Excel to manipulate and analyze data",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Speak, write, and read fluently in English",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Gurgaon, HR, IND",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Job ID: 10460650",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "2+ years of employee and performance management experience",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Bachelor's degree or equivalent, or 2+ years of Amazon (blue badge/FTE) experience",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Rockford, IL, USA",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Job ID: 3169615",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Work a flexible schedule/shift/work area, including weekends, nights, and/or holidays",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Bengaluru, KA, IND",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "+1 other locations",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Job ID: 10400016",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "8+ years of processing large, multi",
+            "location": "dimensional datasets from multiple sources experience",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "5+ years of SQL experience",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience programming to extract, transform and clean large (multi",
+            "location": "TB) data sets",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience with theory and practice of design of experiments and statistical analysis of results",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience with AWS technologies",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience in scripting for automation (e.g. Python) and advanced SQL skills.",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Hyderabad, TS, IND",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Job ID: 10460288",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "3+ years of non",
+            "location": "internship professional software development experience",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "2+ years of non",
+            "location": "internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience in one or more relevant front",
+            "location": "end frameworks such as React, Angular, etc.",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience designing, building, operating, and managing large",
+            "location": "scale distributed systems or web services",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Bellevue, WA, USA",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Job ID: 10451599",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "5+ years of program or project management experience",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience using data and metrics to determine and drive improvements",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience building and scaling operational mechanisms (WBRs, dashboards, escalation frameworks)",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Job ID: 10460649",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "5+ years of working cross functionally with tech and non",
+            "location": "tech teams experience",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "5+ years of delivering cross functional projects experience",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience defining program requirements and using data and metrics to determine improvements",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Kawasaki, JPN",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Job ID: 3118232",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "1+ years of corporate setting Windows, Mac or Linux Operating systems support experience",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience troubleshooting integrated and interdependent computer systems",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience maintaining zebra thermal printers, troubleshooting thin clients, PCs, scanners, and portable handheld terminals",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[](https://www.facebook.com/InsideAmazon/?Amazon.jobs=footer)",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[](https://www.linkedin.com/company/amazon?Amazon.jobs=footer)",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[](https://www.instagram.com/insideamazon/?Amazon.jobs=footer)",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[](https://twitter.com/amazonnews?Amazon.jobs=footer)",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[![](https://static.amazon.jobs/assets/Google%20Play%20Badge%20guidelines/Get%20it%20on%20Google%20Play%20Badges/Digital/GetItOnGooglePlay_Badge_Web_color_English",
+            "location": "e82d7bd1382088ba59ce6436053a7c23af749576c7facd6df9958b8b7f11e377.svg)](https://bit.ly/46JGIYu)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[Job Categories](https://www.amazon.jobs/content/en",
+            "location": "gb/job-categories)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[Teams](https://www.amazon.jobs/content/en",
+            "location": "gb/teams)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[Locations](https://www.amazon.jobs/content/en",
+            "location": "gb/locations)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[Hourly](https://www.amazon.jobs/content/en",
+            "location": "gb/hourly)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[FAQ](https://www.amazon.jobs/content/en",
+            "location": "gb/faq)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[Interview tips](https://www.amazon.jobs/content/en",
+            "location": "gb/how-we-hire#onlineapp)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[Review application status](https://www.amazon.jobs/applicant/check_application_status)",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[Accommodations](https://www.amazon.jobs/content/en",
+            "location": "gb/how-we-hire/accommodations)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[Legal disclosures and notices](https://www.amazon.jobs/content/en",
+            "location": "gb/legal-disclosures-and-notices)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 10,
+            "passes_filters": false
+          },
+          {
+            "title": "[Teams](https://www.amazon.jobs/en",
+            "location": "gb/business_categories)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 0,
+            "passes_filters": false
+          },
+          {
+            "title": "[Inclusive experiences](https://www.amazon.jobs/content/our",
+            "location": "workplace/diversity-and-inclusion)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 0,
+            "passes_filters": false
+          },
+          {
+            "title": "Bachelor's degree or above in engineering, project management, operations, logistics, supply chain or related field",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 0,
+            "passes_filters": false
+          },
+          {
+            "title": "Bachelor's degree in a quantitative/technical field such as computer science, engineering, statistics",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 0,
+            "passes_filters": false
+          },
+          {
+            "title": "Experience with theory and practice of information retrieval, data science, machine learning and data mining",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 0,
+            "passes_filters": false
+          },
+          {
+            "title": "Knowledge of professional software engineering & best practices for full software development life cycle, including coding standards, software architectures, code reviews, source control management, continuous deployments, testing, and operational excellence",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 0,
+            "passes_filters": false
+          },
+          {
+            "title": "Strong problem",
+            "location": "solving skills with a focus on scalability and performance",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 0,
+            "passes_filters": false
+          },
+          {
+            "title": "[![](https://static.amazon.jobs/assets/Download",
+            "location": "on-the-App-Store/US/Download_on_App_Store/Black_lockup/SVG/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917-8758b968e8e3f7a442e2b63328fc4ddfa5ff6607d0ab6d977ac93e45352f90e8.svg)](https://apple.co/4mW6qxK)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 0,
+            "passes_filters": false
+          },
+          {
+            "title": "[Inclusive experiences](https://www.amazon.jobs/content/en",
+            "location": "gb/our-workplace/inclusive-experiences)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 0,
+            "passes_filters": false
+          }
+        ],
+        "fitting_jobs": [
+          {
+            "title": "[Leadership principles](https://www.amazon.jobs/content/our",
+            "location": "workplace/leadership-principles)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 45,
+            "passes_filters": true
+          },
+          {
+            "title": "Experience leading and interacting with cross",
+            "location": "functional teams",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 45,
+            "passes_filters": true
+          },
+          {
+            "title": "Experience owning program strategy, end to end delivery, and communicating results to senior leadership",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 80,
+            "passes_filters": true
+          },
+          {
+            "title": "5+ years of supply chain management (e.g. logistics, inventory turn management, forecasting, operations) experience, or Bachelor's degree",
+            "location": "",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 45,
+            "passes_filters": true
+          },
+          {
+            "title": "[Our Leadership Principles](https://www.amazon.jobs/content/en",
+            "location": "gb/our-workplace/leadership-principles)",
+            "company": "Amazon",
+            "url": "https://www.amazon.jobs/en-gb/search?base_query=&loc_query=Vancouver%2C+BC%2C+Canada",
+            "fit_score": 45,
+            "passes_filters": true
+          }
+        ]
+      },
+      {
+        "company": "1Password",
+        "pipe": "Tech / BigTech",
+        "url": "https://1password.com/jobs",
+        "slug": "1password",
+        "status": "scraped",
+        "error": null,
+        "job_count": 0,
+        "fitting_count": 0,
+        "jobs": [],
+        "fitting_jobs": []
+      }
+    ],
+    "I": [
+      {
+        "company": "TELUS",
+        "pipe": "Internal Strategy / Corporate",
+        "url": "https://careers.telus.com/search-jobs",
+        "slug": "telus",
+        "status": "scraped",
+        "error": null,
+        "job_count": 1,
+        "fitting_count": 0,
+        "jobs": [
+          {
+            "title": "[TELUS.com](https://www.telus.com/ \"TELUS.com\")",
+            "location": "",
+            "company": "TELUS",
+            "url": "https://careers.telus.com/search-jobs",
+            "fit_score": 10,
+            "passes_filters": false
+          }
+        ],
+        "fitting_jobs": []
+      },
+      {
+        "company": "Arc'teryx",
+        "pipe": "Internal Strategy / Corporate",
+        "url": "https://www.arcteryx.com/ca/en/careers",
+        "slug": "arcteryx",
+        "status": "scraped",
+        "error": null,
+        "job_count": 2,
+        "fitting_count": 0,
+        "jobs": [
+          {
+            "title": "View jobs",
+            "location": "",
+            "company": "Arc'teryx",
+            "url": "https://www.arcteryx.com/ca/en/careers",
+            "fit_score": 0,
+            "passes_filters": false
+          },
+          {
+            "title": "checkbox label label",
+            "location": "",
+            "company": "Arc'teryx",
+            "url": "https://www.arcteryx.com/ca/en/careers",
+            "fit_score": 0,
+            "passes_filters": false
+          }
+        ],
+        "fitting_jobs": []
+      }
+    ],
+    "S": [
+      {
+        "company": "Procurify",
+        "pipe": "Startups",
+        "url": "https://procurify.com/careers/",
+        "slug": "procurify",
+        "status": "scraped",
+        "error": null,
+        "job_count": 3,
+        "fitting_count": 0,
+        "jobs": [
+          {
+            "title": "Skip to the content",
+            "location": "",
+            "company": "Procurify",
+            "url": "https://procurify.com/careers/",
+            "fit_score": 0,
+            "passes_filters": false
+          },
+          {
+            "title": "**Security Notice** : Procurify conducts interviews only through formal meetings arranged via @procurify.com email addresses. We do not interview via text or WhatsApp, and we will never request payment or banking information.",
+            "location": "",
+            "company": "Procurify",
+            "url": "https://procurify.com/careers/",
+            "fit_score": 0,
+            "passes_filters": false
+          },
+          {
+            "title": "Interview process and FAQs",
+            "location": "",
+            "company": "Procurify",
+            "url": "https://procurify.com/careers/",
+            "fit_score": 0,
+            "passes_filters": false
+          }
+        ],
+        "fitting_jobs": []
+      },
+      {
+        "company": "Ada",
+        "pipe": "Startups",
+        "url": "https://ada.com/careers/",
+        "slug": "ada",
+        "status": "scraped",
+        "error": null,
+        "job_count": 1,
+        "fitting_count": 0,
+        "jobs": [
+          {
+            "title": "Skip to content",
+            "location": "",
+            "company": "Ada",
+            "url": "https://ada.com/careers/",
+            "fit_score": 0,
+            "passes_filters": false
+          }
+        ],
+        "fitting_jobs": []
+      },
+      {
+        "company": "Hiive",
+        "pipe": "Startups",
+        "url": "https://hiive.com/careers",
+        "slug": "hiive",
+        "status": "scraped",
+        "error": null,
+        "job_count": 0,
+        "fitting_count": 0,
+        "jobs": [],
+        "fitting_jobs": []
+      },
+      {
+        "company": "EvenUp",
+        "pipe": "Startups",
+        "url": "https://www.evenup.com/careers",
+        "slug": "evenup",
+        "status": "scraped",
+        "error": null,
+        "job_count": 0,
+        "fitting_count": 0,
+        "jobs": [],
+        "fitting_jobs": []
+      }
+    ]
+  },
+  "hot_companies": [
+    {
+      "company": "Clio",
+      "pipe": "Tech / BigTech",
+      "fitting_count": 2,
+      "priority_boost": "+3%",
+      "roles": [
+        "Business Operations",
+        "Revenue Operations"
+      ]
+    },
+    {
+      "company": "Amazon",
+      "pipe": "Tech / BigTech",
+      "fitting_count": 5,
+      "priority_boost": "+5%",
+      "roles": [
+        "[Leadership principles](https://www.amazon.jobs/content/our",
+        "Experience leading and interacting with cross",
+        "Experience owning program strategy, end to end delivery, and communicating results to senior leadership",
+        "5+ years of supply chain management (e.g. logistics, inventory turn management, forecasting, operations) experience, or Bachelor's degree",
+        "[Our Leadership Principles](https://www.amazon.jobs/content/en"
+      ]
+    }
+  ],
+  "summary": {
+    "total_companies_scanned": 10,
+    "total_companies_failed": 0,
+    "total_jobs_found": 175,
+    "total_fitting_jobs": 7,
+    "hot_companies_count": 2
+  }
+}

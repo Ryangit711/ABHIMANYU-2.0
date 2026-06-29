@@ -1,0 +1,56 @@
+{
+  "pipe": "I",
+  "label": "Internal Strategy / Corporate",
+  "results": [
+    {
+      "company": "TELUS",
+      "pipe": "Internal Strategy / Corporate",
+      "slug": "telus",
+      "url": "https://careers.telus.com/search-jobs",
+      "status": "scraped",
+      "jobs": [
+        {
+          "title": "[TELUS.com](https://www.telus.com/ \"TELUS.com\")",
+          "location": "",
+          "company": "TELUS",
+          "url": "https://careers.telus.com/search-jobs",
+          "fit_score": 10,
+          "passes_filters": false
+        }
+      ],
+      "fitting_jobs": [],
+      "job_count": 1,
+      "fitting_count": 0,
+      "error": null
+    },
+    {
+      "company": "Arc'teryx",
+      "pipe": "Internal Strategy / Corporate",
+      "slug": "arcteryx",
+      "url": "https://www.arcteryx.com/ca/en/careers",
+      "status": "scraped",
+      "jobs": [
+        {
+          "title": "View jobs",
+          "location": "",
+          "company": "Arc'teryx",
+          "url": "https://www.arcteryx.com/ca/en/careers",
+          "fit_score": 0,
+          "passes_filters": false
+        },
+        {
+          "title": "checkbox label label",
+          "location": "",
+          "company": "Arc'teryx",
+          "url": "https://www.arcteryx.com/ca/en/careers",
+          "fit_score": 0,
+          "passes_filters": false
+        }
+      ],
+      "fitting_jobs": [],
+      "job_count": 2,
+      "fitting_count": 0,
+      "error": null
+    }
+  ]
+}

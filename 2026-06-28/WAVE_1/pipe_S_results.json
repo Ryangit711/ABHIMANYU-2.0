@@ -1,0 +1,88 @@
+{
+  "pipe": "S",
+  "label": "Startups",
+  "results": [
+    {
+      "company": "Procurify",
+      "pipe": "Startups",
+      "slug": "procurify",
+      "url": "https://procurify.com/careers/",
+      "status": "scraped",
+      "jobs": [
+        {
+          "title": "Skip to the content",
+          "location": "",
+          "company": "Procurify",
+          "url": "https://procurify.com/careers/",
+          "fit_score": 0,
+          "passes_filters": false
+        },
+        {
+          "title": "**Security Notice** : Procurify conducts interviews only through formal meetings arranged via @procurify.com email addresses. We do not interview via text or WhatsApp, and we will never request payment or banking information.",
+          "location": "",
+          "company": "Procurify",
+          "url": "https://procurify.com/careers/",
+          "fit_score": 0,
+          "passes_filters": false
+        },
+        {
+          "title": "Interview process and FAQs",
+          "location": "",
+          "company": "Procurify",
+          "url": "https://procurify.com/careers/",
+          "fit_score": 0,
+          "passes_filters": false
+        }
+      ],
+      "fitting_jobs": [],
+      "job_count": 3,
+      "fitting_count": 0,
+      "error": null
+    },
+    {
+      "company": "Ada",
+      "pipe": "Startups",
+      "slug": "ada",
+      "url": "https://ada.com/careers/",
+      "status": "scraped",
+      "jobs": [
+        {
+          "title": "Skip to content",
+          "location": "",
+          "company": "Ada",
+          "url": "https://ada.com/careers/",
+          "fit_score": 0,
+          "passes_filters": false
+        }
+      ],
+      "fitting_jobs": [],
+      "job_count": 1,
+      "fitting_count": 0,
+      "error": null
+    },
+    {
+      "company": "Hiive",
+      "pipe": "Startups",
+      "slug": "hiive",
+      "url": "https://hiive.com/careers",
+      "status": "scraped",
+      "jobs": [],
+      "fitting_jobs": [],
+      "job_count": 0,
+      "fitting_count": 0,
+      "error": null
+    },
+    {
+      "company": "EvenUp",
+      "pipe": "Startups",
+      "slug": "evenup",
+      "url": "https://www.evenup.com/careers",
+      "status": "scraped",
+      "jobs": [],
+      "fitting_jobs": [],
+      "job_count": 0,
+      "fitting_count": 0,
+      "error": null
+    }
+  ]
+}
