@@ -1,17 +1,105 @@
 {
-  "last_updated": "2026-06-24 18:30",
+  "last_updated": "2026-06-29 14:00",
+  "permanent_rule": "Networking cadence is immutable. Never forget. Every SUBMITTED auto-starts T+0. Every message is semantically personal — no templates. System tracks, user acts.",
   "companies": [
     {
-      "company": "DoorDash Canada",
-      "role": "Manager, S&O \u2013 Dasher & Logistics",
-      "status": "shot",
-      "submit_date": null,
-      "t_plus_days": null,
-      "current_leg": 0,
+      "company": "BWZ",
+      "role": "Strategy & Ops Manager",
+      "status": "submitted",
+      "submit_date": "2026-06-25",
+      "t_plus_days": 4,
+      "current_leg": 1,
       "contacts": [
         {
           "name": null,
-          "title": "Hiring Manager (Dasher & Logistics)",
+          "title": "Recruiter (BWZ)",
+          "linkedin": null,
+          "leg_assigned": 1
+        },
+        {
+          "name": null,
+          "title": "Hiring Manager",
+          "linkedin": null,
+          "leg_assigned": 2
+        }
+      ],
+      "legs": {
+        "1": {"due": "2026-06-25", "action": "connect", "status": "overdue", "response": null},
+        "2": {"due": "2026-06-28", "action": "engage", "status": "overdue", "response": null},
+        "3": {"due": "2026-07-02", "action": "value_add", "status": "future", "response": null},
+        "4": {"due": "2026-07-09", "action": "nudge", "status": "future", "response": null},
+        "5": {"due": "2026-07-23", "action": "close", "status": "future", "response": null}
+      }
+    },
+    {
+      "company": "KPMG",
+      "role": "Director, Delivery Services",
+      "status": "submitted",
+      "submit_date": "2026-06-25",
+      "t_plus_days": 4,
+      "current_leg": 1,
+      "contacts": [
+        {
+          "name": null,
+          "title": "Recruiter (KPMG)",
+          "linkedin": null,
+          "leg_assigned": 1
+        },
+        {
+          "name": null,
+          "title": "Hiring Manager",
+          "linkedin": null,
+          "leg_assigned": 2
+        }
+      ],
+      "legs": {
+        "1": {"due": "2026-06-25", "action": "connect", "status": "overdue", "response": null},
+        "2": {"due": "2026-06-28", "action": "engage", "status": "overdue", "response": null},
+        "3": {"due": "2026-07-02", "action": "value_add", "status": "future", "response": null},
+        "4": {"due": "2026-07-09", "action": "nudge", "status": "future", "response": null},
+        "5": {"due": "2026-07-23", "action": "close", "status": "future", "response": null}
+      }
+    },
+    {
+      "company": "Indeed",
+      "role": "Sr Mgr, Integration & Business Acceleration",
+      "status": "submitted",
+      "submit_date": "2026-06-21",
+      "t_plus_days": 8,
+      "current_leg": 2,
+      "contacts": [
+        {
+          "name": null,
+          "title": "Recruiter (Indeed)",
+          "linkedin": null,
+          "leg_assigned": 1
+        },
+        {
+          "name": null,
+          "title": "Hiring Manager",
+          "linkedin": null,
+          "leg_assigned": 2
+        }
+      ],
+      "legs": {
+        "1": {"due": "2026-06-21", "action": "connect", "status": "overdue", "response": null},
+        "2": {"due": "2026-06-24", "action": "engage", "status": "overdue", "response": null},
+        "3": {"due": "2026-06-28", "action": "value_add", "status": "overdue", "response": null},
+        "4": {"due": "2026-07-05", "action": "nudge", "status": "future", "response": null},
+        "5": {"due": "2026-07-19", "action": "close", "status": "future", "response": null}
+      }
+    },
+    {
+      "company": "DoorDash Canada",
+      "role": "Manager, S&O Dasher & Logistics",
+      "status": "submitted",
+      "submit_date": "2026-06-25",
+      "t_plus_days": 4,
+      "current_leg": 1,
+      "contacts": [
+        {
+          "name": "Terry Lee",
+          "title": "VP Dasher & Logistics",
           "linkedin": null,
           "leg_assigned": 1
         },
@@ -23,172 +111,74 @@
         }
       ],
       "legs": {
-        "0": {
-          "due": "2026-06-24",
-          "action": "submit_application",
-          "status": "overdue",
-          "response": null
-        },
-        "1": {
-          "due": null,
-          "action": "connect",
-          "status": "waiting",
-          "response": null
-        },
-        "2": {
-          "due": null,
-          "action": "engage",
-          "status": "waiting",
-          "response": null
-        },
-        "3": {
-          "due": null,
-          "action": "value_add",
-          "status": "waiting",
-          "response": null
-        },
-        "4": {
-          "due": null,
-          "action": "nudge",
-          "status": "waiting",
-          "response": null
-        },
-        "5": {
-          "due": null,
-          "action": "close",
-          "status": "waiting",
-          "response": null
-        }
-      }
-    },
-    {
-      "company": "Indeed",
-      "role": "Sr Mgr, Integration & Business Acceleration",
-      "status": "rejected",
-      "archived": true,
-      "submit_date": "2026-06-21",
-      "rejection_date": "2026-06-24",
-      "t_plus_days": 3,
-      "rejection_reason": "screening_ats_keyword_mismatch",
-      "lessons_learned": "data/learned/Indeed.md",
-      "current_leg": null,
-      "contacts": [
-        {
-          "name": null,
-          "title": "Recruiter",
-          "linkedin": null,
-          "leg_assigned": 1
-        },
-        {
-          "name": null,
-          "title": "Hiring Manager",
-          "linkedin": null,
-          "leg_assigned": 1
-        }
-      ],
-      "legs": {
-        "1": {
-          "due": "2026-06-21",
-          "action": "connect",
-          "status": "cancelled",
-          "response": "rejected"
-        },
-        "2": {
-          "due": "2026-06-24",
-          "action": "engage",
-          "status": "cancelled",
-          "response": "rejected"
-        },
-        "3": {
-          "due": "2026-06-28",
-          "action": "value_add",
-          "status": "cancelled",
-          "response": "rejected"
-        },
-        "4": {
-          "due": "2026-07-05",
-          "action": "nudge",
-          "status": "cancelled",
-          "response": "rejected"
-        },
-        "5": {
-          "due": "2026-07-19",
-          "action": "close",
-          "status": "cancelled",
-          "response": "rejected"
-        }
+        "1": {"due": "2026-06-25", "action": "connect", "status": "overdue", "response": null},
+        "2": {"due": "2026-06-28", "action": "engage", "status": "overdue", "response": null},
+        "3": {"due": "2026-07-02", "action": "value_add", "status": "future", "response": null},
+        "4": {"due": "2026-07-09", "action": "nudge", "status": "future", "response": null},
+        "5": {"due": "2026-07-23", "action": "close", "status": "future", "response": null}
       }
     },
     {
       "company": "Providence Healthcare",
       "role": "Dir, Clinical & Operations",
+      "status": "connect_req_sent",
+      "submit_date": null,
+      "t_plus_days": null,
+      "current_leg": 0,
+      "contacts": [
+        {
+          "name": "Norm Peters",
+          "title": "COO, Providence Health Care",
+          "linkedin": "sent",
+          "leg_assigned": 1,
+          "status": "sent"
+        },
+        {
+          "name": "Emily McKenzie",
+          "title": null,
+          "linkedin": "sent",
+          "leg_assigned": 1,
+          "status": "sent"
+        },
+        {
+          "name": "Mark Blandford",
+          "title": "CEO, Providence Living",
+          "linkedin": null,
+          "leg_assigned": 3
+        }
+      ],
+      "legs": {
+        "0": {"due": "2026-06-24", "action": "submit_application", "status": "overdue", "response": null},
+        "1": {"due": null, "action": "connect", "status": "sent", "response": null},
+        "2": {"due": null, "action": "engage", "status": "waiting", "response": null},
+        "3": {"due": null, "action": "value_add", "status": "waiting", "response": null},
+        "4": {"due": null, "action": "nudge", "status": "waiting", "response": null},
+        "5": {"due": null, "action": "close", "status": "waiting", "response": null}
+      }
+    },
+    {
+      "company": "Deloitte",
+      "role": "Sr Mgr, Strategic & Technology Change, Consumer",
       "status": "shot",
       "submit_date": null,
       "t_plus_days": null,
       "current_leg": 0,
       "contacts": [
         {
-          "name": null,
-          "title": "ED Seniors Care (PHC)",
+          "name": "Jeffrey Goodwin",
+          "title": "Deloitte Canada",
+          "email": "jegoodwin@deloitte.ca",
           "linkedin": null,
           "leg_assigned": 1
-        },
-        {
-          "name": null,
-          "title": "ED Burnaby Hospital (FHA)",
-          "linkedin": null,
-          "leg_assigned": 2
-        },
-        {
-          "name": null,
-          "title": "Mark Blandford \u2014 CEO Providence Living",
-          "linkedin": null,
-          "leg_assigned": 3
-        },
-        {
-          "name": null,
-          "title": "Norm Peters \u2014 COO PHC",
-          "linkedin": null,
-          "leg_assigned": 4
         }
       ],
       "legs": {
-        "0": {
-          "due": "2026-06-24",
-          "action": "submit_application",
-          "status": "overdue",
-          "response": null
-        },
-        "1": {
-          "due": null,
-          "action": "connect",
-          "status": "waiting",
-          "response": null
-        },
-        "2": {
-          "due": null,
-          "action": "engage",
-          "status": "waiting",
-          "response": null
-        },
-        "3": {
-          "due": null,
-          "action": "value_add",
-          "status": "waiting",
-          "response": null
-        },
-        "4": {
-          "due": null,
-          "action": "nudge",
-          "status": "waiting",
-          "response": null
-        },
-        "5": {
-          "due": null,
-          "action": "close",
-          "status": "waiting",
-          "response": null
-        }
+        "0": {"due": "2026-07-26", "action": "submit_application", "status": "overdue", "response": null},
+        "1": {"due": null, "action": "connect", "status": "waiting", "response": null},
+        "2": {"due": null, "action": "engage", "status": "waiting", "response": null},
+        "3": {"due": null, "action": "value_add", "status": "waiting", "response": null},
+        "4": {"due": null, "action": "nudge", "status": "waiting", "response": null},
+        "5": {"due": null, "action": "close", "status": "waiting", "response": null}
       }
     }
   ]
