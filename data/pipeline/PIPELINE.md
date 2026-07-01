@@ -9,9 +9,9 @@
 | ✅ SUBMITTED | KPMG | Dir, Delivery Services | C | $172.5K-$179.5K | T+0 | LinkedIn connect | ICIMS |
 | ✅ SUBMITTED | DoorDash Canada | Mgr, S&O Dasher & Logistics | T | $148K-$185K | T+0 | LinkedIn connect | Terry Lee |
 | 🟡 CONNECT_REQ_SENT | Providence HC | Dir, Clinical & Ops (LTC) | I | $139K-$200K | — | Submit application | Norm Peters + Emily McKenzie |
-| 🔵 SHOT | Clio | Senior Strategy and Operations Associate | T | $106K-$144K | T+0 | Review → Submit | Workday, Vancouver/Toronto |
-| 🔵 SHOT | Deloitte | Sr Mgr, Strategic & Technology Change, Consumer | C | $126K-$234K | T+0 | Review → Submit | SAP SuccessFactors |
-| 🔵 SHOT | EY-Parthenon | Sr Mgr, Strategy & Execution — Deal Mgmt | C | $144K-$216K | T+0 | Review → Submit | SAP SuccessFactors |
+| 🔵 SHOT | Clio | Senior Strategy and Operations Associate | T | $106K-$144K | T+0 | ✅ YES — Submit via Workday | Workday, Vancouver/Toronto |
+| 🔵 SHOT | Deloitte | Sr Mgr, Strategic & Technology Change, Consumer | C | $126K-$234K | T+0 | ✅ YES — Submit via SAP SF | SAP SuccessFactors |
+| 🔵 SHOT | EY-Parthenon | Sr Mgr, Strategy & Execution — Deal Mgmt | C | $144K-$216K | T+0 | ✅ YES — Submit via EY Workday | Workday |
 
 ## Archived / Cancelled
 
