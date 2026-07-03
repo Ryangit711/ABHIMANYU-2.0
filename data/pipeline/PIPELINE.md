@@ -8,6 +8,7 @@
 | ✅ SUBMITTED | BWZ | Strategy & Ops Manager | I | $120K-$160K | T+0 | LinkedIn connect | Lever, video pending |
 | ✅ SUBMITTED | KPMG | Dir, Delivery Services | C | $172.5K-$179.5K | T+0 | LinkedIn connect | ICIMS |
 | ✅ SUBMITTED | DoorDash Canada | Mgr, S&O Dasher & Logistics | T | $148K-$185K | T+0 | LinkedIn connect | Terry Lee |
+| ✅ SUBMITTED | PointClickCare | Software Implementation Consultant - Clinical | Healthtech | $80K-$89K | T+0 | LinkedIn connect | Lever — confirmation received 2026-07-02 |
 | 🟡 CONNECT_REQ_SENT | Providence HC | Dir, Clinical & Ops (LTC) | I | $139K-$200K | — | Submit application | Norm Peters + Emily McKenzie |
 | 🔵 SHOT | Clio | Senior Strategy and Operations Associate | T | $106K-$144K | T+0 | ✅ YES — Submit via Workday | Workday, Vancouver/Toronto |
 | 🔵 SHOT | Deloitte | Sr Mgr, Strategic & Technology Change, Consumer | C | $126K-$234K | T+0 | ✅ YES — Submit via SAP SF | SAP SuccessFactors |
@@ -21,9 +22,9 @@
 
 ## Pipeline Summary
 
-- **Total Active:** 7
+- **Total Active:** 8
 - **SHOT (pending review):** 3 (Deloitte, EY-Parthenon, Clio)
-- **Submitted:** 4 (BWZ, KPMG, Indeed, DoorDash)
+- **Submitted:** 5 (BWZ, KPMG, Indeed, DoorDash, PointClickCare)
 - **Networking (connect sent):** 1 (Providence HC)
 - **Callbacks:** 0
 - **Offers:** 0
