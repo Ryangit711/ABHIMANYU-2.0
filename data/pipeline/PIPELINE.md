@@ -14,6 +14,7 @@
 | 🔵 SHOT | Deloitte | Sr Mgr, Strategic & Technology Change, Consumer | C | $126K-$234K | T+0 | ✅ YES — Submit via SAP SF | SAP SuccessFactors |
 | 🔵 SHOT | EY-Parthenon | Sr Mgr, Strategy & Execution — Deal Mgmt | C | $144K-$216K | T+0 | ✅ YES — Submit via EY Workday | Workday |
 | 🔵 SHOT | Fresh Tracks Canada | Director, Inventory Management | I | $145K-$165K | T+0 | ✅ YES — Submit via BambooHR | DOCX generated, package ready |
+| 🔵 SHOT | Fresh Tracks Canada | Executive Assistant (CEO + VPs) | I | $85K-$105K | T+0 | 🟡 Review package | EA + strategic projects — JD 265 |
 
 ## Archived / Cancelled / Rejected
 
@@ -24,8 +25,8 @@
 
 ## Pipeline Summary
 
-- **Total Active:** 8
-- **SHOT (pending review):** 4 (Deloitte, EY-Parthenon, Clio, Fresh Tracks Canada)
+- **Total Active:** 9
+- **SHOT (pending review):** 5 (Deloitte, EY-Parthenon, Clio, Fresh Tracks Canada ×2)
 - **Submitted:** 4 (BWZ, KPMG, DoorDash, PointClickCare)
 - **Networking (connect sent):** 1 (Providence HC)
 - **Callbacks:** 0
