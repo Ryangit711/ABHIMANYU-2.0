@@ -231,7 +231,7 @@ The machines do the typing. You do the thinking. **Never deviate from this frame
 | **Company Scout** | Before every SHOOT, scout ALL relevant roles at the target company. Show in table: Role, Level, Salary, Status (live/stale/shot). Best 3 highlighted. This kills fear — you see the full landscape before committing to one. |
 | **Hiring Process Reveal** | Before every SHOOT, explain how that company hires experienced professionals like Aman. Stage-by-stage: what happens, duration, tips, what to expect. Process knowledge kills fear — psychometric tests, case interviews, assessment centres — knowing the script removes the anxiety. This applies to EVERY company going forward, not only consulting. Omni, universal, constitutional. |
 | **Provenance** | Every claim in every output must be traceable to its source. In this system: `01_MASTER_CORPUS.md` is the truth anchor — every metric, title, achievement must have a line number. In general context: provenance is the chain of ownership/origin of something (like art tracking). Here it means "where does this fact come from?" Zero fabrication. Masquerade = reframing real facts, not inventing new ones. This aspect is permanent — always show provenance verification in every SHOOT. |
-| **Positioning by Pipe (Dynamic)** | Every SHOOT starts by selecting the optimal pipe positioning for Aman at THIS company. Dynamic means: read the company DNA FIRST, then select the pipe frame that fits best. The pipes are starting points, not formulas. C (Consulting) → frame as builder-consultant who has been in the arena. T (Tech/BigTech) → frame as systems builder who thinks in scale. I (Internal Strategy/Corporate) → frame as strategy-execution bridge. S (Startups) → frame as proven operator who built and exited. If a company straddles pipes (e.g., Deloitte is C but has tech-adjacent roles), blend the positioning. The one-sentence pitch always stays the same: "I built something from nothing, scaled it to 70 people and 32 locations, led the tech transformation, managed the P&L, and delivered a $17M exit. I don't need to learn how your business works — I need to make it work better." See POSITIONING BY PIPE FRAMEWORK below for full depth. |
+| **Positioning by Pipe (Dynamic)** | Every SHOOT starts by selecting the optimal pipe positioning for Aman at THIS company. Dynamic means: read the company DNA FIRST, then select the pipe frame that fits best. The pipes are starting points, not formulas. C (Consulting) → frame as builder-consultant who has been in the arena. T (Tech/BigTech) → frame as systems builder who thinks in scale. I (Internal Strategy/Corporate) → frame as strategy-execution bridge. S (Startups) → frame as proven operator who built and exited. If a company straddles pipes (e.g., Deloitte is C but has tech-adjacent roles), blend the positioning. The one-sentence pitch always stays the same: "I built something from nothing, scaled the operations team from 3 to 70 serving 32 locations, led the tech transformation, managed the P&L, and delivered a $17M exit. I don't need to learn how your business works — I need to make it work better." See POSITIONING BY PIPE FRAMEWORK below for full depth. |
 | **Multi-Role Strategy + Esoteric Knowledge (Omni)** | Insider knowledge only company insiders know. Turns "how many apps" from guesswork into strategy. **Count:** 2-3 optimal per company (Scale.jobs, Frontline Source, CNBC 2026, Indeed consensus). 4 absolute ceiling — never more. **Coherence:** same level + related function (Sr Mgr Strategy + Sr Mgr M&A = coherent. Mixing Manager + Analyst = career confusion). **Cadence:** space 1-2 weeks between apps, never same day. **ATS deep knowledge:** does this company's ATS flag multi-applicants positively (initiative) or negatively (spray-and-pray)? Does recruiter get notified? Does rejected candidate enter talent pool? **Back door:** optimal route per company — referral vs direct vs recruiter. Generalist pipeline exists? **Cooldown:** 6 months same role, no wait different role. **Transparency:** if asked in interview, frame as genuine company interest. Every app independently customized — ATS shows them side by side. Same template with swapped title = instant rejection. |
 | **Feedback Loop (Systemic Learning)** | The system learns from every outcome. Rejection → analyze why → update DNA/positioning/keywords/keyphrases. Callback → double down on what worked. Offer → record what won. Every company gets a `data/learned/[company].md` file that accumulates lessons. The system is not static — it evolves with every application. See FEEDBACK ENGINE skill. |
 | **Pipeline Tracking (Live Kanban)** | Every job tracked from FETCH to final outcome. `TRACK` shows live table with stage, T+ days, next action. No mental tracking. Auto-maintained. See PIPELINE TRACKER skill. |
@@ -273,13 +273,36 @@ This is THE equation. Every other question below serves it. Run live sweep first
 
 ---
 
+## TICS FRAMEWORK (Unified Pipe Architecture — Permanent)
+
+**TICS is now the permanent name for the four-pipe system.** Going wide across all four simultaneously, sniper precision on each target.
+
+```
+T — Tech/BigTech (FAANG, FAANG-like, Canadian tech)
+I — Internal Strategy/Corporate (Director-level, strategy-execution bridge)
+C — Consulting (Big4, MBB, boutique)
+S — Startups (Chief of Staff, Head of Ops, COO)
+```
+
+When TICS is referenced, all four pipes are active. FETCH scans all four. SHOOT selects the best fit dynamically. The framework is wide, but each shot is sniper-narrow to what Aman is eligible for.
+
+**Rules:**
+1. TICS always means all four pipes simultaneously — never one in isolation
+2. FETCH must return targets across T, I, C, S — not just one pipe
+3. Each target gets a TICS pipe assignment (primary + secondary blend)
+4. "Going wide yet sniper" — scan broadly, shoot precisely
+5. Every pipe has subsets (sub-categories) — target the relevant ones only
+6. $120K floor, TEER 0/1, Vancouver/Remote Canada, 24h fresh — all pipes
+
+---
+
 ## POSITIONING BY PIPE FRAMEWORK (Dynamic — Every Company, Every SHOOT)
 
 **Core principle:** Aman has ONE true story — built a healthcare business from 3→70, $17M exit. That story does not change. What changes is which FACET of the story leads for each pipe. Dynamic means: read the company DNA first, then select the pipe frame. If the company straddles pipes (e.g., Deloitte is C but has tech roles), blend the positioning.
 
 ### The One True Pitch (Universal — Every Pipe, Every Company)
 
-> *"I built something from nothing, scaled it to 70 people and 32 locations, led the technology transformation myself, managed every dollar of the P&L, and delivered a $17M exit. I don't need to learn how your business works — I need to make it work better."*
+> *"I built something from nothing — scaled the operations team from 3 to 70, serving 32 locations. Led the technology transformation myself. Managed every dollar of the P&L. Delivered a $17M exit. I don't need to learn how your business works — I need to make it work better."*
 
 This is the core. Every pipe positioning is a variation of this truth, not a different story.
 

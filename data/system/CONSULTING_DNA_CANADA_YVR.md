@@ -309,7 +309,7 @@ This solves your question about "tailored resume vs generic for recruiter."
 AMAN — Operations & Strategy Leader
 
 PERSONA A: Builder-Entrepreneur
-  "Built healthcare company 3→70 FTE, 32 locations, $17M exit"
+  "Scaled ops team from 3→70 across 32 locations, led $17M exit"
   → For: Startups, PE-backed firms, founder-funded consulting
 
 PERSONA B: M&A Integration Leader  
@@ -451,7 +451,7 @@ The job IS already here. Every application is an alignment step. The timeline is
 
 ## 10. THE ONE-SENTENCE NORTH STAR
 
-**"I am a builder who scaled a company from 3 to 70 people and sold it for $17M. I don't need to learn how business works — I need to make it work better. Vancouver consulting firms need people who have actually operated, not just advised. I am that person."**
+**"I am a builder who scaled the operations team from 3 to 70 people across 32 locations and delivered a $17M exit. I don't need to learn how business works — I need to make it work better. Vancouver consulting firms need people who have actually operated, not just advised. I am that person."**
 
 ---
 *Last updated: 2026-07-02 — This is a living document. Update as you learn more about each firm's culture, hiring, and fit.*
