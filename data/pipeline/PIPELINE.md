@@ -13,6 +13,7 @@
 | 🔵 SHOT | Clio | Senior Strategy and Operations Associate | T | $106K-$144K | T+0 | ✅ YES — Submit via Workday | Workday, Vancouver/Toronto |
 | 🔵 SHOT | Deloitte | Sr Mgr, Strategic & Technology Change, Consumer | C | $126K-$234K | T+0 | ✅ YES — Submit via SAP SF | SAP SuccessFactors |
 | 🔵 SHOT | EY-Parthenon | Sr Mgr, Strategy & Execution — Deal Mgmt | C | $144K-$216K | T+0 | ✅ YES — Submit via EY Workday | Workday |
+| 🔵 SHOT | Fresh Tracks Canada | Director, Inventory Management | I | $145K-$165K | T+0 | ✅ YES — Submit via BambooHR | DOCX generated, package ready |
 
 ## Archived / Cancelled / Rejected
 
@@ -23,8 +24,8 @@
 
 ## Pipeline Summary
 
-- **Total Active:** 7
-- **SHOT (pending review):** 3 (Deloitte, EY-Parthenon, Clio)
+- **Total Active:** 8
+- **SHOT (pending review):** 4 (Deloitte, EY-Parthenon, Clio, Fresh Tracks Canada)
 - **Submitted:** 4 (BWZ, KPMG, DoorDash, PointClickCare)
 - **Networking (connect sent):** 1 (Providence HC)
 - **Callbacks:** 0
@@ -34,4 +35,4 @@
 
 ---
 
-*Last updated: 2026-07-03 by ABHIMANYU 2.0 — Indeed moved to ❌ REJECTED*
+*Last updated: 2026-07-03 by ABHIMANYU 2.0 — Fresh Tracks Canada SHOOT package ready ✅*
