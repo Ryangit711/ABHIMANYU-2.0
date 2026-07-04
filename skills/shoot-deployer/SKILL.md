@@ -30,6 +30,34 @@ Step A3: CALCULATE trust tier
 ### During Generation (Quality Gates — Auto-Executed After Section Gen, Before Output)
 
 ```
+Step G0: RESUME + COVER LETTER EVAL (Content Substance Check — Runs FIRST)
+  → LOAD OPS_EVAL_CRITERIA.md for resume scoring criteria
+  → LOAD COVER_LETTER_EVAL_CRITERIA.md for cover letter scoring criteria
+  → EVAL Resume (Section 9):
+      Score across 4 dimensions:
+        scaling_narrative  (0-35) — growth arc, trajectory, scope increase
+        strategic_impact   (0-30) — P&L, board, M&A, transformation
+        operational_depth  (0-25) — systems built, tech led, teams managed
+        domain_alignment   (0-10) — company language, pipe positioning, archetype
+      Bonus (max 20): +5 quantified exit, +3 MBA applied, +2 cross-industry, +2 border, +3 builder, +2 tech lead, +1/ea board
+      Deductions: -5 immigration/PR, -3 per vague bullet, -2 per missing metric, -3 archetype drift, -3 weak summary
+    → PASS (≥70): proceed
+    → WARN (50-69): rewrite flagged sections, re-EVAL until PASS
+    → FAIL (<50): full rewrite from scratch, re-EVAL until PASS
+  → EVAL Cover Letter (Section 11):
+      Score across 3 dimensions:
+        company_alignment  (0-40) — DNA mirroring, language registry density, insider intelligence
+        narrative_flow     (0-30) — arc, authenticity, specificity to company
+        format_tone        (0-20) — header correctness, archetype consistency, anti-pattern compliance
+      Deductions: -5 generic opening, -3 per unsupported claim, -3 archetype drift, -5 immigration/PR
+    → PASS (≥35/90): proceed
+    → WARN (25-34): rewrite flagged sections, re-EVAL until PASS
+    → FAIL (<25): full rewrite from scratch, re-EVAL until PASS
+  → Output EVAL scores into QUALITY DASHBOARD:
+    "Resume EVAL: XX/120 — PASS/WARN/FAIL | Cover Letter EVAL: XX/90 — PASS/WARN/FAIL"
+  → This gate is the crystallization point — the alchemy is either ready or it isn't.
+    No DOCX is ever generated from raw, untested alchemy.
+
 Step G1: ATS VALIDATION PASS
   → CHECK font family: Liberation Sans 10pt (or ATS-specified font for this platform)
   → CHECK margins: 0.5-1.0 inch all sides
@@ -284,22 +312,29 @@ One-liner + Table: `JD Requirement → Aman's Map` (what they need → what he's
  3. RUN LinkedIn Profile Audit → check alignment with target company/role
  4. CALCULATE trust tier
  5. RUN Semantic Layer (10 questions)
- 6. GENERATE 16 sections (with learned lessons injected)
- 7. RUN ATS VALIDATION PASS (Step G1) → check font, margins, headers, keywords, sections
- 8. RUN BULLET QUALITY UPGRADE (Step G2) → quantifier scan, verb audit, STAR check
- 9. RUN ANTI-PATTERN SWEEP (Step G3) → weasel words, unsupported claims, archetype drift, gaps
-10. RUN SEMANTIC ENRICHMENT (Step G5) → generate JSON-LD for next-gen ATS
-11. RUN provenance auto-verify (cross-ref every claim with Master Corpus)
-12. SHOW QUALITY DASHBOARD (Step G4) — gates summary + auto-fix suggestions
-13. SHOW full 16-section in chat (with trust tier + quality dashboard + provenance pass/fail)
-14. SHOW LinkedIn Audit output (aligned/misaligned items)
-15. WRITE row to data/pipeline/PIPELINE.md (🔵 SHOT) with quality scores
-16. WRITE to data/jobs.json (company added to exclusion)
-17. WRITE JSON-LD to date folder (semantic enrichment — machine use only)
+  6. GENERATE 16 sections (with learned lessons injected)
+  7. **RUN RESUME + COVER LETTER EVAL (Step G0)** → score resume against OPS_EVAL_CRITERIA.md, score cover letter against COVER_LETTER_EVAL_CRITERIA.md
+     → If PASS: continue. If WARN: rewrite flagged sections, re-EVAL. If FAIL: full rewrite from scratch.
+     → This is the CRYSTALLIZATION POINT — no DOCX ever ships from raw alchemy.
+  8. RUN ATS VALIDATION PASS (Step G1) → check font, margins, headers, keywords, sections
+  9. RUN BULLET QUALITY UPGRADE (Step G2) → quantifier scan, verb audit, STAR check
+ 10. RUN ANTI-PATTERN SWEEP (Step G3) → weasel words, unsupported claims, archetype drift, gaps
+ 11. RUN SEMANTIC ENRICHMENT (Step G5) → generate JSON-LD for next-gen ATS
+ 12. RUN provenance auto-verify (cross-ref every claim with Master Corpus)
+ 13. SHOW QUALITY DASHBOARD (Step G4) — gates summary + EVAL scores + auto-fix suggestions
+ 14. SHOW full 16-section in chat (with trust tier + quality dashboard + EVAL verdict + provenance pass/fail)
+ 15. SHOW LinkedIn Audit output (aligned/misaligned items)
+ 16. WRITE row to data/pipeline/PIPELINE.md (🔵 SHOT) with quality scores
+ 17. WRITE to data/jobs.json (company added to exclusion)
+ 18. WRITE JSON-LD to date folder (semantic enrichment — machine use only)
 ```
 
 ### On YES (Approval) — Auto-Trigger Chain
 ```
+⛔ PRE-FLIGHT CHECK: EVAL must have PASSED on both resume and cover letter
+  → If EVAL was never run or scored WARN/FAIL → BLOCK. "Run EVAL first. Cannot generate DOCX from untested alchemy."
+  → If EVAL passed → proceed.
+
 1. TRANSITION data/pipeline/PIPELINE.md: 🔵 → ✅, set T+0 = today
 2. GENERATE DOCX via document-engine
 3. WRITE to data/networking_log.json: auto-start cadence (T+0/3/7/14)
