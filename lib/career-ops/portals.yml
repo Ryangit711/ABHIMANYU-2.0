@@ -1,0 +1,213 @@
+# Portal Scanner Configuration — ABHIMANYU 2.0
+# Targets: $120K+, Vancouver/Remote Canada, TEER 0/1, Ops/Strategy roles
+# See templates/portals.example.yml for full reference
+#
+# ATS providers supported by SCAN (45 total):
+#   greenhouse, ashby, lever, workday, successfactors, smartrecruiters,
+#   bamboohr, breezy, personio, recruitee, teamtailor, workable, rippling,
+#   jibeapply, avature, pinpoint, amazon, ibm, comeet, + job boards
+#
+# Companies using unsupported ATS (Taleo, iCIMS, custom):
+#   These stay as generic career URLs — discovered via manual FETCH only
+
+title_filter:
+  positive:
+    - "operations"
+    - "strategy"
+    - "chief of staff"
+    - "program manager"
+    - "program director"
+    - "revenue operations"
+    - "business operations"
+    - "revenue strategy"
+    - "head of"
+    - "director of"
+    - "senior manager"
+  negative:
+    - "engineer"
+    - "software"
+    - "developer"
+    - "data scientist"
+    - "data analyst"
+    - "financial analyst"
+    - "credit"
+    - "accountant"
+    - "controller"
+    - "veterinary"
+    - "nurse"
+    - "pharmacist"
+    - "technician"
+    - "administrative assistant"
+    - "executive assistant"
+    - "intern"
+    - "junior"
+    - "sales"
+    - "account executive"
+    - "customer success"
+    - "support"
+
+location_filter:
+  always_allow:
+    - "Vancouver"
+    - "British Columbia"
+    - "BC"
+    - "Canada"
+    - "Remote"
+    - "remote"
+  block:
+    - "India"
+    - "Bengaluru"
+    - "United Kingdom"
+    - "London"
+    - "Australia"
+    - "Singapore"
+    - "Germany"
+    - "France"
+    - "Japan"
+    - "Brazil"
+    - "Mexico"
+
+salary_filter:
+  min: 80000
+  max: 350000
+  currency: CAD
+
+scan_history:
+  recheck_after_days: 30
+
+tracked_companies:
+  # ═══════════════════════════════════════════════════════════════
+  # S PIPE (Startups) — SCAN-supported
+  # ═══════════════════════════════════════════════════════════════
+
+  # Greenhouse — auto-detected from URL
+  - name: Human Agency
+    careers_url: https://job-boards.greenhouse.io/humanagency
+    enabled: true
+  - name: Brex
+    careers_url: https://job-boards.greenhouse.io/brex
+    enabled: true
+  - name: OpenTable
+    careers_url: https://job-boards.greenhouse.io/opentable
+    enabled: true
+  - name: Thinkific
+    careers_url: https://job-boards.greenhouse.io/thinkific
+    enabled: true
+  - name: Marqeta
+    careers_url: https://job-boards.greenhouse.io/marqeta
+    enabled: true
+  - name: Zenoti
+    careers_url: https://job-boards.greenhouse.io/zenoti
+    enabled: true
+  - name: SOCi
+    careers_url: https://job-boards.greenhouse.io/soci
+    enabled: true
+
+  # Ashby — auto-detected from URL
+  - name: 1Password
+    careers_url: https://jobs.ashbyhq.com/1password
+    enabled: true
+  - name: Procurify
+    careers_url: https://jobs.ashbyhq.com/procurify
+    enabled: true
+  - name: Trulioo
+    careers_url: https://jobs.ashbyhq.com/trulioo
+    enabled: true
+
+  # Lever — auto-detected from URL
+  - name: Wealthsimple
+    careers_url: https://jobs.lever.co/wealthsimple
+    enabled: true
+
+  # Workday — auto-detected from URL
+  - name: Clio
+    careers_url: https://clio.wd3.myworkdayjobs.com/ClioCareerSite
+    enabled: true
+
+  # ═══════════════════════════════════════════════════════════════
+  # T PIPE (Tech) — SCAN-supported
+  # ═══════════════════════════════════════════════════════════════
+
+  - name: Amazon
+    careers_url: https://www.amazon.jobs
+    enabled: true
+
+  # SuccessFactors — explicit provider tag required (branded URL)
+  - name: TELUS
+    careers_url: https://careers.telus.com
+    provider: successfactors
+    enabled: true
+
+  # SmartRecruiters — auto-detected from URL
+  - name: AECOM
+    careers_url: https://careers.smartrecruiters.com/AECOM
+    enabled: true
+
+  # Workable — auto-detected from URL
+  - name: Aviso Wealth
+    careers_url: https://apply.workable.com/aviso-wealth
+    enabled: true
+
+  # ═══════════════════════════════════════════════════════════════
+  # C PIPE (Consulting) — SCAN-supported
+  # ═══════════════════════════════════════════════════════════════
+
+  # SuccessFactors — explicit provider tag required
+  - name: Deloitte Canada
+    careers_url: https://careers.deloitte.ca
+    provider: successfactors
+    enabled: true
+  - name: EY Canada
+    careers_url: https://careers.ey.com
+    provider: successfactors
+    enabled: true
+
+  # ═══════════════════════════════════════════════════════════════
+  # UNSUPPORTED ATS (Manual FETCH only)
+  # Keep for FETCH reference — SCAN cannot auto-detect these
+  # ═══════════════════════════════════════════════════════════════
+
+  # iCIMS — no provider in career-ops
+  - name: Indeed
+    careers_url: https://www.indeed.com/career
+    enabled: true
+  - name: Hootsuite
+    careers_url: https://careers-hootsuite.icims.com
+    enabled: true
+
+  # Taleo — no provider in career-ops
+  - name: lululemon
+    careers_url: https://careers.lululemon.com
+    enabled: true
+  - name: CGI
+    careers_url: https://www.cgi.com/en/careers
+    enabled: true
+
+  # Custom/Unknown ATS (not in 45 providers)
+  - name: KPMG Canada
+    careers_url: https://careers.kpmg.ca
+    enabled: true
+  - name: MNP
+    careers_url: https://www.mnp.ca/en/careers
+    enabled: true
+  - name: PwC Canada
+    careers_url: https://www.pwc.com/ca/en/careers.html
+    enabled: true
+  - name: Accenture
+    careers_url: https://www.accenture.com/ca-en/careers
+    enabled: true
+  - name: BC Hydro
+    careers_url: https://www.bchydro.com/toolbar/careers.html
+    enabled: true
+  - name: Shopify
+    careers_url: https://www.shopify.com/careers
+    enabled: true
+  - name: Copper
+    careers_url: https://www.copper.com/careers
+    enabled: true
+  - name: Hiive
+    careers_url: https://www.hiive.com/careers
+    enabled: true
+  - name: Remarcable
+    careers_url: https://www.remarcable.com/careers
+    enabled: true
