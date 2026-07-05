@@ -42,12 +42,12 @@
 
 | Factor | Score | Notes |
 |--------|:-----:|-------|
-| Operations Leadership | 10/10 | 45-60 person team, multi-site, built systems |
+| Operations Leadership | 10/10 | 70-person ops team, multi-site practice roll-up, built systems from zero |
 | Inventory / Resource Management | 7/10 | Managed resource allocation across 5+ locations; scheduling = capacity planning; SOPs = inventory protocols |
 | Systems Implementation | 9/10 | Built tech stack from zero, implemented EHR/billing/scheduling systems |
 | Data-Driven Decision Making | 8/10 | MBA + IT background, used data to optimize operations |
 | Cross-Functional Collaboration | 10/10 | Worked across product, sales, ops, finance, clinical teams |
-| People Leadership | 10/10 | Hired, trained, managed, developed 45-60 person team |
+| People Leadership | 10/10 | Hired, trained, managed, developed 3→70 person ops team |
 | Supplier/Vendor Management | 6/10 | Coordinated with clinical suppliers; indirect but present |
 | Travel Industry Experience | 2/10 | Significant gap — no travel background |
 | Commercial Acumen | 7/10 | MBA, involved in growth strategy, P&L awareness |

@@ -3,40 +3,40 @@ Aman Kumar
 
 PROFESSIONAL SUMMARY
 
-Operations executive who built a multi-site organization from 3 to 70 people across 32 locations, directed a $17M acquisition exit, and designed the complete operational infrastructure from scratch. Combines strategic thinking with hands-on execution — equally comfortable leading board-level strategy sessions, building financial models, managing full P&L ownership, or aligning diverse teams around a shared plan. Known for creating systems that scale without adding complexity.
+Operations Lead who built the centralized back-office operations for a US medical practice roll-up — grew the team from 3 to 70, integrated 5+ acquired practices, and delivered a $17M exit. Combines strategic thinking with hands-on execution across operations, risk management, and technical systems. Known for being the anchor who makes everything work — whatever it takes, whatever the scale.
 
 CORE COMPETENCIES
 
-Multi-Site Operations  |  Strategic Planning & Execution  |  P&L Management  |  M&A & Integration
-Systems Architecture & Automation  |  Cross-Functional Leadership  |  Board-Level Communication
-Quality Improvement & Process Optimization  |  Organizational Design
+Multi-Site Operations  |  Practice Integration & Roll-Up  |  Team Building (3→70)  |  Risk Management & Compliance
+EHR Systems (eCW, Athena)  |  Operations Infrastructure  |  Process Design & SOPs  |  Strategic Program Management
 
 PROFESSIONAL EXPERIENCE
 
-SkyflyMD  |  Director of Operations  |  Phoenix, AZ / Vancouver, BC  |  2017 – 2025
-Led operations for a multi-site organization. Built the operational infrastructure, strategic systems, and financial frameworks from zero.
+Skyfly Global (Supporting MoreMD & Affiliated Practices)  |  Operations Lead  |  Phoenix, AZ / Vancouver, BC  |  2018 – 2023
+Built and led the centralized back-office operations for a US medical practice network. Hired as one of three original team members, grew the operations team to 70, and managed the infrastructure, risk, and people that enabled 5+ practice acquisitions.
 
-• Organizational Leadership — built a multi-site organization from 3 to 70 employees across 32 locations, designing hiring frameworks, training programs, operational systems, and quality standards that scaled without adding complexity
+• Team Building & Leadership — grew operations team from 3 to 70 through strategic hiring, training, and promotion. Developed team leads, built sub-30-day new hire ramp programs, and maintained zero-defect culture across all workflows
 
-• Financial Management — managed full P&L ownership for $4M organization: budget planning, variance analysis, resource allocation, capital expenditure planning across 12 departments
+• Acquisition Integration — integrated 5+ acquired medical practices (MoreMD, EZ Ear Heart Rhythm, pain specialty, Sonoran MD, eye clinic, ServeMD) into centralized ops. For each: learned new EHR systems, built workflows, assigned teams, established communication protocols between US clinics and India operations
 
-• Systems Architecture — designed and implemented complete operational tech stack (EHR, billing, scheduling, analytics, reporting) — automated workflows, KPI dashboards, real-time performance visibility across all locations
+• Risk Management & Compliance — served as single point of escalation for all patient-facing communications. Enforced HIPAA compliance, controlled substance protocols, and quality standards across 32 locations in 8 states. Managed crisis situations: professional apology, retrain, system fix
 
-• M&A & Integration — directed end-to-end $17M acquisition: structured 8 due diligence workstreams, managed integration across all locations, consolidated 8 operational systems within 90 days, retained 100% of key talent
+• Technical Infrastructure — designed and managed complete operations tech stack from zero. Configured VOIP, internet redundancy, hardware provisioning, and EHR systems (eClinicalWorks, Athenahealth). Wrote Python scripts for clinic scouting automation and used LLM tools for process efficiency before mainstream adoption
 
-• Cross-Functional Leadership — built governance rhythms, communication frameworks, and decision-making structures that aligned diverse stakeholders across multiple locations, functional areas, and external partners
+• Revenue Growth — operational systems directly supported growth from $300K to $4M ARR. Scouted retiring doctors' practices across AZ, TX, OK, NE, CA, NV, FL, AL for acquisition pipeline
+
+• M&A Transition — navigated $17M acquisition exit: maintained operational continuity through transition, protected team through acquirer's post-merger elimination attempts, retained 100% key talent through 12-month transition period
 
 Earlier Career
-Digital Strategy Manager (2016–2018) — digital strategy, campaign analytics, ROI measurement
-Client Services Representative (2014–2016) — client escalations, complex issue resolution
+Digital Strategy — campaign analytics, ROI measurement, client escalations
 
 EDUCATION
 
-Master of Business Administration (MBA)
-Post-Baccalaureate Diploma in Business Management — KPU, Surrey, BC
+Master of Business Administration (MBA) — International Business & IT
+Post-Baccalaureate Diploma in Technical Management & Services — KPU, Surrey, BC
 Bachelor of Science, Information Technology
 
 TECHNICAL PROFICIENCY
 
-Financial Modeling & Analysis  |  OKR Frameworks  |  KPI Dashboards & Data Visualization
-Google Workspace  |  CRM Platforms  |  Project Management Tools  |  AI-Augmented Workflows
+EHR Systems (eCW, Athenahealth)  |  Python Scripting  |  Operations Infrastructure  |  Process Automation
+Microsoft 365  |  Google Workspace  |  AI-Augmented Workflows  |  KPI Dashboards

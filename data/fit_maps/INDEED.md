@@ -6,7 +6,7 @@
 |-----------|:-----:|-----|
 | M&A integration execution | 10 | Directed $17M acquisition. 8 workstreams. Built playbook from zero. |
 | Cross-functional program delivery | 9 | Coordinated finance, legal, ops, IT, HR across 32 locations and 5 clinic groups. |
-| Operations infrastructure building | 10 | Scaled 3→70 FTEs. Built every system from scratch — no playbook existed. |
+| Operations infrastructure building | 10 | Grew centralized ops team from 3→70 across 5+ acquired practices. Built every system from scratch — no playbook existed. |
 | Data-driven decision making | 9 | Board-level reporting, OKR systems, financial models across multi-site operation. |
 | Ambiguity → structure | 10 | Entered a company with 3 people and no systems. Left it with 70 people and a playbook. |
 | Simplicity (Indeed value) | 9 | Designed simple operating rhythms, clear governance, one-page reporting. |
@@ -76,4 +76,4 @@
 
 ## One-Sentence Positioning
 
-> *"I joined a 3-person operation and built the infrastructure that scaled it to 70 people across 32 locations, directed a $17M acquisition end-to-end, and created the integration playbook that didn't exist before — and I want to do the same for Indeed's M&A pipeline."*
+> *"I built the centralized operations backbone for a US medical practice roll-up — grew the back-office team from 3 to 70, integrated 5+ acquisitions across 32 locations in 8 states, and delivered a $17M exit. That playbook applies directly to scaling Indeed's strategic initiatives."*

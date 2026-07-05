@@ -5,7 +5,7 @@
 | Dimension | Score | Why |
 |-----------|:-----:|-----|
 | M&A transaction experience | 9 | Directed full-cycle $17M acquisition. Due diligence, integration, Day 1 readiness. |
-| Operations transformation | 9 | Built multi-site operation from 3→70. Tech transformation (EHR, billing, RCM, scheduling). |
+| Operations transformation | 9 | Grew centralized ops team 3→70 across 5+ practice acquisitions. Tech transformation (EHR, billing, RCM, scheduling). |
 | Cross-functional scope | 8 | Wider than most consultants ever see. Ops, finance, HR, IT, compliance, strategy. |
 | Client management | 8 | 7 years serving a US-based MD. Every interaction was client management. |
 | Structured thinking | 7 | Pattern-recognition thinker. Issue trees are learnable (2 days). |
@@ -40,7 +40,7 @@
 |-----------|---------------|-----------------|:-----:|
 | M&A deal experience | Directed $17M acquisition. 8 workstreams. Due diligence through integration. | M&A Transaction Diligence — need someone who's walked through a deal | ✅ |
 | Integration execution | Built playbook, consolidated 8 systems into 1, retained 100% talent | Post-merger integration is core deliverable | ✅ |
-| Operations transformation | Scaled 3→70, built from zero, designed systems | Operations Transformation practice needs operators | ✅ |
+| Operations transformation | Grew centralized ops team 3→70, built from zero, designed systems | Operations Transformation practice needs operators | ✅ |
 | Client relationships | 7-year relationship with MD client | Consulting = client management | ✅ |
 | Industry depth | Healthcare (multi-site) | Deloitte has massive healthcare practice | ✅ |
 | Case interviews | Never done one | Gate 2 of Deloitte interview | ⚠️ Practice needed |

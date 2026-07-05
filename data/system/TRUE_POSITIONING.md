@@ -8,13 +8,13 @@
 
 You're not an EA. You're not a consultant who's never built. You're not a pure startup guy.
 
-**You're a Strategic Operator + Builder-Consultant.** The person who sits between the CEO and the engine room — takes vision, builds the systems to execute it, manages the people who run it, and makes the numbers work. You've done it. The $17M exit proves it.
+**You built the centralized operations backbone for a US medical practice roll-up.** You grew the back-office team from 3 to 70, integrated 5+ acquisitions across 32 locations in 8 states, and enabled a $17M exit. You're a Strategic Operator + Builder-Consultant — the person who sits between the CEO and the engine room, takes the vision, builds the systems to execute it, and makes the numbers work.
 
 ---
 
 ## THE ONE TRUE PITCH (Universal — Every Pipe)
 
-> *"I built something from nothing — scaled the operations team from 3 to 70, serving 32 locations. Led the technology transformation myself. Managed every dollar of the P&L. Delivered a $17M exit. I don't need to learn how your business works — I need to make it work better."*
+> *"I built the centralized operations backbone for a US medical practice roll-up — grew the back-office team from 3 to 70, integrated 5+ acquisitions across 32 locations in 8 states, and delivered a $17M exit. I don't need to learn how your business works — I need to make it work better."*
 
 ---
 
@@ -146,11 +146,12 @@ You're not an EA. You're not a consultant who's never built. You're not a pure s
 
 ```
 $80K-$105K  → ❌ Below your value (EA roles, junior roles)
-$106K-$120K → ⚠️ Acceptable floor for right company/growth
-$120K-$150K → ✅ Target zone (most realistic)
+$106K-$119K → ❌ Below floor — skip unless exceptional circumstances
+$120K-$150K → ✅ Target zone (most realistic) — MATCHES $155K VALIDATED OFFER
 $151K-$200K → 🎯 Strong target (Director-level, FAANG OPM, Senior Manager consulting)
 $201K-$252K → 🚀 Stretch target (Methanex Director-level, Senior Director)
 ```
+**Note:** $155K offer already received and accepted as validation of target zone.
 
 ---
 

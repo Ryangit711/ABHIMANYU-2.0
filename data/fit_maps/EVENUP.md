@@ -18,4 +18,4 @@
 
 ## One-Sentence Positioning
 
-> *"I built the revenue-generating operational infrastructure that scaled a business from 3 to 70 people and delivered a $17M exit — Revenue Operations at EvenUp is exactly where a builder like me creates the systems that turn strategy into revenue."*
+> *"I built the centralized operations backbone for a US medical practice roll-up — grew the back-office team from 3 to 70, integrated 5+ acquisitions, and delivered a $17M exit. Revenue Operations at EvenUp needs exactly that kind of systems builder."*

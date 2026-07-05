@@ -13,7 +13,7 @@
 **Change to (exact copy):**
 
 ```
-Strategic Operations & Strategy Leader | Built & Exited $17M Enterprise — Scaled Operations Team from 3→70 Across 32 Locations | MBA | Vancouver
+Strategic Operations & Strategy Leader | Built Centralized Ops Backbone for Medical Practice Roll-Up — Grew Team 3→70, Integrated 5+ Acquisitions, $17M Exit | MBA | Vancouver
 ```
 
 **What to do:**
@@ -71,17 +71,16 @@ On-site, Remote, Hybrid — all selected
 **Delete all of it. Replace with this exact text:**
 
 ```
-I was one of three operations people in the room at the start. Built the team to 70, serving 32 locations. Managed every dollar of the P&L. Led the technology transformation. Delivered a $17M exit.
+I built the centralized operations backbone for a US medical practice roll-up — from three people in a room to a 70-person team, integrating 5+ acquired practices across 32 locations in 8 states, with a $17M exit.
 
-Now I help growing organizations solve their hardest operational problems.
-
-Over 8 years, I built the operations function for a multi-site enterprise — from scratch to scale. I built the systems, processes, and teams that turned startup chaos into enterprise precision. My work spanned operations, technology implementation, M&A integration, and organizational design.
+Over 8 years, I grew from being one of three original team members to leading the operations infrastructure, risk management, and systems that enabled a practice network to scale from $300K to $4M ARR.
 
 What I actually do:
-— Take complex operations and make them simple
-— Build teams that don't need me to run them
+— Build operations teams from scratch and scale them to 70+ people
+— Integrate acquired companies operationally (systems, people, workflows)
+— Manage risk and compliance across multi-site healthcare operations
+— Design tech infrastructure that actually works in the real world
 — Bridge strategy and execution (I can write the plan AND do the work)
-— Implement technology that people actually want to use
 
 Education: MBA (International Business & IT) | Post-Baccalaureate Diploma, Technical Management & Services (KPU, Vancouver)
 
@@ -89,7 +88,7 @@ Open to Strategy & Operations leadership roles in consulting, technology, and hi
 
 ---
 
-If you're solving a hard operational problem and need someone who's done it before — let's talk.
+If you're scaling an operation and need someone who's done it before — let's talk.
 ```
 
 **What to do:**
@@ -116,17 +115,15 @@ Director of Operations & Strategy
 **Description (delete all existing bullets, replace with these):**
 
 ```
-• Built and scaled the operations function from 3 people to 70 — one of the original three. The team managed operations across 28-32 locations as the enterprise grew through M&A and organic expansion.
+• Built the centralized back-office operations for a US medical practice roll-up — grew the operations team from 3 to 70 across 5+ acquired practices (MoreMD, EZ Ear Heart Rhythm, pain specialty, Sonoran MD, ServeMD), supporting 32 locations across 8 states
 
-• Led the technology transformation: designed and implemented the full tech stack (EHR, billing, scheduling, RCM, CRM) across 20+ locations, enabling 30% appointment volume growth
+• Integrated acquisition operations end-to-end: learned new EHR platforms (eCW, Athenahealth), built workflows, assigned teams, established communication protocols between US clinics and India ops — each acquisition integrated within 90 days of close
 
-• Managed P&L and operational finances, overseeing revenue growth from $0 to $4M ARR
+• Served as primary risk manager and escalation point for all patient-facing communications (HIPAA). Enforced controlled substance protocols, managed crisis situations, and built quality systems that protected the practice network across thousands of daily patient interactions
 
-• Led M&A operational integration across multiple acquisitions — aligned backend systems, processes, and teams across legacy and acquiring entities
+• Designed and implemented complete operations tech stack from zero: VOIP, internet redundancy, hardware provisioning, EHR configuration. Wrote Python scripts for clinic scouting automation; early adopter of LLM tools for process efficiency
 
-• Built cross-functional teams from scratch: hired, trained, and developed 45+ operations staff across clinical operations, billing, IT, and administration
-
-• Drove the company to a successful $17M exit by building scalable systems, operational rigor, and a self-sustaining team structure
+• Operational systems directly enabled revenue growth from $300K to $4M ARR and a $17M exit. Scouted retiring doctors' practices across 8 states for acquisition pipeline. Navigated post-merger transition protecting team through elimination attempts
 ```
 
 **What to do:**
@@ -240,27 +237,27 @@ Content > silence. A single post signals you're active.
 
 ```
 
-I built something from nothing.
+I built the centralized operations backbone for a US medical practice roll-up.
 
-6 years ago, I was one of three operations people at a small healthcare company with 2 locations.
+6 years ago, I was one of three people in a room. Our job: handle all operational communication for a 3-location medical practice in Arizona.
 
-Last year, I led an operations team of 70 people serving 32 locations, with $4M in ARR and a $17M exit.
+By the end, I led a 70-person centralized operations team supporting 5+ acquired practices across 32 locations in 8 states. Revenue went from $300K to $4M ARR. The practice network sold for $17M.
 
-Here's what I learned about scaling:
+Here's what I learned:
 
-1. Systems before people. If you hire before you have processes, you get chaos. Build the machine first, then staff it.
+1. M&A integration is 90% operations. The deal closes in 30 days. Making the acquired practice actually work with your systems takes months. That's where value gets made or lost.
 
-2. Tech transformation is 20% software and 80% change management. The best EHR system fails if nobody wants to use it.
+2. Build the systems before you need them. By the time you feel the pain of broken processes, it's already costing you money.
 
-3. M&A integration is where value gets made or lost. The deal is just the beginning — the real work starts the day after closing.
+3. Risk management IS operations. One compliance mistake in a multi-site healthcare operation can undo years of work. Build quality into every process.
 
-4. Your best hire is someone who can do the job better than you. If you're still the smartest person in the room, you haven't scaled enough.
+4. Your team is only as strong as your training pipeline. We ramped new hires to independent work in under 30 days. That speed gave us the flexibility to absorb 5+ acquisitions without breaking.
 
-5. The exit isn't the goal. The goal is building something that works without you. The exit is just the scoreboard.
+5. The exit isn't the win. The win is building something that operates without you. The exit is just confirmation that you did.
 
-Now exploring my next chapter in Vancouver. Open to strategy & operations roles where I can build, transform, and scale.
+Now looking for my next challenge in Vancouver. Open to strategy & operations roles where I can build, transform, and scale.
 
-If any of this resonates — let's connect.
+If this resonates — let's connect.
 ```
 
 **What to do:**

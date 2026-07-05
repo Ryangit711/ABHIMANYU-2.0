@@ -18,4 +18,4 @@
 
 ## One-Sentence Positioning
 
-> *"I spent 8 years building the operational infrastructure that scaled a startup from 3 to 70 people and directed its $17M exit — I want to do the same for Hiive as your Chief of Staff."*
+> *"I spent 8 years building the centralized operations backbone for a US medical practice roll-up — grew the team from 3 to 70, integrated 5+ acquisitions, and delivered a $17M exit. I want to do the same for Hiive as your Chief of Staff."*
