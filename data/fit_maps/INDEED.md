@@ -76,4 +76,4 @@
 
 ## One-Sentence Positioning
 
-> *"I built the centralized operations backbone for a US medical practice roll-up — grew the back-office team from 3 to 70, integrated 5+ acquisitions across 32 locations in 8 states, and delivered a $17M exit. That playbook applies directly to scaling Indeed's strategic initiatives."*
+> *"I built the centralized operations backbone for a US medical practice roll-up — grew the back-office team from 3 to 70, integrated 5+ acquisitions across 32 locations in 4 states, and delivered a $17M exit. That playbook applies directly to scaling Indeed's strategic initiatives."*

@@ -71,7 +71,7 @@ On-site, Remote, Hybrid — all selected
 **Delete all of it. Replace with this exact text:**
 
 ```
-I built the centralized operations backbone for a US medical practice roll-up — from three people in a room to a 70-person team, integrating 5+ acquired practices across 32 locations in 8 states, with a $17M exit.
+I built the centralized operations backbone for a US medical practice roll-up — from three people in a room to a 70-person team, integrating 5+ acquired practices across 32 locations in 4 states, with a $17M exit.
 
 Over 8 years, I grew from being one of three original team members to leading the operations infrastructure, risk management, and systems that enabled a practice network to scale from $300K to $4M ARR.
 
@@ -115,7 +115,7 @@ Director of Operations & Strategy
 **Description (delete all existing bullets, replace with these):**
 
 ```
-• Built the centralized back-office operations for a US medical practice roll-up — grew the operations team from 3 to 70 across 5+ acquired practices (MoreMD, EZ Ear Heart Rhythm, pain specialty, Sonoran MD, ServeMD), supporting 32 locations across 8 states
+• Built the centralized back-office operations for a US medical practice roll-up — grew the operations team from 3 to 70 across 5+ acquired practices (MoreMD, EZ Ear Heart Rhythm, pain specialty, Sonoran MD, ServeMD), supporting 32 locations across 4 states
 
 • Integrated acquisition operations end-to-end: learned new EHR platforms (eCW, Athenahealth), built workflows, assigned teams, established communication protocols between US clinics and India ops — each acquisition integrated within 90 days of close
 
@@ -123,7 +123,7 @@ Director of Operations & Strategy
 
 • Designed and implemented complete operations tech stack from zero: VOIP, internet redundancy, hardware provisioning, EHR configuration. Wrote Python scripts for clinic scouting automation; early adopter of LLM tools for process efficiency
 
-• Operational systems directly enabled revenue growth from $300K to $4M ARR and a $17M exit. Scouted retiring doctors' practices across 8 states for acquisition pipeline. Navigated post-merger transition protecting team through elimination attempts
+• Operational systems directly enabled revenue growth from $300K to $4M ARR and a $17M exit. Scouted retiring doctors' practices across 4 states for acquisition pipeline. Navigated post-merger transition protecting team through elimination attempts
 ```
 
 **What to do:**
@@ -241,7 +241,7 @@ I built the centralized operations backbone for a US medical practice roll-up.
 
 6 years ago, I was one of three people in a room. Our job: handle all operational communication for a 3-location medical practice in Arizona.
 
-By the end, I led a 70-person centralized operations team supporting 5+ acquired practices across 32 locations in 8 states. Revenue went from $300K to $4M ARR. The practice network sold for $17M.
+By the end, I led a 70-person centralized operations team supporting 5+ acquired practices across 32 locations in 4 states. Revenue went from $300K to $4M ARR. The practice network sold for $17M.
 
 Here's what I learned:
 

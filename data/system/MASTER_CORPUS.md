@@ -13,7 +13,7 @@
 | **Initial setup** | 1 practice (MoreMD, Arizona), 3 locations, 3-person ops team (Aman + Stanley + Gavin Casper) | Launched operations for multi-site medical practice |
 | **Acquisitions rolled in** | MoreMD (original) → Flagstaff/Mesa small practice → 2nd practice (4-5 clinics) → EZ Ear Heart Rhythm (cardiology, Athena EHR) → Pain specialty clinic (4-5 locations) → Sonoran MD (Texas pilot) → Eye clinic (2 locations) → ServeMD (Arizona, post-NDA, 6 locations) | Operations Lead for 5+ practice acquisitions |
 | **Team growth** | Centralized back-office ops team: 3 → 70 people (hired, trained, managed) | Grew ops team from 3 to 70 |
-| **Locations supported** | 32 locations across 8 US states (AZ, TX, OK, NE, CA, NV, FL, AL) | Supported 32 locations across 8 states |
+| **Locations supported** | 32 locations across 4 US states (AZ, TX, NV, OK) — primary AZ, acquisitions in TX, NV, OK | Supported 32 locations across 4 states |
 | **Revenue** | $300K (Year 1) → $4M ARR (by Year 5, ~2022) | Grew revenue from $300K to $4M |
 | **Exit** | MoreMD sold to larger group for $17M (2022) | $17M acquisition exit |
 | **Post-exit** | New acquirer tried to remove ops team; Aman fought to keep team employed 2022-2023; Dr. Raghav started ServeMD (Texas, then Arizona); NDA expired → ServeMD Arizona 6 locations | Transitioned through M&A, retained team |
@@ -41,7 +41,7 @@
 
 **4th acquisition:** Pain specialty clinic — 4-5 locations, 7-10 providers, thousands of patients. Team expanded again.
 
-**Clinic scouting (2021-2022):** Dr. Raghav wanted to scout retiring doctors in small cities across TX, OK, NE, AZ, CA, NV, FL, AL. Aman manually scouted via real estate pages. Before AI boom, wrote Python scripts to automate parts of the search. Used LLMs before they were popular (his edge — no one in the office knew). He would write precision emails, refine work with AI, keep it to himself.
+**Clinic scouting (2021-2022):** Dr. Raghav wanted to scout retiring doctors in small cities across AZ, TX, NV, OK (core operating states) and explored further afield (NE, CA, FL, AL). Aman manually scouted via real estate pages. Before AI boom, wrote Python scripts to automate parts of the search. Used LLMs before they were popular (his edge — no one in the office knew). He would write precision emails, refine work with AI, keep it to himself.
 
 **Financials:** First year revenue $300K. By Year 5 (approx 2022): $4M ARR.
 
@@ -115,7 +115,7 @@ Aman didn't build a company. He **was the operations backbone** for a medical pr
 - Not a fresh MBA with no real experience (he lived it for 8 years)
 
 ### The One Sentence
-> *"I built the centralized operations backbone for a US medical practice roll-up — grew the team from 3 to 70, integrated 5+ acquisitions across 32 locations in 8 states, and delivered a $17M exit. I don't need to learn how your business works. I need to make it work better."*
+> *"I built the centralized operations backbone for a US medical practice roll-up — grew the back-office team from 3 to 70, integrated 5+ acquisitions across 32 locations in 4 states, and delivered a $17M exit. I don't need to learn how your business works. I need to make it work better."*
 
 ---
 
@@ -199,3 +199,4 @@ This document is sourced from:
 - User's text corrections and clarifications across multiple messages (2026-07-02 to 2026-07-04)
 - Previous JOBS-OS-2026/01_MASTER_CORPUS.md (older conservative framing, superseded)
 - $155K offer validated by user
+- skyflymd.com Wayback Machine captures (7 captures, Aug 2018–May 2024) — confirmed Texas HQ (8700 E University Dr Suite 200, Cross Roads, TX 76227), US phone (623) 363-0644, 5 real US doctor testimonials (Raghav Mohindra, Vijay Swarup, Vivek Narasimhan, Rohit Dwivedi, Ashish Sachdeva), professional RCM services (medical billing, coding, AR, analytics, credentialing). User designed the logo, directed the web developer.

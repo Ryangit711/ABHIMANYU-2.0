@@ -8,13 +8,13 @@
 
 You're not an EA. You're not a consultant who's never built. You're not a pure startup guy.
 
-**You built the centralized operations backbone for a US medical practice roll-up.** You grew the back-office team from 3 to 70, integrated 5+ acquisitions across 32 locations in 8 states, and enabled a $17M exit. You're a Strategic Operator + Builder-Consultant — the person who sits between the CEO and the engine room, takes the vision, builds the systems to execute it, and makes the numbers work.
+**You built the centralized operations backbone for a US medical practice roll-up.** You grew the back-office team from 3 to 70, integrated 5+ acquisitions across 32 locations in 4 states, and enabled a $17M exit. You're a Strategic Operator + Builder-Consultant — the person who sits between the CEO and the engine room, takes the vision, builds the systems to execute it, and makes the numbers work.
 
 ---
 
 ## THE ONE TRUE PITCH (Universal — Every Pipe)
 
-> *"I built the centralized operations backbone for a US medical practice roll-up — grew the back-office team from 3 to 70, integrated 5+ acquisitions across 32 locations in 8 states, and delivered a $17M exit. I don't need to learn how your business works — I need to make it work better."*
+> *"I built the centralized operations backbone for a US medical practice roll-up — grew the back-office team from 3 to 70, integrated 5+ acquisitions across 32 locations in 4 states, and delivered a $17M exit. I don't need to learn how your business works — I need to make it work better."*
 
 ---
 
