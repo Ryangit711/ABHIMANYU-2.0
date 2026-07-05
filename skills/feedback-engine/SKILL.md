@@ -1,6 +1,6 @@
 ---
 name: feedback-engine
-description: "Triggered by LEARN [company] [outcome], LEARN [company] --deep, or auto-signal from pipeline-tracker on ❌/💰/📞. Closes the loop: outcome → analysis → system update → pipeline sync. Every rejection or offer changes the system permanently. Cross-wired: reads from pipeline, writes to learned files, signals back to pipeline."
+description: "Triggered by LEARN [company] [outcome], LEARN [company] --deep, PATTERNS, or auto-signal from pipeline-tracker on ❌/💰/📞. Closes the loop: outcome → analysis → system update → pipeline sync. PATTERNS runs career-ops analyze-patterns.mjs for cross-application insights (ATS vendor analysis, archetype performance, score thresholds). Every rejection or offer changes the system permanently. Cross-wired: reads from pipeline, writes to learned files, signals back to pipeline."
 ---
 
 # FEEDBACK ENGINE — Systemic Learning Loop
@@ -132,6 +132,28 @@ Append to `data/learned/[company].md`:
 **System change made:** [what was updated]
 **Lesson for future:** [one-sentence takeaway]
 ```
+
+### Step 5b — career-ops Pattern Analysis (Enhanced LEARN --deep)
+
+When `LEARN [company] --deep` or auto-signal on 3+ rejections:
+
+```bash
+node lib/career-ops/analyze-patterns.mjs --summary
+```
+
+This cross-references ALL tracked applications and returns:
+
+| Dimension | What It Tells You |
+|-----------|------------------|
+| `archetypeBreakdown` | Which pipe framing converts best across all applications |
+| `vendorAnalysis` | Which ATS platforms advance vs block you (Greenhouse vs Workday vs Lever) |
+| `scoreComparison` | Average score needed per outcome group |
+| `blockerAnalysis` | Most frequent hard blockers (geo, stack, seniority) |
+| `remotePolicy` | Remote vs hybrid conversion rates |
+| `scoreThreshold` | Data-driven minimum score floor |
+| `recommendations` | Top 5 actionable items |
+
+Write result to `reports/pattern-analysis-YYYY-MM-DD.md`. Update `data/learned/pipes.md` with any new archetype/ATS insights.
 
 ### Step 6: Propagate to Pipeline
 

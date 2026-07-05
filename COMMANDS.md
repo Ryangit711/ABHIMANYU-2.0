@@ -16,6 +16,13 @@
 | Command | What It Does |
 |---------|-------------|
 | `WIDENET` | Broadened FETCH |
+| `SCAN` | **NEW** — Auto-scan 49 ATS providers via career-ops |
+| `SCAN --company [name]` | Scan single company's ATS |
+| `SCAN --verify` | Playwright-check URLs, drop expired |
+| `SCAN --fresh` | Only 24h fresh results |
+| `SCAN --dry-run` | Preview without writing files |
+| `INTEL [company]` | **NEW** — Social intelligence on target company |
+| `DOCTOR` | **NEW** — Check scanner/intelligence health |
 | `ATOMIZE [paste JD]` | Extract company DNA |
 | `SCORE [jd_text]` | TF-IDF fit score |
 | `DISTILL [topic/url]` | Social intelligence harvest |
@@ -32,6 +39,8 @@
 | `EVAL` | Score current resume against ops/consulting criteria |
 | `EVAL --compare [v1] [v2]` | A/B test two resume versions |
 | `EVAL --target [company]` | Evaluate alignment for specific company |
+| `GENPDF [company]` | **NEW** — Generate ATS-optimized PDF resume (on-demand) |
+| `GENPDF [company] --canva` | Generate via Canva design template |
 | `OPTIMIZE LINKEDIN [company]` | Profile audit |
 | `LINKEDIN APPLY-AUDIT` | Apply audit changes |
 
@@ -50,16 +59,23 @@
 |---------|-------------|
 | `CADENCE` | Full tracker |
 | `CADENCE --footer` | Compact footer |
+| `CADENCE --dashboard` | **Enhanced** — Show overdue/urgent/waiting/cold buckets |
 | `CADENCE SUBMIT [company]` | Start T+0 timer |
 | `CADENCE UPDATE [co] [leg] [action]` | Mark sent/replied/complete |
 | `CADENCE CONTACT [co] [name] [title] [url]` | Add contact |
+| `CADENCE DRAFT [company]` | **NEW** — Generate follow-up email/LinkedIn draft |
+| `CADENCE RECORD [company]` | **NEW** — Record a follow-up you actually sent |
+| `CADENCE PIN [co] [date]` | **NEW** — Pin specific next-follow-up date |
 
-## LEARNING
+## LEARNING & PATTERNS
 
 | Command | What It Does |
 |---------|-------------|
 | `LEARN [company] [outcome]` | Feed outcome back |
-| `LEARN [company] --deep` | Full analysis |
+| `LEARN [company] --deep` | Full analysis + runs career-ops pattern analysis |
+| `PATTERNS` | **NEW** — Run cross-application pattern analysis |
+| `PATTERNS --quick` | Light check — pending outcomes only |
+| `PATTERNS --min-threshold N` | Require min N entries per pattern |
 | `THOUGHT [search]` | Search journal |
 | `THOUGHT --today` | Today's log |
 | `THOUGHT --last` | Last 10 prompts |

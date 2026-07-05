@@ -971,12 +971,15 @@ The goal at every stage is the same: **they see you and think "this is one of us
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  📖 MANUAL: MASTER_USER_MANUAL.md  |  ⚡ COMMANDS: COMMANDS.md      ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  FETCH · WIDENET · SHOOT [co] · YES · AUTO-APPLY · STATUS          ║
+║  FETCH · WIDENET · SCAN · INTEL [co] · DOCTOR                      ║
+║  SHOOT [co] · YES · AUTO-APPLY · STATUS · GENPDF [co]              ║
 ║  ATOMIZE [JD] · SCORE [text] · EVAL · DISTILL · REFRESH            ║
 ║  TRACK · TRACK --active/--offers/--stats · AUDIT                    ║
-║  CADENCE · CADENCE SUBMIT · CADENCE UPDATE · CADENCE --footer       ║
+║  CADENCE · CADENCE --dashboard · CADENCE DRAFT                      ║
+║  CADENCE SUBMIT/UPDATE/RECORD/PIN · CADENCE --footer                ║
 ║  LINKEDIN CONNECT · LINKEDIN INBOX · LINKEDIN SEARCH                ║
-║  LEARN [co] [outcome] · NEGOTIATE [co] [offer]                      ║
+║  LEARN [co] [outcome] · LEARN [co] --deep · PATTERNS                ║
+║  PATTERNS --quick · NEGOTIATE [co] [offer]                          ║
 ║  BATCH [cos] · BATCH --all · MANUAL-SUBMIT [co]                     ║
 ║  LIFTOFF · DAEMON START/STOP/STATUS · INGEST [url]                  ║
 ║  THOUGHT · THOUGHT --today/--last/--range/--journal                 ║

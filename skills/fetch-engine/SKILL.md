@@ -1,6 +1,6 @@
 ---
 name: fetch-engine
-description: "Triggered when user says FETCH, WIDENET, or FETCH --pipe / --urls / --score. Executes continuous 24h-fresh job discovery across all 4 pipes. Every job MUST be posted within last 24 hours of command time. Stale jobs are skipped instantly and replaced from same source. Move like light."
+description: "Triggered when user says FETCH, WIDENET, SCAN, or FETCH --pipe / --urls / --score. SCAN runs career-ops 49-provider auto-scanner. FETCH runs manual board search + SCAN together. Executes continuous 24h-fresh job discovery across all 4 pipes. Every job MUST be posted within last 24 hours of command time. Stale jobs are skipped instantly and replaced from same source. Move like light."
 ---
 
 # FETCH ENGINE — 8-Phase Job Discovery Pipeline
@@ -48,6 +48,12 @@ Show SYSTEM READY banner. If any check fails → warn user and stop.
 - **Pipe prioritization**: READ `data/learned/pipes.md` — prioritize pipes with highest callback/offer rate. If S pipe has 50% callback rate and C pipe has 0%, allocate more search effort to S.
 - Cross-check Greenhouse boards: Brex, Hootsuite, EviSmart, Thinkific, Practice Better
 - Test NEW Greenhouse slugs each run: GitLab, Zapier, Notion, Canva, Stripe, HubSpot, etc.
+- **NEW — career-ops auto-scan**: ALSO run `node lib/career-ops/scan.mjs` in parallel
+  → Hits 49 ATS providers (Greenhouse, Lever, Ashby, Workday, BambooHR, etc.)
+  → Returns structured `{ title, url, company, location, postedAt }` for each
+  → Merge results with manual board search → dedup by URL → unified CURATED stream
+  → If `--company [name]` specified, scan single company:
+    `node lib/career-ops/scan.mjs --company "[name]"`
 - Apify fallback when webfetch returns blank/truncated
 
 ## Phase 2b — Deduplicate Across ALL Sources

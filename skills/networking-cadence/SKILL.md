@@ -70,8 +70,17 @@ description: "Auto-triggered after YES (approval) — no SUBMITTED command neede
 ║  🎯 T+0: Submit [company] — due today                  ║
 ║  ⏳ T+3: Connect IC at [company]                       ║
 ║  ⏳ T+7: Follow-up Mgr at [company]                    ║
-║  Say LINKEDIN CONNECT [name] to send, or SKIP.        ║
+  ║  Say LINKEDIN CONNECT [name] to send, or SKIP.        ║
 ╚═══════════════════════════════════════════════════════╝
+
+4. **NEW — career-ops enhanced cadence**: ALSO run after every CADENCE command:
+   ```bash
+   node lib/career-ops/followup-cadence.mjs --summary
+   ```
+   → Shows overdue/urgent/waiting/cold buckets in dashboard format
+   → Detects companies that replied (urgent — respond 24h)
+   → Detects 2+ follow-ups with no reply (cold — suggest closing)
+   → Merges with existing T+0/T+3/T+7/T+14/T+28 cadence data
 ```
 
 ---
@@ -107,6 +116,10 @@ description: "Auto-triggered after YES (approval) — no SUBMITTED command neede
 | `SKIP [company]` | Skips current action, advances cadence |
 | `NETSTAT` | Read `data/networking_log.json` → display full cadence table |
 | `SUBMITDATE [company] YYYY-MM-DD` | Override submission date (recalculates all T+ dates) |
+| `CADENCE --dashboard` | Enhanced: show overdue/urgent/waiting/cold buckets via followup-cadence.mjs |
+| `CADENCE DRAFT [company]` | Generate follow-up email with company-specific context |
+| `CADENCE RECORD [company]` | Record a follow-up you actually sent |
+| `CADENCE PIN [company] [date]` | Pin specific next-follow-up date |
 
 ---
 
