@@ -1,8 +1,18 @@
 # Practice Better — Director of Revenue Operations
 
-**Applied:** ~2026-06-11  
-**Outcome:** Rejected post-application (no interview)  
+**Applied:** ~2026-06-11
+**Outcome:** Rejected post-application (no interview — Davin then apologized and gave honest feedback)
 **Source:** Davin Gislason, Senior Talent Acquisition Specialist
+
+## Email Chain Summary
+
+1. Application submitted via Greenhouse → auto-reply with links to learn about company
+2. Later received a **post-interview rejection template** (confusing since no interview happened)
+3. Wrote back to Davin: flagged the error, confirmed no interview had occurred, asked for clarity
+4. Davin apologized, confirmed it was a system/template mistake, gave honest feedback:
+   - **ARR scale gap:** Role required experience at $30-100M ARR; SkyflyBD scaled to $4M
+   - **Not currently in-seat:** They wanted someone currently in a PLG SaaS RevOps role, not consulting/advisory
+5. Sent gracious reply acknowledging the transparency — left door open for future
 
 ## Feedback (verbatim)
 
@@ -13,12 +23,19 @@
 
 | Factor | What Happened | Lesson |
 |--------|--------------|--------|
-| ARR gap | $4M vs $30-100M | For SaaS targets >$20M ARR, the framing must bridge this gap. Lead with "operating partner who built $0→$4M and advises portfolio companies at $10-50M+" |
-| Positioning | They read "consulting/advisory" | The `advisory` framing hurt. For T pipe (SaaS), must lead with current in-seat operator framing. C pipe framing (builder-consultant) only works for consulting firms |
-| PLG language | Practice Better is PLG (product-led growth) | JD likely required PLG experience — this was either missed in positioning or not emphasized enough |
+| ARR gap | $4M vs $30-100M | For Series B+ SaaS targets (>$20M ARR), must bridge gap in framing: "built from scratch; now advises $10-50M portfolio companies" |
+| Positioning | They read "consulting/advisory" | Consulting/advisory framing HURTS for S/T pipe SaaS roles. Must lead with "full-time operator" frame for RevOps positions |
+| PLG language | Practice Better is product-led growth | Need to emphasize product-led growth understanding in cover letters: self-serve funnel, usage-based revenue, product-qualified leads |
+| Application timing | Applied without warm intro | No referral. For startup/SaaS roles at $150K+, warm intro via LinkedIn dramatically increases screening odds |
+| Title mismatch | Director of RevOps — title expectation was higher | Company likely wanted someone with VP or Director-level title at a comparably scaled company. Need to target Manager/Sr Manager level at SaaS companies |
 
 ## System Updates
 
-- **T Pipe positioning:** For SaaS companies >$20M ARR, lead with operating experience FIRST, then advisory as secondary. Never lead with consulting frame for SaaS roles.
-- **ARR bridge script:** "Scaled a business from $0→$4M ARR with 0 outside capital. The operational systems, KPIs, and playbooks I built are the same ones needed at $30M+ — I built the foundation, now I scale the architecture."
-- **Consulting frame restricted to:** Only C pipe (Big4, MBB, boutique consulting firms). For all other pipes, minimize "consulting" language and lead with operator/builder.
+- **S/T Pipe positioning:** For SaaS RevOps roles at companies >$15M ARR, lead with operating experience FIRST (full-time, in-seat), then advisory as secondary context. Never lead with consulting frame for RevOps.
+- **ARR bridge script:** "Scaled a business from $0→$4M ARR with 0 outside capital. Now advising portfolio companies at $10-50M+ on GTM architecture, forecasting, and operational systems. The playbooks I built at zero are the same ones needed at scale — I understand the foundation because I built it."
+
+## Tags
+- `rejection`, `ARR-gap`, `positioning-failure`, `PLG`, `template-blunder`, `gracious-handling`
+
+---
+*Last updated: 2026-07-05 by ABHIMANYU 2.0 — FEEDBACK ENGINE*

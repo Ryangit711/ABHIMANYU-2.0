@@ -32,6 +32,7 @@
 
 | Company | Role | Reason | Stage |
 |---------|------|--------|-------|
+| Practice Better | Dir, Revenue Operations | ❌ ARR gap ($4M vs $30-100M) + consulting framing | REJECTED |
 | Microsoft | Sr TPM, Security | ❌ NO DOMAIN PIVOT | CANCELLED |
 | Indeed (previous) | Sr Mgr, Integration & Business | ❌ Auto-rejected D3 — ATS screen | REJECTED |
 | Deloitte | Sr Mgr, Strategic & Technology Change | Old cycle — needs refresh | ARCHIVED |
@@ -46,7 +47,7 @@
 - **Connect sent:** 1 (Providence HC)
 - **Callbacks:** 0
 - **Offers:** 0
-- **Rejected:** 1 (Indeed — ATS screen)
+- **Rejected:** 2 (Indeed — ATS screen, Practice Better — ARR gap + framing)
 - **Cancelled (domain pivot):** 1 (Microsoft)
 - **Archived (old cycle):** 3 (Deloitte, Fresh Tracks Canada x2)
 
