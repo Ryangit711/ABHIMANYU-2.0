@@ -18,7 +18,7 @@
 | Priority | Company | Role | Pipe | Salary | Fit | Status |
 |:--------:|---------|------|:----:|:------:|:---:|:------:|
 | 1 | Human Agency | Chief of Staff to MD of AI | S | $120K-$160K | 7/10 | 🟢 FRESH — SHOOT first |
-| 2 | Indeed | Sr Mgr, Integration & Business Acceleration | T | $133K-$199K | 9/10 | 🟡 STALE — ATS fix before resubmit |
+| 2 | Indeed | Sr Mgr, Integration & Business Acceleration | T | $133K-$199K | 9/10 | 🔵 SHOT — Awaiting approval (ATS fix applied, EVAL 96/120 PASS) |
 | 3 | EY-Parthenon | Sr Mgr, Strategy & Execution — Deal Mgmt | C | $144K-$216K | 9/10 | 🟡 STALE — SHOOT package ready |
 | 4 | Accenture | Performance Strategy Mgr | C | $119.7K-$247.8K | 8/10 | ~ |
 | 5 | CGI | Director Consulting Services — Delivery | C | $110K-$210K | 7/10 | ~ |
