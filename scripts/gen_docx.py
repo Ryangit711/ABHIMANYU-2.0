@@ -246,7 +246,7 @@ def add_signature(doc, config):
 
 def get_date(company):
     DATES = {
-        "Indeed": "2026-06-20",
+        "Indeed": "2026-07-05",
         "Methanex": "2026-06-21",
         "Deloitte": "2026-06-19",
         "Hiive": "2026-06-22",
@@ -322,6 +322,14 @@ def generate(company):
             "delivery (P&L ownership, governance, cross-functional leadership) with the strategic framing of a "
             "consultant (board-level reporting, business case development, digital transformation advisory). "
             "MBA + BSc IT. Builder who can also advise.", config)
+    elif company == "Indeed":
+        add_body(doc,
+            "Operations leader with 8 years building and managing multi-site integration operations across "
+            "32 locations in 4 US states. Managed cross-functional teams of 45-60 through rapid operational scaling, "
+            "systems integration, and organizational alignment. Delivered $4M+ organic revenue growth through "
+            "operational systems and team performance. Directed through $17M acquisition — every phase from "
+            "diligence readiness through post-close integration. Combines execution-focused operator discipline "
+            "with strategic thinking that translates vision into measurable outcomes.", config)
     elif company == "Microsoft":
         add_body(doc,
             "Senior technical program management leader with 8+ years building and scaling a multi-site enterprise "
@@ -380,6 +388,12 @@ def generate(company):
             "Strategic Planning & Execution  |  Technology Transformation  |  P&L Management  |  "
             "Governance & Compliance  |  Executive Communication  |  M&A Integration  |  "
             "KPI & Metrics Design  |  AI-Augmented Workflows  |  Stakeholder Management", config, size=Pt(9.5))
+    elif company == "Indeed":
+        add_body(doc,
+            "Cross-Functional Integration  |  Integration Governance  |  Day 1 Readiness  |  "
+            "M&A Integration Planning  |  Operational Frameworks  |  Synergy Tracking  |  "
+            "Workstream Cadences  |  Strategic Execution  |  P&L Management  |  "
+            "Process Design  |  Team Leadership  |  Board-Level Communication", config, size=Pt(9.5))
     else:
         add_body(doc,
             "M&A Integration  |  Cross-Functional Program Management  |  Operational Infrastructure  |  "
@@ -642,6 +656,55 @@ def generate(company):
             " — designed customer feedback loops, operational dashboards, and KPI frameworks that directly "
             "informed product roadmaps, service improvements, and strategic resource allocation decisions",
             config, bold_prefix="Customer Feedback → Product Strategy")
+    elif company == "Indeed":
+        add_body(doc,
+            "Operations Lead, Multi-Site Integration — managed cross-functional integration across "
+            "5+ clinic groups spanning 32 locations in Arizona and Texas. Served as the primary integration "
+            "lead ensuring Day 1 readiness for every acquisition.", config, italic=True, size=Pt(9.5))
+        add_bullet(doc,
+            " — established integration governance rhythms including workstream cadences, milestone tracking, "
+            "and escalation paths across 5+ clinic groups spanning 32 locations — ensured Day 1 readiness "
+            "for every acquisition with zero operational disruption",
+            config, bold_prefix="Multi-Site Integration Governance")
+        add_bullet(doc,
+            " — built standardized operational frameworks and integration playbooks from scratch — documented "
+            "every process for repeatable execution, enabling new clinic locations to reach operational "
+            "steady state within 30 days of close",
+            config, bold_prefix="Integration Playbooks & Frameworks")
+        add_bullet(doc,
+            " — led cross-functional team of 45-60 members across scheduling, clinical coordination, patient "
+            "outreach, compliance, and IT — coordinated aligned execution across functions without direct authority",
+            config, bold_prefix="Cross-Functional Team Leadership")
+        add_bullet(doc,
+            " — translated diligence insights into actionable integration plans with clear owners and "
+            "dependencies — tracked progress against synergy targets and Day 100 priorities, providing "
+            "structured reporting to executive leadership",
+            config, bold_prefix="Diligence-to-Integration Translation")
+        add_bullet(doc,
+            " — drove $4M+ organic revenue growth through operational systems, team performance, and "
+            "patient re-engagement campaigns — filtered 10,000+ inactive patient records, triaged by "
+            "priority, coordinated multi-channel outreach, tracked to visit conversion",
+            config, bold_prefix="Revenue Growth & Value Realization")
+        add_bullet(doc,
+            " — identified execution risks early during integration phases — developed governance rhythms "
+            "and escalation paths that prevented operational friction from stalling deal momentum, "
+            "maintaining timeline integrity across every acquisition",
+            config, bold_prefix="Execution Risk Management")
+        add_bullet(doc,
+            " — designed and maintained operational frameworks for cross-functional alignment across clinic "
+            "operations, revenue cycle management, IT systems implementation, and patient experience — "
+            "enabling aligned execution across 12 departments",
+            config, bold_prefix="Cross-Functional Operational Frameworks")
+        add_bullet(doc,
+            " — managed technology systems integration across multiple platforms (eClinicalWorks, Athenahealth, "
+            "Curegram, Salesforce) — ensured continuity from diligence through execution, consolidating "
+            "8 separate systems into unified operational platform",
+            config, bold_prefix="Technology Integration")
+        add_bullet(doc,
+            " — directed operational infrastructure through $17M acquisition — orchestrated transition "
+            "workflows, data migration, compliance alignment, and team restructuring across 32 locations "
+            "to ensure value realization post-close",
+            config, bold_prefix="Full-Cycle Acquisition Leadership")
     else:
         add_body(doc,
             "Directed end-to-end operations for a multi-site healthcare group. Served as the primary "
@@ -720,6 +783,11 @@ def generate(company):
             "Data Visualization & KPI Dashboards  |  AI-Augmented Workflows  |  "
             "ERP / Financial Systems  |  OKR Frameworks  |  Project Management Tools (Jira, Confluence)  |  "
             "Cross-Functional Collaboration Platforms  |  Executive Communication Tools", config, size=Pt(9))
+    elif company == "Indeed":
+        add_body(doc,
+            "eClinicalWorks  |  Athenahealth  |  Salesforce  |  Curegram  |  "
+            "Google Workspace  |  Microsoft Office Suite  |  Project Management Tools  |  "
+            "Data Analytics Platforms  |  KPI Dashboard Design  |  Workflow Automation", config, size=Pt(9))
     else:
         add_body(doc,
             "Athenahealth  |  eClinicalWorks  |  CRM Platforms  |  Google Workspace  |  "
@@ -769,7 +837,7 @@ def generate(company):
     add_plain_run(cover_contact, "  |  ", config["font"], Pt(9), color="505050")
     add_hyperlink_contact(cover_contact, "LinkedIn", f"https://{LINKEDIN}", config["font"], Pt(9))
     add_body(doc, LOCATION, config, size=Pt(9), space_after=4)
-    DATE_LABELS = {"Indeed": "June 20, 2026", "Methanex": "June 21, 2026", "Deloitte": "June 19, 2026", "Hiive": "June 22, 2026", "Providence_Healthcare": "June 22, 2026", "DoorDash_Canada": "June 24, 2026", "UBC": "June 25, 2026", "BWZ": "June 25, 2026", "KPMG": "June 25, 2026", "Microsoft": "June 25, 2026"}
+    DATE_LABELS = {"Indeed": "July 5, 2026", "Methanex": "June 21, 2026", "Deloitte": "June 19, 2026", "Hiive": "June 22, 2026", "Providence_Healthcare": "June 22, 2026", "DoorDash_Canada": "June 24, 2026", "UBC": "June 25, 2026", "BWZ": "June 25, 2026", "KPMG": "June 25, 2026", "Microsoft": "June 25, 2026"}
     add_body(doc, DATE_LABELS.get(company, "June 22, 2026"), config, space_after=8)
 
     if company == "Methanex":
