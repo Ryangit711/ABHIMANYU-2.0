@@ -102,18 +102,23 @@ Step 10: git add -A && git commit -m "[action] — [description] — YYYY-MM-DD 
 ### The 8 Quantum Bits (Immutable Sequence)
 
 ```
-QBIT 1 — EYES SCAN (13 primary sources + career pages + Greenhouse)
+QBIT 1 — EYES SCAN (18+ primary sources + 60+ career pages + Greenhouse + ATS providers)
 ├── WebSearch + Browser scan ALL sources in parallel
 ├── Indeed · LinkedIn · Glassdoor · Workopolis · Jooble · Google Jobs · Hiring Cafe
 ├── Eluta.ca · SimplyHired · Monster Canada · ZipRecruiter · Otta · BCjobs.ca
-├── Plus company career pages + Greenhouse boards per pipe
+├── Wellfound · WorkBC · Crabjobs · VanHiring · RemoteOK · WeWorkRemotely
+├── Plus company career pages organized by sector tiers per pipe (data/pipeline/SYSTEM_SOURCES.md)
+├── Plus ATS provider auto-scan via lib/ats-providers/_registry.mjs (49 provider modules)
 ├── Full source registry & ATS cross-ref: data/pipeline/SYSTEM_SOURCES.md
 ├── Each source returns: job_title × salary × freshness × fit
 ├── Dedup: same job on multiple sources → collapsed to one entry (best source retained)
-├── ATS check: per-job feasibility (✅/⚠️) based on company's ATS platform
+├── ATS check: per-job feasibility (✅/⚠️) based on company's ATS platform (20+ platforms in ATS_ESOTERICA.md)
 ├── Route guidance: "Apply via" column — company site > ATS portal > board
+├── Multi-level scan: local parser → Playwright → HTTP JSON API → WebSearch fallback
+├── Advanced filters: title/content/location/salary (lib/fetch-filters.mjs)
+├── Ghost job detection: staleness check, repost check, liveness check (lib/ghost-detection.mjs)
 ├── Raw wavefunction of ALL live jobs
-└── OUTPUT: unfiltered, dedup'd, ATS-feasibility-flagged job stream
+└── OUTPUT: unfiltered, dedup'd, ATS-feasibility-flagged, ghost-checked job stream
 
 QBIT 2 — COLLAPSE WAVEFUNCTION
 ├── 24h fresh? → collapses stale
