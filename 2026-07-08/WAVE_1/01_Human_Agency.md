@@ -99,9 +99,10 @@ Digital Strategy Manager (2016-2018) — led digital strategy, campaign analytic
 Client Services Representative (2014-2016) — managed client escalations for enterprise accounts; developed response protocols reducing resolution time by 30%
 
 **Education**
-Master of Business Administration (MBA) — Strategy, Finance & Operations
-Post-Baccalaureate Diploma in Business Management — KPU, Surrey, BC
-Bachelor of Science, Information Technology
+Master of Business Administration (MBA) — Lovely Professional University, India (IQAS verified: Canadian MBA equivalent)
+Post-Graduate Diploma in Business Management (IT & International Business) — LPU, India (IQAS verified)
+Post-Baccalaureate Diploma in Technical Management & Services — Melville School of Business, KPU, Surrey, BC
+Bachelor of Science in Information Technology — LPU, India (IQAS verified: Canadian Bachelor's equivalent)
 
 **Technical Proficiency**
 Program Governance & Strategic Planning | Financial Modeling & Analysis | OKR Frameworks | AI-Augmented Workflows | Project Management Tools | Data Visualization & KPI Dashboards | Cross-Functional Collaboration Platforms

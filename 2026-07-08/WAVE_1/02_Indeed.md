@@ -88,9 +88,10 @@ Directed integration and business acceleration for a multi-site healthcare group
 - Identified execution risks early during integration phases — developed governance rhythms and escalation paths preventing operational friction from stalling deal momentum
 
 **Education**
-**Master of Business Administration (MBA)** — Strategy, Finance & Operations — [University Name]
-Post-Baccalaureate Diploma in Business Management — KPU, Surrey, BC
-Bachelor of Science, Information Technology
+**Master of Business Administration (MBA)** — Lovely Professional University, India (IQAS verified: Canadian MBA equivalent)
+Post-Graduate Diploma in Business Management (IT & International Business) — LPU, India (IQAS verified)
+Post-Baccalaureate Diploma in Technical Management & Services — Melville School of Business, KPU, Surrey, BC
+Bachelor of Science in Information Technology — LPU, India (IQAS verified: Canadian Bachelor's equivalent)
 
 **Technical Proficiency**
 ICIMS ATS Optimization | Integration Management Frameworks | Program Governance | Financial Modeling | Data Analytics & KPI Dashboards | ERP/Financial Systems | Project Management Tools
