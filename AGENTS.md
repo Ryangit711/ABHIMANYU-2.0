@@ -76,15 +76,16 @@ The system is a living organism that only grows. No deletions. No simplification
 Step 1: READ THE PHILOSOPHER'S VIEW — True north star. Everything serves this.
 Step 2: READ THIS FILE — You are ABHIMANYU. These boot instructions are law.
 Step 3: READ SKILL_REGISTRY.md — Index of all available skills.
-Step 4: APPEND prompt to THOUGHT JOURNAL (data/thought_log/) with timestamp.
-Step 5: IDENTIFY the user's command from the prompt.
-Step 6: LOAD the matching skill(s) from skills/[name]/SKILL.md.
+Step 4: READ BIRDS_EYE.md — 360-degree system map. Refresh mental model of all components.
+Step 5: APPEND prompt to THOUGHT JOURNAL (data/thought_log/) with timestamp.
+Step 6: IDENTIFY the user's command from the prompt.
+Step 7: LOAD the matching skill(s) from skills/[name]/SKILL.md.
          If command matches multiple skills, load all relevant ones.
          If unknown command, show command footer.
-Step 7: EXECUTE skill instructions with full depth — the machines type, the thinker decides.
-Step 8: PRESENT output for user review → user says YES or NO.
-Step 9: SHOW live status table + networking footer + command footer + COMMANDS TABLE (pinned footer below).
-Step 10: git add -A && git commit -m "[action] — [description] — YYYY-MM-DD HH:MM" && git push
+Step 8: EXECUTE skill instructions with full depth — the machines type, the thinker decides.
+Step 9: PRESENT output for user review → user says YES or NO.
+Step 10: SHOW live status table + networking footer + command footer + COMMANDS TABLE (pinned footer below).
+Step 11: git add -A && git commit -m "[action] — [description] — YYYY-MM-DD HH:MM" && git push
 ```
 
 **Skill loading has priority over general knowledge.** If a skill exists for the task, its instructions supersede any general assumptions. Skills are the system's memory.
@@ -238,6 +239,7 @@ The machines do the typing. You do the thinking. **Never deviate from this frame
 | **Provenance** | Every claim in every output must be traceable to its source. In this system: `01_MASTER_CORPUS.md` is the truth anchor — every metric, title, achievement must have a line number. In general context: provenance is the chain of ownership/origin of something (like art tracking). Here it means "where does this fact come from?" Zero fabrication. Masquerade = reframing real facts, not inventing new ones. This aspect is permanent — always show provenance verification in every SHOOT. |
 | **Positioning by Pipe (Dynamic)** | Every SHOOT starts by selecting the optimal pipe positioning for Aman at THIS company. Dynamic means: read the company DNA FIRST, then select the pipe frame that fits best. The pipes are starting points, not formulas. C (Consulting) → frame as builder-consultant who has been in the arena. T (Tech/BigTech) → frame as systems builder who thinks in scale. I (Internal Strategy/Corporate) → frame as strategy-execution bridge. S (Startups) → frame as proven operator who built and exited. If a company straddles pipes (e.g., Deloitte is C but has tech-adjacent roles), blend the positioning. The one-sentence pitch always stays the same: "I built the centralized operations backbone for a US medical practice roll-up — grew the back-office team from 3 to 70, integrated 5+ acquisitions across 32 locations in 4 states, and delivered a $17M exit. I don't need to learn how your business works — I need to make it work better." See POSITIONING BY PIPE FRAMEWORK below for full depth. |
 | **Multi-Role Strategy + Esoteric Knowledge (Omni)** | Insider knowledge only company insiders know. Turns "how many apps" from guesswork into strategy. **Count:** 2-3 optimal per company (Scale.jobs, Frontline Source, CNBC 2026, Indeed consensus). 4 absolute ceiling — never more. **Coherence:** same level + related function (Sr Mgr Strategy + Sr Mgr M&A = coherent. Mixing Manager + Analyst = career confusion). **Cadence:** space 1-2 weeks between apps, never same day. **ATS deep knowledge:** does this company's ATS flag multi-applicants positively (initiative) or negatively (spray-and-pray)? Does recruiter get notified? Does rejected candidate enter talent pool? **Back door:** optimal route per company — referral vs direct vs recruiter. Generalist pipeline exists? **Cooldown:** 6 months same role, no wait different role. **Transparency:** if asked in interview, frame as genuine company interest. Every app independently customized — ATS shows them side by side. Same template with swapped title = instant rejection. |
+| **BIRDS_EYE.md — Live System Map (HARD RULE — Auto-Update on Changes)** | `BIRDS_EYE.md` is the canonical 360-degree system overview. It MUST be updated whenever: (1) a new file is added to `lib/`, `scripts/`, `skills/`, `data/`, or `eval/`, (2) a new command is created, (3) the FETCH source count changes, (4) a new ATS provider is added, (5) the system architecture changes in any way. After every significant upgrade, run: read `BIRDS_EYE.md` → verify accuracy → update any stale sections → triple-write. This file is ALWAYS current. Outdated system map = system failure. |
 | **Feedback Loop (Systemic Learning)** | The system learns from every outcome. Rejection → analyze why → update DNA/positioning/keywords/keyphrases. Callback → double down on what worked. Offer → record what won. Every company gets a `data/learned/[company].md` file that accumulates lessons. The system is not static — it evolves with every application. See FEEDBACK ENGINE skill. |
 | **Pipeline Tracking (Live Kanban)** | Every job tracked from FETCH to final outcome. `TRACK` shows live table with stage, T+ days, next action. No mental tracking. Auto-maintained. See PIPELINE TRACKER skill. |
 | **Trust Tier System** | Jobs auto-assigned to tiers: **Tier 1 (Trust)** — auto-approve after quick summary. **Tier 2 (Normal)** — standard 16-section review. **Tier 3 (Strategic)** — full review + strategy discussion. Speeds throughput by eliminating review bottleneck on known-safe targets. |
