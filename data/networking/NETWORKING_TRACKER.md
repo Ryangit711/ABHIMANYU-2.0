@@ -180,10 +180,74 @@ Leg reference: T+0 = Connect | T+3 = Engage | T+7 = Value-add | T+14 = Nudge | T
 
 ---
 
+## DELOITTE — Sr Mgr, Strategic & Technology Change, Consumer
+
+| Field | Value |
+|-------|-------|
+| **Status** | 🔵 SHOT — NOT SUBMITTED |
+| **Submit Date** | — (not yet applied) |
+| **T+ Days** | — |
+| **Current Leg** | ⏸️ WAITING — Submit first |
+| **Due By** | — |
+
+### Leg History
+| Leg | Date | Action | Target | Status | Response |
+|:---:|:----:|--------|--------|:------:|:--------:|
+| 0 | 🛑 | **SUBMIT APPLICATION FIRST** | SAP SuccessFactors | 🔴 **OVERDUE** | — |
+| 1 | T+0 | LinkedIn connect | Jeffrey Goodwin (jegoodwin@deloitte.ca) | ⏳ PENDING SUBMIT | — |
+| 2 | T+3 | Engage — reference Deloitte STC initiative | Hiring Manager | ⏳ PENDING SUBMIT | — |
+| 3 | T+7 | Value-add note | STC team IC | ⏳ PENDING SUBMIT | — |
+| 4 | T+14 | Nudge | Jeffrey Goodwin / Recruiter | ⏳ PENDING SUBMIT | — |
+| 5 | T+28 | Close loop | All contacts | ⏳ PENDING SUBMIT | — |
+
+### Contacts
+| Name | Title | LinkedIn | Status |
+|------|-------|----------|:------:|
+| Jeffrey Goodwin | Deloitte Canada | jegoodwin@deloitte.ca | 🔍 NEEDED |
+
+### Notes
+- Full SHOOT package ready. OneDrive folder complete.
+- Closing date 2026-07-26 — submit ASAP.
+
+---
+
+## ACCENTURE (PiP) — Performance Strategy Manager
+
+| Field | Value |
+|-------|-------|
+| **Status** | ✅ SUBMITTED |
+| **Submit Date** | 2026-07-07 |
+| **T+ Days** | 0 |
+| **Current Leg** | 🟡 LEG 1 (T+0) — Connect |
+| **Due By** | 2026-07-07 |
+
+### Leg History
+| Leg | Date | Action | Target | Status | Response |
+|:---:|:----:|--------|--------|:------:|:--------:|
+| 1 | T+0 (Jul 7) | LinkedIn connect — Recruiter | PiP Recruiter / Hiring Manager | 🟡 **TODAY** | — |
+| 2 | T+3 (Jul 10) | Engage — reference PiP approach | Hiring Manager | ⏳ FUTURE | — |
+| 3 | T+7 (Jul 14) | Value-add touchpoint | Team IC | ⏳ FUTURE | — |
+| 4 | T+14 (Jul 21) | Progress check-in | Recruiter | ⏳ FUTURE | — |
+| 5 | T+28 (Aug 4) | Final outreach | All contacts | ⏳ FUTURE | — |
+
+### Contacts
+| Name | Title | LinkedIn | Status |
+|------|-------|----------|:------:|
+| — | Recruiter (Accenture PiP) | Not identified | 🔍 NEEDED |
+| — | Hiring Manager | Not identified | 🔍 NEEDED |
+
+### Notes
+- Accenture Workday ATS.
+- DOCX generated. Submit via accenture.wd103.myworkdayjobs.com — req R00297351.
+- Identify PiP team members on LinkedIn: Partners in Performance (Accenture) — Vancouver.
+
+---
+
 ## TIMELINE — All Active Companies
 
 | Company | Role | Status | Submit Date | Cur Leg | Due | Action Needed |
 |---------|------|:-----:|:-----------:|:-------:|:---:|---------------|
+| Accenture PiP | Performance Strategy Mgr | ✅ SUBMITTED | Jul 7 | 🟡 T+0 | **TODAY** | Leg 1: Submit + Connect on LinkedIn |
 | BWZ | Strategy & Ops Mgr | ✅ SUBMITTED | Jun 25 | 🟡 T+0 | **TODAY** | Leg 1: Connect on LinkedIn |
 | KPMG | Dir, Delivery Services | ✅ SUBMITTED | Jun 25 | 🟡 T+0 | **TODAY** | Leg 1: Connect on LinkedIn |
 | DoorDash Canada | Mgr, S&O Dasher & Logistics | ✅ SUBMITTED | Jun 25 | 🟡 T+0 | **TODAY** | Leg 1: Connect — Terry Lee |

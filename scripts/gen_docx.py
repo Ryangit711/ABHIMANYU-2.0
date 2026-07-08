@@ -26,7 +26,8 @@ LOCATION = "Vancouver, BC"
 _COMPANIES_WITH_CONTENT = {
     "Methanex", "Hiive", "Providence_Healthcare",
     "DoorDash_Canada", "UBC", "Practice_Better",
-    "BWZ", "KPMG", "Microsoft", "Indeed"
+    "BWZ", "KPMG", "Microsoft",     "Indeed",
+    "Accenture"
 }
 
 
@@ -164,6 +165,14 @@ CONFIG = {
         "margins": Inches(0.75),
         "pages": 2,
         "ats_notes": "Microsoft Workday ATS — DOCX, Segoe UI 10pt, 0.75in margins, Sr TPM Security"
+    },
+    "Accenture": {
+        "font": "Calibri",
+        "size": Pt(10),
+        "header_size": Pt(12),
+        "margins": Inches(0.75),
+        "pages": 2,
+        "ats_notes": "Accenture Workday ATS — DOCX, Calibri 10pt, 0.75in margins, Performance Strategy Manager"
     }
 }
 
@@ -304,7 +313,8 @@ def get_date(company):
         "RAM_Consulting": "2026-06-25",
         "BWZ": "2026-06-25",
         "KPMG": "2026-06-25",
-        "Microsoft": "2026-06-25"
+        "Microsoft": "2026-06-25",
+        "Accenture": "2026-07-07"
     }
     return DATES.get(company, "2026-06-22")
 
@@ -397,6 +407,14 @@ def generate(company):
             "operational readiness frameworks, leading cross-functional technology transformations, managing complex "
             "programs across distributed teams, and translating strategic priorities into measurable outcomes. "
             "MBA-trained with deep P&L ownership and executive-level communication.", config)
+    elif company == "Accenture":
+        add_body(doc,
+            "Strategy and operations executive who built the centralized operations backbone for a multi-site "
+            "healthcare organization — scaling from 3 to 70 employees across 32 locations, integrating 5+ "
+            "acquisitions, and delivering a $17M exit. Combines a builder's execution credibility with a "
+            "consultant's structured thinking: MBA-trained, board-level communicator, and hands-on operator "
+            "who has led every phase of organizational transformation. Equally effective designing the strategy "
+            "and leading the implementation.", config)
     else:
         add_body(doc,
             "Operations executive who built multi-site operational infrastructure from scratch, "
@@ -448,6 +466,12 @@ def generate(company):
             "Strategic Planning & Execution  |  Technology Transformation  |  P&L Management  |  "
             "Governance & Compliance  |  Executive Communication  |  M&A Integration  |  "
             "KPI & Metrics Design  |  AI-Augmented Workflows  |  Stakeholder Management", config, size=Pt(9.5))
+    elif company == "Accenture":
+        add_body(doc,
+            "Strategic Transformation  |  Cross-Functional Leadership  |  Technology Enablement  |  "
+            "Operational Resilience  |  Value Creation  |  M&A & Integration  |  "
+            "P&L Management  |  Board-Level Communication  |  Business Case Development  |  "
+            "Program Governance  |  Change Management  |  Performance Improvement", config, size=Pt(9.5))
     elif company == "Indeed":
         add_body(doc,
             "Cross-Functional Integration  |  Integration Governance  |  Day 1 Readiness  |  "
@@ -716,6 +740,37 @@ def generate(company):
             " — designed customer feedback loops, operational dashboards, and KPI frameworks that directly "
             "informed product roadmaps, service improvements, and strategic resource allocation decisions",
             config, bold_prefix="Customer Feedback → Product Strategy")
+    elif company == "Accenture":
+        add_body(doc,
+            "Built the centralized operations backbone for a multi-site healthcare organization from scratch — "
+            "growing the back-office team from 3 to 70, integrating 5+ acquisitions across 32 locations in "
+            "4 US states, and delivering a $17M exit. Served as the embedded strategy and operations partner "
+            "to executive leadership.", config, italic=True, size=Pt(9.5))
+        add_bullet(doc,
+            " — directed end-to-end $17M acquisition: led 8 concurrent due diligence workstreams across finance, "
+            "legal, operations, and provider contracts — built integration playbook with Day 1/100 milestones, "
+            "consolidated 8 separate systems into 1 unified platform, retained 100% of key talent across 32 locations",
+            config, bold_prefix="Strategic Transformation & M&A")
+        add_bullet(doc,
+            " — designed and implemented complete operational tech stack (EHR, billing, scheduling, RCM, analytics) "
+            "that scaled from 3 to 70 employees without adding complexity — replaced paper-based manual processes "
+            "with integrated digital systems across all 32 locations",
+            config, bold_prefix="Technology Enablement & Systems Architecture")
+        add_bullet(doc,
+            " — managed full P&L ownership for $4M ARR organization: built multi-scenario financial models, "
+            "department-level budgets, variance analysis frameworks, and board-ready reporting that gave "
+            "executive leadership real-time visibility into performance across 12 departments and 32 locations",
+            config, bold_prefix="Value Creation & P&L Management")
+        add_bullet(doc,
+            " — built company-wide strategic planning framework from zero: annual strategy cycles cascading through "
+            "quarterly OKRs with board-level reporting — aligned 5 clinic groups, 12 departments, and 32 locations "
+            "around shared priorities across 5 annual cycles",
+            config, bold_prefix="Performance Improvement & Strategic Planning")
+        add_bullet(doc,
+            " — led cross-functional team of 45-70 FTEs including recruitment, training, performance management, "
+            "and organizational design — built hiring frameworks, quality standards, and operational governance "
+            "that turned a startup into a scalable enterprise",
+            config, bold_prefix="Cross-Functional Leadership & Organizational Design")
     elif company == "Indeed":
         add_body(doc,
             "Operations Lead, Multi-Site Integration — managed cross-functional integration across "
@@ -843,6 +898,12 @@ def generate(company):
             "Data Visualization & KPI Dashboards  |  AI-Augmented Workflows  |  "
             "ERP / Financial Systems  |  OKR Frameworks  |  Project Management Tools (Jira, Confluence)  |  "
             "Cross-Functional Collaboration Platforms  |  Executive Communication Tools", config, size=Pt(9))
+    elif company == "Accenture":
+        add_body(doc,
+            "Strategic Transformation Frameworks  |  Financial Modeling & Analysis  |  "
+            "Data Visualization & KPI Dashboards  |  AI-Augmented Workflows  |  "
+            "ERP / Financial Systems  |  OKR Frameworks  |  Project Management Tools (Jira, Confluence)  |  "
+            "Cross-Functional Collaboration Platforms  |  Executive Communication & Board Reporting", config, size=Pt(9))
     elif company == "Indeed":
         add_body(doc,
             "eClinicalWorks  |  Athenahealth  |  Salesforce  |  Curegram  |  "
@@ -872,6 +933,8 @@ def generate(company):
         role_str = "Director_Delivery_Services"
     elif company == "Microsoft":
         role_str = "SrTPM_Security"
+    elif company == "Accenture":
+        role_str = "Performance_Strategy_Manager"
     else:
         role_str = "SrMgr_Integration"
 
@@ -897,7 +960,7 @@ def generate(company):
     add_plain_run(cover_contact, "  |  ", config["font"], Pt(9), color="505050")
     add_hyperlink_contact(cover_contact, "LinkedIn", f"https://{LINKEDIN}", config["font"], Pt(9))
     add_body(doc, LOCATION, config, size=Pt(9), space_after=4)
-    DATE_LABELS = {"Indeed": "July 5, 2026", "Methanex": "June 21, 2026", "Deloitte": "June 19, 2026", "Hiive": "June 22, 2026", "Providence_Healthcare": "June 22, 2026", "DoorDash_Canada": "June 24, 2026", "UBC": "June 25, 2026", "BWZ": "June 25, 2026", "KPMG": "June 25, 2026", "Microsoft": "June 25, 2026"}
+    DATE_LABELS = {"Indeed": "July 5, 2026", "Methanex": "June 21, 2026", "Deloitte": "June 19, 2026", "Hiive": "June 22, 2026", "Providence_Healthcare": "June 22, 2026", "DoorDash_Canada": "June 24, 2026", "UBC": "June 25, 2026", "BWZ": "June 25, 2026", "KPMG": "June 25, 2026", "Microsoft": "June 25, 2026", "Accenture": "July 7, 2026"}
     add_body(doc, DATE_LABELS.get(company, "June 22, 2026"), config, space_after=8)
 
     if company == "Methanex":
@@ -1134,6 +1197,36 @@ def generate(company):
             "that's a founder story I deeply understand because I lived my own version of it.\n\n"
             "I'd welcome the chance to talk about how I can help BWZ bring order to the messy middle "
             "while keeping the builder spirit that got you here."
+        )
+    elif company == "Accenture":
+        add_body(doc, "Accenture — Partners in Performance", config, space_after=0)
+        add_body(doc, "Vancouver, BC", config, space_after=8)
+        add_body(doc, "Re: Performance Strategy Manager — Req R00297351", config, bold=True, space_after=8)
+
+        body = (
+            "Dear Hiring Manager,\n\n"
+            "Your clients come to you because they need to transform — and most of them have never done it before.\n"
+            "I have. I've walked the path they're about to walk: building a business from nothing to something "
+            "scalable, integrating acquisitions, leading through hypergrowth, and exiting with dignity and value.\n\n"
+            "At SkyflyMD, I built the centralized operations backbone for a US medical practice roll-up that grew "
+            "from 3 to 70 people across 32 locations in 4 states, integrated 5+ acquisitions, and delivered a "
+            "$17M exit. I didn't advise from the sidelines — I was the one building the strategic planning "
+            "system, designing the technology infrastructure, managing the P&L, and leading the team through "
+            "every phase of transformation. I know what it feels like to be in the arena.\n\n"
+            "That lived experience is what makes me different from a career consultant. When I sit with a client, "
+            "I don't just recommend what they should do — I know exactly what it takes to implement it. I've "
+            "navigated the messy middle between strategy and execution, and I can help your clients navigate it "
+            "faster. I've already made the mistakes they're about to make, and I've built the playbooks that "
+            "keep them from repeating them.\n\n"
+            "What draws me to Partners in Performance specifically is your execution-first ethos. You don't just "
+            "diagnose — you implement. That matches how I've operated my entire career. The 'embedded strategy "
+            "partner' model is what I've been doing for 8 years, just inside one company instead of across many.\n\n"
+            "I hold an MBA with deep P&L ownership, financial modeling, and board-level communication experience. "
+            "I speak both the language of the C-suite and the language of the front line. I'm ready to bring that "
+            "dual fluency to PiP's clients.\n\n"
+            "I would welcome the opportunity to discuss how my experience building and transforming multi-site "
+            "operations can bring immediate credibility and execution capability to Partners in Performance's "
+            "engagements. I am based in Vancouver and willing to travel 80% as the role requires."
         )
     elif company == "Microsoft":
         add_body(doc, "Microsoft Security", config, space_after=0)

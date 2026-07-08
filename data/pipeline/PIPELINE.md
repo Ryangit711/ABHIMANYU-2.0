@@ -10,7 +10,7 @@
 | ✅ SUBMITTED | DoorDash Canada | Mgr, S&O Dasher & Logistics | T | $148K-$185K | T+12 | Follow-up | Old cycle. |
 | ✅ SUBMITTED | PointClickCare | Software Impl Consultant - Clinical | Healthtech | $80K-$89K | D3 | Confirm status | Below floor. Old cycle. |
 | 🟡 CONNECT | Providence HC | Dir, Clinical & Ops (LTC) | I | $139K-$200K | — | Submit application | Old cycle — verify still open. |
-| 🔵 SHOT | Accenture (PiP) | Performance Strategy Mgr | C | $119.7K-$247.8K | T+0 | User review needed | Full 16-section + EVAL passed ✅ |
+| ✅ SUBMITTED | Accenture (PiP) | Performance Strategy Mgr | C | $119.7K-$247.8K | T+0 | Submit via Workday | DOCX generated — submit accenture.wd103.myworkdayjobs.com |
 | 🔵 SHOT | Clio | Sr Strategy & Operations Associate | T | $106K-$144K | Old | Re-submit? | Workday. Previously approved — need fresh YES. |
 | 🔵 SHOT | EY-Parthenon | Sr Mgr, Strategy & Execution — Deal Mgmt | C | $144K-$216K | Old | Re-submit? | Workday. Previously approved. Still LIVE — CURATED #3. |
 
@@ -59,8 +59,9 @@
 ## Pipeline Summary
 
 - **Total Active (CURATED):** 17 targets (14 fresh + 3 carry-over)
-- **Top Priority SHOOT:** Human Agency (#1 S) · Indeed (#2 T) · Accenture (#3 C)
+- **Top Priority SHOOT:** Human Agency (#1 S) · Indeed (#2 T) · Brex (#4 T)
 - **Submitted (old cycle):** 4 (BWZ, KPMG, DoorDash, PointClickCare)
+- **Submitted (2026-07-07):** 1 (Accenture PiP)
 - **Connect sent:** 1 (Providence HC)
 - **Callbacks:** 0
 - **Offers:** 0
