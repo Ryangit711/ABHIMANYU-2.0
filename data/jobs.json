@@ -5,20 +5,114 @@
       "role": "Sr. Manager, Integration & Business Acceleration",
       "submitted_date": "2026-06-21",
       "method": "manual_submit_phone",
+      "stage": "REJECTED",
+      "pipe": "T",
+      "notes": "ATS screen D3. Fix: increase phrase density, add MBA explicitly."
+    },
+    "BWZ": {
+      "company": "Black & White Zebra",
+      "role": "Strategy & Operations Manager",
+      "submitted_date": "2026-06-25",
+      "method": "manual_submit_phone",
       "stage": "SUBMITTED",
-      "pipe": "T"
-    }
-  },
-  "pending": {
+      "pipe": "I",
+      "notes": "Old cycle — verify still open."
+    },
+    "KPMG": {
+      "company": "KPMG",
+      "role": "Dir, Delivery Services",
+      "submitted_date": "2026-06-25",
+      "method": "manual_submit_phone",
+      "stage": "SUBMITTED",
+      "pipe": "C",
+      "notes": "ICIMS. Old cycle."
+    },
     "DoorDash Canada": {
       "company": "DoorDash Canada",
       "role": "Manager, Strategy & Operations – Dasher & Logistics Canada",
-      "shoot_date": "2026-06-24",
-      "stage": "SHOT",
-      "pipe": "T",
-      "salary": "$148K-$185K"
+      "submitted_date": "2026-06-24",
+      "method": "manual_submit_phone",
+      "stage": "SUBMITTED",
+      "pipe": "T"
+    },
+    "PointClickCare": {
+      "company": "PointClickCare",
+      "role": "Software Impl Consultant - Clinical",
+      "submitted_date": "2026-06-25",
+      "method": "manual_submit_phone",
+      "stage": "SUBMITTED",
+      "pipe": "Healthtech",
+      "notes": "Below $80K floor"
     }
   },
-  "excluded": [],
-  "last_updated": "2026-06-24"
+  "pending": {
+    "Human Agency": {
+      "company": "Human Agency",
+      "role": "Chief of Staff to the Managing Director of AI",
+      "shoot_date": "2026-07-07",
+      "stage": "CURATED",
+      "pipe": "S",
+      "salary": "$120K-$160K",
+      "fit": "8/10",
+      "source": "career-ops ATS scan"
+    },
+    "Brex": {
+      "company": "Brex",
+      "role": "Revenue Operations Manager",
+      "shoot_date": "2026-07-07",
+      "stage": "CURATED",
+      "pipe": "T",
+      "salary": "TBD",
+      "fit": "8/10",
+      "source": "career-ops ATS scan"
+    },
+    "EvenUp": {
+      "company": "EvenUp",
+      "role": "Strategy & Operations Manager, Revenue Operations",
+      "shoot_date": "2026-07-07",
+      "stage": "CURATED",
+      "pipe": "S",
+      "salary": "$125K-$150K",
+      "fit": "8/10",
+      "source": "WebSearch"
+    },
+    "Accenture": {
+      "company": "Accenture",
+      "role": "Performance Strategy Manager",
+      "shoot_date": "2026-07-07",
+      "stage": "CURATED",
+      "pipe": "C",
+      "salary": "$119.7K-$247.8K",
+      "fit": "8/10",
+      "source": "WebSearch"
+    },
+    "Coinbase": {
+      "company": "Coinbase",
+      "role": "Operations Manager, Canada",
+      "shoot_date": "2026-07-07",
+      "stage": "CURATED",
+      "pipe": "T",
+      "salary": "TBD",
+      "fit": "7/10",
+      "source": "WebSearch",
+      "notes": "Verify no credit check requirement"
+    },
+    "TELUS": {
+      "company": "TELUS",
+      "role": "Senior Product Strategy Manager (CXAI)",
+      "shoot_date": "2026-07-07",
+      "stage": "CURATED",
+      "pipe": "I",
+      "salary": "$112K-$140K",
+      "fit": "7/10",
+      "source": "WebSearch"
+    }
+  },
+  "excluded": [
+    "SOCi | VP Brand & Market Strategy | US location",
+    "Human Agency | Head of Business Development | BD role",
+    "EY Canada | Manager, Economic Advisory | specialized economics",
+    "Deloitte Canada | Sr Analyst/Manager, TMT, SR&ED | tax/credit specialized"
+  ],
+  "last_updated": "2026-07-07 15:30"
 }

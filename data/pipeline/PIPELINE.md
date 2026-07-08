@@ -1,4 +1,4 @@
-# Pipeline Tracker — Updated 2026-07-05 10:00
+# Pipeline Tracker — Updated 2026-07-07 15:30 (FETCH refresh)
 
 ## Active Applications
 
@@ -15,18 +15,32 @@
 
 ## CURATED Targets (Identified — Ready to SHOOT)
 
-| Priority | Company | Role | Pipe | Salary | Fit | Status |
-|:--------:|---------|------|:----:|:------:|:---:|:------:|
-| 1 | Human Agency | Chief of Staff to MD of AI | S | $120K-$160K | 7/10 | 🟢 FRESH — SHOOT first |
-| 2 | Indeed | Sr Mgr, Integration & Business Acceleration | T | $133K-$199K | 9/10 | 📄 DOCX READY — Approved, resume+cover letter in OneDrive. Awaiting manual submit. |
-| 3 | EY-Parthenon | Sr Mgr, Strategy & Execution — Deal Mgmt | C | $144K-$216K | 9/10 | 🟡 STALE — SHOOT package ready |
-| 4 | Accenture | Performance Strategy Mgr | C | $119.7K-$247.8K | 8/10 | ~ |
-| 5 | CGI | Director Consulting Services — Delivery | C | $110K-$210K | 7/10 | ~ |
-| 6 | BC Rapid Transit | Sr Mgr, Asset Integration Office | I | $121K-$181K | 7/10 | ~ |
-| 7 | lululemon | Strategy Manager | I | $112K-$147K | 7/10 | ~ |
-| 8 | lululemon | Program Mgr — Global Fulfillment Strategy | I | $112K-$147K | 6/10 | ~ |
-| 9 | BWZ | Strategy & Operations Manager | I | $120K-$160K | 8/10 | Already SUBMITTED |
-| 10 | Hootsuite | Enablement Strategy & Ops Manager | T | $96K-$134K | 7/10 | ~ |
+### Fresh (2026-07-07 FETCH)
+
+| # | Company | Role | Pipe | Salary | Fit | ATS | Status |
+|:-:|---------|------|:----:|:------:|:---:|:---:|--------|
+| 1 | **Human Agency** | Chief of Staff to MD of AI | S | $120K-$160K | 8/10 | ✅ GH | 🟢 FRESH — SHOOT |
+| 2 | **Indeed** | Sr Mgr, Integration & Business Acceleration | T | $133K-$199K | 9/10 | ✅ ICIMS | 📄 DOCX READY — Fix ATS + resubmit |
+| 3 | **Accenture** | Performance Strategy Mgr | C | $119.7K-$247.8K | 8/10 | ✅ WD | 🟢 FRESH — SHOOT |
+| 4 | **Brex** | Revenue Operations Manager | T | TBD | 8/10 | ✅ GH | 🟢 FRESH — SHOOT |
+| 5 | **BC Rapid Transit** | Sr Mgr, Asset Integration Office | I | $121K-$181K | 8/10 | ✅ Custom | 🟢 FRESH — SHOOT |
+| 6 | **EvenUp** | Strategy & Ops Mgr, Rev Ops | S | $125K-$150K | 8/10 | ✅ GH | 🟢 FRESH — SHOOT |
+| 7 | **Deloitte Canada** | Mgr, M&A Transaction Diligence | C | TBD | 7/10 | ✅ SF | 🟢 FRESH — SHOOT |
+| 8 | **Black & White Zebra** | Strategy & Ops Manager | I | $120K-$160K | 7/10 | ✅ Custom | 🟢 FRESH — SHOOT |
+| 9 | **TELUS** | Senior Product Strategy Mgr (CXAI) | I | $112K-$140K | 7/10 | ✅ SF | 🟢 FRESH — SHOOT |
+| 10 | **TELUS** | Senior Market Intelligence Manager | I | TBD | 7/10 | ✅ SF | 🟢 FRESH — SHOOT |
+| 11 | **TELUS** | Strategy Mgr, GTM Adoption & Ops | I | TBD | 7/10 | ✅ SF | 🟢 FRESH — SHOOT |
+| 12 | **Coinbase** | Operations Manager, Canada | T | TBD | 7/10 | ✅ GH | 🟢 FRESH — Verify no credit check |
+| 13 | **CGI** | Director Consulting Services - Delivery | C | $110K-$210K | 7/10 | ✅ Custom | 🟢 FRESH — SHOOT |
+| 14 | **AECOM** | Director of Operations | I | TBD | 7/10 | ✅ SR | 🟢 FRESH — SHOOT |
+
+### Carry-over (need fresh verification)
+
+| # | Company | Role | Pipe | Salary | Fit | Status |
+|:-:|---------|------|:----:|:------:|:---:|--------|
+| 15 | EY-Parthenon | Sr Mgr, Strategy & Execution — Deal Mgmt | C | $144K-$216K | 9/10 | 🟡 STALE — verify still live |
+| 16 | Clio | Sr Strategy & Operations Associate | T | $106K-$144K | 7/10 | 🟡 STALE — verify still live |
+| 17 | lululemon | Strategy Manager | I | $112K-$147K | 7/10 | 🟡 STALE — verify still live |
 
 ## Archived / Cancelled / Rejected
 
@@ -35,27 +49,28 @@
 | Practice Better | Dir, Revenue Operations | ❌ ARR gap ($4M vs $30-100M) + consulting framing | REJECTED |
 | Microsoft | Sr TPM, Security | ❌ NO DOMAIN PIVOT | CANCELLED |
 | Indeed (previous) | Sr Mgr, Integration & Business | ❌ Auto-rejected D3 — ATS screen | REJECTED |
-| Deloitte | Sr Mgr, Strategic & Technology Change | Old cycle — needs refresh | ARCHIVED |
-| Fresh Tracks Canada | Director, Inventory Mgmt | Old cycle — needs refresh | ARCHIVED |
-| Fresh Tracks Canada | Exec Assistant | Old cycle — needs refresh | ARCHIVED |
+| Deloitte | Sr Mgr, Strategic & Technology Change | Old cycle — refresh available | ARCHIVED |
+| Fresh Tracks Canada | Director, Inventory Mgmt | Old cycle | ARCHIVED |
+| Fresh Tracks Canada | Exec Assistant | Old cycle | ARCHIVED |
+| SOCi | VP Brand & Market Strategy | ❌ US location | SKIPPED |
+| Human Agency | Head of Business Development | ❌ BD/sales role | SKIPPED |
 
 ## Pipeline Summary
 
-- **Total Active (CURATED):** 29 targets identified
-- **Priority SHOOT targets:** 3 (Human Agency, Indeed, EY-Parthenon)
+- **Total Active (CURATED):** 17 targets (14 fresh + 3 carry-over)
+- **Top Priority SHOOT:** Human Agency (#1 S) · Indeed (#2 T) · Accenture (#3 C)
 - **Submitted (old cycle):** 4 (BWZ, KPMG, DoorDash, PointClickCare)
 - **Connect sent:** 1 (Providence HC)
 - **Callbacks:** 0
 - **Offers:** 0
 - **Rejected:** 2 (Indeed — ATS screen, Practice Better — ARR gap + framing)
-- **Cancelled (domain pivot):** 1 (Microsoft)
-- **Archived (old cycle):** 3 (Deloitte, Fresh Tracks Canada x2)
+- **Cancelled/Skipped:** 3 (Microsoft, SOCi, Human Agency BD)
 
 ## Indeed Reapplication Plan
 1. Fix resume: increase JD phrase density to 4%+, add "Master of Business Administration (MBA)" explicitly
 2. Pre-test resume in Indeed's ATS parser (use their resume preview tool)
-3. Apply within 24h of fresh posting (current listing may be too old)
+3. Apply within 24h of fresh posting (current listing verified live)
 4. If listing is still live, submit immediately after fixes
 
 ---
-*Last updated: 2026-07-05 10:00 by ABHIMANYU 2.0 — FETCH refresh complete. Ready for SHOOT sequence.*
+*Last updated: 2026-07-07 15:30 by ABHIMANYU 2.0 — FETCH #1: career-ops ATS scan + 18-board web sweep complete.*
