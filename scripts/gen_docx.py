@@ -27,7 +27,7 @@ _COMPANIES_WITH_CONTENT = {
     "Methanex", "Hiive", "Providence_Healthcare",
     "DoorDash_Canada", "UBC", "Practice_Better",
     "BWZ", "KPMG", "Microsoft",     "Indeed",
-    "Accenture"
+    "Accenture", "MASTER"
 }
 
 
@@ -172,7 +172,15 @@ CONFIG = {
         "header_size": Pt(12),
         "margins": Inches(0.75),
         "pages": 2,
-        "ats_notes": "Accenture Workday ATS — DOCX, Calibri 10pt, 0.75in margins, Performance Strategy Manager"
+        "ats_notes": "Accenture Workday — DOCX, Calibri 10pt"
+    },
+    "MASTER": {
+        "font": "Calibri",
+        "size": Pt(11),
+        "header_size": Pt(13),
+        "margins": Inches(0.75),
+        "pages": 2,
+        "ats_notes": "Master resume for executive search firms — Calibri 11pt, 2-page"
     }
 }
 
@@ -314,7 +322,8 @@ def get_date(company):
         "BWZ": "2026-06-25",
         "KPMG": "2026-06-25",
         "Microsoft": "2026-06-25",
-        "Accenture": "2026-07-07"
+        "Accenture": "2026-07-07",
+    "MASTER": "2026-07-08"
     }
     return DATES.get(company, "2026-06-22")
 
@@ -392,15 +401,15 @@ def generate(company):
             "delivery (P&L ownership, governance, cross-functional leadership) with the strategic framing of a "
             "consultant (board-level reporting, business case development, digital transformation advisory). "
             "MBA + BSc IT. Builder who can also advise.", config)
-    elif company == "Indeed":
+    elif company == "MASTER":
         add_body(doc,
-            "Operations leader with 8 years building and managing multi-site integration operations across "
-            "32 locations in 4 US states. Managed cross-functional teams of 45-60 through rapid operational scaling, "
-            "systems integration, and organizational alignment. Delivered $4M+ organic revenue growth through "
-            "operational systems and team performance. Directed through $17M acquisition — every phase from "
-            "diligence readiness through post-close integration. Combines execution-focused operator discipline "
-            "with strategic thinking that translates vision into measurable outcomes.", config)
-    elif company == "Microsoft":
+            "Operations executive who built the centralized operations backbone for a multi-site organization "
+            "from scratch — scaling from 3 to 70 employees across 32 locations, growing recurring revenue from "
+            "$0 to $4M ARR, and directing a $17M acquisition to exit. Combines the builder's instinct for scalable "
+            "systems with the operator's discipline for P&L ownership, cross-functional execution, and strategic "
+            "transformation. Trusted right hand to executive leadership — equally comfortable leading a board-level "
+            "strategy session or building the infrastructure that makes growth possible.", config)
+    elif company == "Indeed":
         add_body(doc,
             "Senior technical program management leader with 8+ years building and scaling a multi-site enterprise "
             "from 3 to 70 people, 32 locations, and $4M ARR — culminating in a $17M exit. Expertise in defining "
@@ -472,13 +481,14 @@ def generate(company):
             "Operational Resilience  |  Value Creation  |  M&A & Integration  |  "
             "P&L Management  |  Board-Level Communication  |  Business Case Development  |  "
             "Program Governance  |  Change Management  |  Performance Improvement", config, size=Pt(9.5))
-    elif company == "Indeed":
+    elif company == "MASTER":
         add_body(doc,
-            "Cross-Functional Integration  |  Integration Governance  |  Day 1 Readiness  |  "
-            "M&A Integration Planning  |  Operational Frameworks  |  Synergy Tracking  |  "
-            "Workstream Cadences  |  Strategic Execution  |  P&L Management  |  "
-            "Process Design  |  Team Leadership  |  Board-Level Communication", config, size=Pt(9.5))
-    else:
+            "Operational Infrastructure Design & Scaling  |  P&L Management & Financial Modeling  |  "
+            "Strategic Planning & OKR Systems  |  M&A Integration & Program Governance  |  "
+            "Board-Level Communication & Reporting  |  Cross-Functional Leadership (70 FTEs, 12 Departments)  |  "
+            "Technology Transformation & Systems Integration  |  Revenue Operations & Pipeline Management  |  "
+            "Change Management & Organizational Design  |  Value Creation & Exit Readiness", config, size=Pt(9.5))
+    elif company == "Indeed":
         add_body(doc,
             "M&A Integration  |  Cross-Functional Program Management  |  Operational Infrastructure  |  "
             "Strategic Planning & OKRs  |  P&L Management  |  Board Reporting  |  Multi-Site Operations", config, size=Pt(9.5))
@@ -771,6 +781,44 @@ def generate(company):
             "and organizational design — built hiring frameworks, quality standards, and operational governance "
             "that turned a startup into a scalable enterprise",
             config, bold_prefix="Cross-Functional Leadership & Organizational Design")
+    elif company == "MASTER":
+        add_body(doc,
+            "Built the complete operational infrastructure for a multi-site healthcare group from the ground up — "
+            "scaling from 3 to 70 employees, $0 to $4M ARR, across 5 clinic groups and 32 locations in 4 US states. "
+            "Served as the operational backbone to executive leadership; owned every function from strategic planning "
+            "to systems architecture to people operations.", config, italic=True, size=Pt(9.5))
+        add_bullet(doc,
+            " — structured 8 concurrent due diligence workstreams across finance, legal, operations, and clinical "
+            "functions; built the integration playbook with Day 1/30/100 milestones; consolidated 8 separate "
+            "operational systems into one unified platform within 90 days of close; retained 100% of key talent "
+            "and maintained zero operational disruption throughout transition",
+            config, bold_prefix="M&A & Integration Leadership ($17M Acquisition)")
+        add_bullet(doc,
+            " — designed annual strategy cycles cascading through quarterly OKRs with board-level reporting "
+            "cadences — aligned 5 clinic groups and 12 departments around shared priorities for 5 consecutive years",
+            config, bold_prefix="Strategic Planning Framework")
+        add_bullet(doc,
+            " — multi-scenario financial models, departmental budget planning, variance analysis, and board-ready "
+            "reporting packages delivered to investors and executive leadership across 12 departments",
+            config, bold_prefix="P&L Ownership ($4M ARR)")
+        add_bullet(doc,
+            " — designed hiring frameworks, organizational structures, training programs, performance management "
+            "systems, and operational governance that scaled from 3 to 70 without adding complexity",
+            config, bold_prefix="Cross-Functional Team Leadership (45–70 FTEs)")
+        add_bullet(doc,
+            " — designed and implemented complete technology stack: EHR systems (eClinicalWorks, Athenahealth, "
+            "Curegram), billing infrastructure, scheduling platform, RCM pipeline, Salesforce CRM, analytics "
+            "dashboards — transitioning a paper-based operation to a fully integrated digital ecosystem",
+            config, bold_prefix="Technology Transformation & Systems Architecture")
+        add_bullet(doc,
+            " — designed and executed patient re-engagement campaigns targeting 10,000+ inactive records; "
+            "built multi-channel outreach workflows; tracked visit conversion through custom analytics; "
+            "reduced patient attrition by 30%, recovering $4M+ in organic revenue",
+            config, bold_prefix="Revenue Recovery & Growth ($4M+)")
+        add_bullet(doc,
+            " — deployed KPI dashboards replacing manual reporting across all 32 locations — reduced reporting "
+            "lag by 30% and enabled real-time operational decisions by clinic and department managers",
+            config, bold_prefix="KPI Dashboards & Data Infrastructure")
     elif company == "Indeed":
         add_body(doc,
             "Operations Lead, Multi-Site Integration — managed cross-functional integration across "
@@ -845,10 +893,17 @@ def generate(company):
     add_section_header(doc, "Education", config)
     if company == "DoorDash_Canada":
         add_body(doc, "MBA, Strategy & Finance  |  BSc, Information Technology  |  Post-Bacc Diploma, KPU", config, size=Pt(9), space_after=0)
+    elif company == "MASTER":
+        add_body(doc, "Post-Baccalaureate Diploma in Technical Management & Services", config, size=Pt(9), space_after=0)
+        add_body(doc, "Melville School of Business, Kwantlen Polytechnic University — Surrey, BC", config, size=Pt(9), space_after=0)
+        add_body(doc, "Master of Business Administration (MBA)", config, size=Pt(9), space_after=0)
+        add_body(doc, "Post-Graduate Diploma in Business Management (IT)", config, size=Pt(9), space_after=0)
+        add_body(doc, "Bachelor of Science in Information Technology", config, size=Pt(9), space_after=0)
     else:
-        add_body(doc, "Master of Business Administration (MBA) — Strategy, Finance & Operations", config, bold=True, space_after=0)
-        add_body(doc, "Post-Baccalaureate Diploma in Business Management — KPU, Surrey, BC", config, size=Pt(9), space_after=0)
-        add_body(doc, "Bachelor of Science, Information Technology", config, size=Pt(9), space_after=0)
+        add_body(doc, "Master of Business Administration (MBA)", config, bold=True, space_after=0)
+        add_body(doc, "Post-Baccalaureate Diploma in Technical Management & Services — KPU, Surrey, BC", config, size=Pt(9), space_after=0)
+        add_body(doc, "Post-Graduate Diploma in Business Management (IT)", config, size=Pt(9), space_after=0)
+        add_body(doc, "Bachelor of Science in Information Technology", config, size=Pt(9), space_after=0)
 
     # Technical Proficiency
     add_section_header(doc, "Technical Proficiency", config)
@@ -904,12 +959,13 @@ def generate(company):
             "Data Visualization & KPI Dashboards  |  AI-Augmented Workflows  |  "
             "ERP / Financial Systems  |  OKR Frameworks  |  Project Management Tools (Jira, Confluence)  |  "
             "Cross-Functional Collaboration Platforms  |  Executive Communication & Board Reporting", config, size=Pt(9))
-    elif company == "Indeed":
+    elif company == "MASTER":
         add_body(doc,
-            "eClinicalWorks  |  Athenahealth  |  Salesforce  |  Curegram  |  "
-            "Google Workspace  |  Microsoft Office Suite  |  Project Management Tools  |  "
-            "Data Analytics Platforms  |  KPI Dashboard Design  |  Workflow Automation", config, size=Pt(9))
-    else:
+            "EHR & Practice Management: eClinicalWorks (expert) | Athenahealth (expert) | Curegram  |  "
+            "Revenue Operations: RCM | Billing Infrastructure | Pipeline Management | Forecasting | Analytics  |  "
+            "Business Tools: Salesforce | Microsoft 365 | Google Workspace | Project Management Platforms  |  "
+            "Strategic: Financial Modeling | KPI Dashboard Design | OKR Frameworks | Data Visualization | AI-Augmented Workflows", config, size=Pt(9))
+    elif company == "Indeed":
         add_body(doc,
             "Athenahealth  |  eClinicalWorks  |  CRM Platforms  |  Google Workspace  |  "
             "Financial Modeling  |  OKR Frameworks  |  Jira / Confluence",
@@ -935,6 +991,8 @@ def generate(company):
         role_str = "SrTPM_Security"
     elif company == "Accenture":
         role_str = "Performance_Strategy_Manager"
+    elif company == "MASTER":
+        role_str = "Master_Resume"
     else:
         role_str = "SrMgr_Integration"
 
@@ -1197,6 +1255,27 @@ def generate(company):
             "that's a founder story I deeply understand because I lived my own version of it.\n\n"
             "I'd welcome the chance to talk about how I can help BWZ bring order to the messy middle "
             "while keeping the builder spirit that got you here."
+        )
+    elif company == "MASTER":
+        add_body(doc, "Master Resume — Executive Search", config, space_after=0)
+        add_body(doc, "Vancouver, BC", config, space_after=8)
+        add_body(doc, "Re: Operations Executive / VP Operations / Chief of Staff", config, bold=True, space_after=8)
+
+        body = (
+            "Dear Recruiting Partner,\n\n"
+            "I am an operations executive who builds scalable infrastructure. Over 8 years, I built the "
+            "centralized operations backbone for a multi-site organization — growing it from 3 to 70 "
+            "employees across 32 locations, from $0 to $4M ARR, and directing a $17M acquisition to exit. "
+            "I own the full stack: strategy, P&L, M&A, technology transformation, and organizational design. "
+            "I am the person who makes the CEO's vision operational.\n\n"
+            "I am currently seeking Director / VP-level operations, strategy, or Chief of Staff roles at "
+            "organizations that need a builder who has already walked the path from startup to scale. "
+            "I welcome opportunities across technology, professional services, healthcare, and corporate "
+            "strategy — in Vancouver, BC, or remote Canada.\n\n"
+            "Please find my resume attached. I look forward to discussing how my experience building and "
+            "scaling from zero can deliver value for your client organizations.\n\n"
+            "Best regards,\n"
+            "Aman Kumar"
         )
     elif company == "Accenture":
         add_body(doc, "Accenture — Partners in Performance", config, space_after=0)
