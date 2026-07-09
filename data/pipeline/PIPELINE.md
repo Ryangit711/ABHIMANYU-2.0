@@ -56,9 +56,20 @@
 | SOCi | VP Brand & Market Strategy | ❌ US location | SKIPPED |
 | Human Agency | Head of Business Development | ❌ BD/sales role | SKIPPED |
 
+## RECRUITER CHANNEL (Parallel Track — Wave 01)
+
+| Track | Touchpoints | Status | T+ | Next Action |
+|-------|-------------|--------|:--:|-------------|
+| 🟢 EMAIL TRACK — 11 personalized (T1 + T2 + Boyden) | 11 | 🟡 PENDING | T+0 | Send emails from 7111 Outlook |
+| 🟢 WEBSITE TRACK — 18 portal submissions | 18 | 🟡 PENDING | T+0 | Submit CVs to all portals |
+| 📞 PHONE TRACK — Boyden + top T1 | 7 | 🟡 PENDING | T+2 | Call Boyden Fri Jul 11 |
+
+Full details: `2026-07-09/RECRUITER_WAVE_01/`
+
 ## Pipeline Summary
 
 - **Total Active (CURATED):** 17 targets (14 fresh + 3 carry-over)
+- **RECRUITER CHANNEL:** 29 touchpoints (11 email + 18 website) — parallel track
 - **Top Priority SHOOT:** Human Agency (#1 S) · Indeed (#2 T) · Brex (#4 T)
 - **Submitted (old cycle):** 4 (BWZ, KPMG, DoorDash, PointClickCare)
 - **Submitted (2026-07-07):** 1 (Accenture PiP)
