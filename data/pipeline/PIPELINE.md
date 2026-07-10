@@ -26,28 +26,26 @@
 | 4 | **Arc'teryx** | Senior Manager, ReBIRD Operations - NAM | I | $126K-$165K | 9/10 | ✅ Custom | 🟢 FRESH — WIDENET |
 | 5 | **Human Agency** | Chief of Staff to MD of AI | S | $120K-$160K | 8/10 | ✅ GH | 🟢 FRESH — SHOOT |
 | 6 | **Indeed** | Sr Mgr, Integration & Business Acceleration | T | $133K-$199K | 9/10 | ✅ ICIMS | 📄 DOCX READY — Fix ATS + resubmit |
-| 7 | **MNP** | Senior Manager, Corporate Recovery & Restructuring | C | $150K-$200K | 8/10 | ✅ Custom | 🟢 FRESH — WIDENET |
-| 8 | **Clio** | Program Manager, Digital Success | T | $110K-$140K | 8/10 | ✅ WD | 🟢 FRESH — WIDENET |
-| 9 | **Diligent Corporation** | Director, Post-sales Strategy & Operations | T | $131K-$164K | 8/10 | ✅ GH | 🟢 FRESH — WIDENET |
-| 10 | **Goldbeck / client** | Director of Operations | I | $150K-$185K | 8/10 | ✅ Custom | 🟢 FRESH — WIDENET |
-| 11 | **Teck** | Manager, Business Partnership, NA Ops | I | $132K-$163K | 8/10 | ✅ SF | 🟢 FRESH — WIDENET |
-| 12 | **MacDonald Search / client** | Chief Operating Officer | S | TBD | 8/10 | ✅ Custom | 🟢 FRESH — WIDENET |
-| 13 | **EvenUp** | Strategy & Ops Mgr, Rev Ops | S | $125K-$150K | 8/10 | ✅ GH | 🟢 FRESH — SHOOT |
-| 14 | **Brex** | Revenue Operations Manager | T | TBD | 8/10 | ✅ GH | 🟢 FRESH — SHOOT |
-| 15 | **BC Rapid Transit** | Sr Mgr, Asset Integration Office | I | $121K-$181K | 8/10 | ✅ Custom | 🟢 FRESH — SHOOT |
-| 16 | **Electronic Arts** | Operations and Process Lead | T | $93K-$129K | 8/10 | ✅ Custom | 🟢 FRESH — WIDENET |
-| 17 | **Accenture** | Performance Strategy Mgr (PiP) | C | $119.7K-$247.8K | 8/10 | ✅ WD | 🔵 SHOT |
-| 18 | **Deloitte Canada** | Mgr, M&A Transaction Diligence | C | TBD | 7/10 | ✅ SF | 🟢 FRESH — SHOOT |
-| 19 | **Kaseya** | Staff Business Operations | T | $110K-$125K | 7/10 | ✅ Custom | 🟢 FRESH — WIDENET |
-| 20 | **Sysco** | Director of Operations | I | $91K-$171K | 7/10 | ✅ Custom | 🟢 FRESH — WIDENET |
-| 21 | **HCLTech** | Service Delivery Director | T | TBD | 7/10 | ✅ Custom | 🟢 FRESH — WIDENET |
-| 22 | **TELUS** | Senior Product Strategy Mgr (CXAI) | I | $112K-$140K | 7/10 | ✅ SF | 🟢 FRESH — SHOOT |
-| 23 | **TELUS** | Strategy Mgr, GTM Adoption & Ops | I | TBD | 7/10 | ✅ SF | 🟢 FRESH — SHOOT |
-| 24 | **CGI** | Director Consulting Services - Delivery | C | $110K-$210K | 7/10 | ✅ Custom | 🟢 FRESH — SHOOT |
-| 25 | **Black & White Zebra** | Strategy & Ops Manager | I | $120K-$160K | 7/10 | ✅ Custom | 🟢 FRESH — SHOOT |
-| 26 | **AECOM** | Director of Operations | I | TBD | 7/10 | ✅ SR | 🟢 FRESH — SHOOT |
-| 27 | **Minga** | Director of Revenue Operations | T | $140K-$160K | 7/10 | ✅ Custom | 🟡 2w old — verify |
-| 28 | **Coinbase** | Operations Manager, Canada | T | TBD | 7/10 | ✅ GH | 🟢 FRESH — Verify no credit check |
+| 7 | **Clio** | Program Manager, Digital Success | T | $110K-$140K | 8/10 | ✅ WD | 🟢 FRESH — WIDENET |
+| 8 | **Diligent Corporation** | Director, Post-sales Strategy & Operations | T | $131K-$164K | 8/10 | ✅ GH | 🟢 FRESH — WIDENET |
+| 9 | **Goldbeck / client** | Director of Operations | I | $150K-$185K | 8/10 | ✅ Custom | 🟢 FRESH — WIDENET |
+| 10 | **Teck** | Manager, Business Partnership, NA Ops | I | $132K-$163K | 8/10 | ✅ SF | 🟢 FRESH — WIDENET |
+| 11 | **MacDonald Search / client** | Chief Operating Officer | S | TBD | 8/10 | ✅ Custom | 🟢 FRESH — WIDENET |
+| 12 | **EvenUp** | Strategy & Ops Mgr, Rev Ops | S | $125K-$150K | 8/10 | ✅ GH | 🟢 FRESH — SHOOT |
+| 13 | **Brex** | Revenue Operations Manager | T | TBD | 8/10 | ✅ GH | 🟢 FRESH — SHOOT |
+| 14 | **BC Rapid Transit** | Sr Mgr, Asset Integration Office | I | $121K-$181K | 8/10 | ✅ Custom | 🟢 FRESH — SHOOT |
+| 15 | **Electronic Arts** | Operations and Process Lead | T | $93K-$129K | 8/10 | ✅ Custom | 🟢 FRESH — WIDENET |
+| 16 | **Accenture** | Performance Strategy Mgr (PiP) | C | $119.7K-$247.8K | 8/10 | ✅ WD | 🔵 SHOT |
+| 17 | **Kaseya** | Staff Business Operations | T | $110K-$125K | 7/10 | ✅ Custom | 🟢 FRESH — WIDENET |
+| 18 | **Sysco** | Director of Operations | I | $91K-$171K | 7/10 | ✅ Custom | 🟢 FRESH — WIDENET |
+| 19 | **HCLTech** | Service Delivery Director | T | TBD | 7/10 | ✅ Custom | 🟢 FRESH — WIDENET |
+| 20 | **TELUS** | Senior Product Strategy Mgr (CXAI) | I | $112K-$140K | 7/10 | ✅ SF | 🟢 FRESH — SHOOT |
+| 21 | **TELUS** | Strategy Mgr, GTM Adoption & Ops | I | TBD | 7/10 | ✅ SF | 🟢 FRESH — SHOOT |
+| 22 | **CGI** | Director Consulting Services - Delivery | C | $110K-$210K | 7/10 | ✅ Custom | 🟢 FRESH — SHOOT |
+| 23 | **Black & White Zebra** | Strategy & Ops Manager | I | $120K-$160K | 7/10 | ✅ Custom | 🟢 FRESH — SHOOT |
+| 24 | **AECOM** | Director of Operations | I | TBD | 7/10 | ✅ SR | 🟢 FRESH — SHOOT |
+| 25 | **Minga** | Director of Revenue Operations | T | $140K-$160K | 7/10 | ✅ Custom | 🟡 2w old — verify |
+| 26 | **Coinbase** | Operations Manager, Canada | T | TBD | 7/10 | ✅ GH | 🟢 FRESH — Verify no credit check |
 
 ### Carry-over (need fresh verification)
 
@@ -64,6 +62,8 @@
 | Practice Better | Dir, Revenue Operations | ❌ ARR gap ($4M vs $30-100M) + consulting framing | REJECTED |
 | Microsoft | Sr TPM, Security | ❌ NO DOMAIN PIVOT | CANCELLED |
 | Indeed (previous) | Sr Mgr, Integration & Business | ❌ Auto-rejected D3 — ATS screen | REJECTED |
+| MNP | Sr Mgr, Corporate Recovery & Restructuring | ❌ Heavy quant/Excel (financial restructuring) | CANCELLED |
+| Deloitte Canada | Mgr, M&A Transaction Diligence | ❌ Heavy quant/Excel (financial modeling) | CANCELLED |
 | Deloitte | Sr Mgr, Strategic & Technology Change | Old cycle — refresh available | ARCHIVED |
 | Fresh Tracks Canada | Director, Inventory Mgmt | Old cycle | ARCHIVED |
 | Fresh Tracks Canada | Exec Assistant | Old cycle | ARCHIVED |
@@ -82,9 +82,9 @@ Full details: `2026-07-09/RECRUITER_WAVE_01/`
 
 ## Pipeline Summary
 
-- **Total Active (CURATED):** 31 targets (28 fresh + 3 carry-over)
-- **New from WIDENET:** 16 targets across all 4 pipes
-- **Top Priority SHOOT:** Clio S&O Lead · 1Password Ops PM · OpenTable Rev Ops · Arc'teryx ReBIRD · Human Agency CoS · MNP Sr Mgr
+- **Total Active (CURATED):** 29 targets (26 fresh + 3 carry-over)
+- **New from WIDENET:** 14 targets (removed MNP C&R, Deloitte M&A — quant heavy)
+- **Top Priority SHOOT:** Clio S&O Lead · 1Password Ops PM · OpenTable Rev Ops · Arc'teryx ReBIRD · Human Agency CoS · Diligent Dir
 - **Submitted (old cycle):** 4 (BWZ, KPMG, DoorDash, PointClickCare)
 - **Submitted (2026-07-07):** 1 (Accenture PiP)
 - **Connect sent:** 1 (Providence HC)
@@ -104,15 +104,14 @@ Full details: `2026-07-09/RECRUITER_WAVE_01/`
 **Tier 2 (Normal — standard review):**
 5. Human Agency — Chief of Staff to MD of AI ($120K-$160K, 8/10) — S pipe
 6. Indeed — Sr Mgr, Integration & Business Acceleration ($133K-$199K, 9/10) — T pipe (reapply)
-7. MNP — Sr Mgr, Corporate Recovery & Restructuring ($150K-$200K, 8/10) — C pipe
-8. Diligent — Director, Post-sales Strategy & Ops ($131K-$164K, 8/10) — T pipe
-9. Goldbeck/client — Director of Operations ($150K-$185K, 8/10) — I pipe
-10. MacDonald Search/client — COO (TBD, 8/10) — S pipe
+7. Diligent — Director, Post-sales Strategy & Ops ($131K-$164K, 8/10) — T pipe
+8. Goldbeck/client — Director of Operations ($150K-$185K, 8/10) — I pipe
+9. MacDonald Search/client — COO (TBD, 8/10) — S pipe
 
 **Tier 3 (Strategic — discuss before SHOOT):**
-11. Coinbase — Ops Mgr Canada (credit check risk)
-12. Sysco — Director of Ops (logistics-heavy)
-13. HCLTech — Service Delivery Director (IT services)
+10. Coinbase — Ops Mgr Canada (credit check risk)
+11. Sysco — Director of Ops (logistics-heavy)
+12. HCLTech — Service Delivery Director (IT services)
 
 ## Indeed Reapplication Plan
 1. Fix resume: increase JD phrase density to 4%+, add "Master of Business Administration (MBA)" explicitly

@@ -39,11 +39,9 @@
 
 | # | Company | Role | Salary | Fit | ATS | Freshness |
 |:-:|---------|------|:------:|:---:|:---:|:---------:|
-| 1 | **MNP** | Senior Manager, Corporate Recovery & Restructuring | $150K-$200K | 8/10 | ✅ Custom | 🟢 NEW |
-| 2 | **Accenture** | Performance Strategy Mgr (PiP) | $119.7K-$247.8K | 8/10 | ✅ WD | 🔵 SHOT |
-| 3 | **Deloitte Canada** | Mgr, M&A Transaction Diligence | TBD | 7/10 | ✅ SF | 🟢 (pipeline) |
-| 4 | **CGI** | Director Consulting Services - Delivery | $110K-$210K | 7/10 | ✅ Custom | 🟢 (pipeline) |
-| 5 | **EY-Parthenon** | Sr Mgr, Strategy & Execution — Deal Mgmt | $144K-$216K | 9/10 | ✅ WD | 🟡 stale |
+| 1 | **Accenture** | Performance Strategy Mgr (PiP) | $119.7K-$247.8K | 8/10 | ✅ WD | 🔵 SHOT |
+| 2 | **CGI** | Director Consulting Services - Delivery | $110K-$210K | 7/10 | ✅ Custom | 🟢 (pipeline) |
+| 3 | **EY-Parthenon** | Sr Mgr, Strategy & Execution — Deal Mgmt | $144K-$216K | 9/10 | ✅ WD | 🟡 stale |
 
 ## S PIPE (Startups) — Proven Builder
 
@@ -59,11 +57,11 @@
 
 ## Summary
 
-- **Total fresh CURATED:** 29 targets (24 fresh + 5 carry-over from pipeline)
-- **Newly discovered by WIDENET:** 16 roles across all 4 pipes
-- **Top immediate SHOOT candidates:** Clio S&O Lead (#1 T), 1Password Ops PM (#2 T), OpenTable Sr Mgr Rev Ops (#3 T), Arc'teryx Sr Mgr (#1 I), MNP Sr Mgr C&R (#1 C), Human Agency CoS (#1 S)
+- **Total fresh CURATED:** 27 targets (22 fresh + 5 carry-over from pipeline)
+- **Newly discovered by WIDENET:** 14 roles (removed 2 quant-heavy: MNP C&R, Deloitte M&A)
+- **Top immediate SHOOT candidates:** Clio S&O Lead (#1 T), 1Password Ops PM (#2 T), OpenTable Sr Mgr Rev Ops (#3 T), Arc'teryx Sr Mgr (#1 I), Human Agency CoS (#1 S)
 - **Indeed reapplication:** Ready after ATS fix (4%+ phrase density)
 - **Credit check risk:** Aviso (wealth mgmt — skip), Tipalti (finance — skip)
-- **Need salary transparency:** Brex, Deloitte, Coinbase, MacDonald Search, HCLTech
+- **Need salary transparency:** Brex, Coinbase, MacDonald Search, HCLTech
 
 **Action:** Say `SHOOT [company]` to build a package for any target above.
