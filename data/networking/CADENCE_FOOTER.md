@@ -1,34 +1,33 @@
-## NETWORKING CADENCE — Live as of 2026-07-10
+## 📡 CADENCE — 2nd Brain Mode (Jul 10)
 
-### Consulting Seepage Strategy 🆕 — Hierarchical (4-tier per firm)
+You say **"Sent to [name] at [company]"** → I log, compute next, pre-write next message.
 
-| Firm | Tier 1 Connect | Tier 2 Connect | Referral Ask By |
-|------|:--------------:|:--------------:|:---------------:|
-| **1. Slalom** | 🟡 TODAY | 🟡 THIS WEEK | Jul 17-20 |
-| **2. Accenture (PiP)** | 🟡 TODAY | 🟡 THIS WEEK | Jul 17-20 |
-| **3. Deloitte** | 🟡 TODAY | 🟡 THIS WEEK | Jul 17-20 |
-| **4. EY-Parthenon** | 🟡 TOMORROW | 🟡 WEEK 2 | Jul 21-24 |
-| **5. CGI** | 🟡 TOMORROW | 🟡 WEEK 2 | Jul 21-24 |
-| **6. KPMG** | 🟡 TOMORROW (compressed) | 🟡 WEEK 2 | Jul 17-20 |
-| **7. PwC** | 🔵 RESEARCH | 🔵 RESEARCH | TBD |
+### 🎯 DUE TODAY (Jul 10)
 
-### Today's Actions (Jul 10)
+| Pri | Action | Contact | Firm | Pre-written Message |
+|:---:|--------|---------|:----:|---------------------|
+| **1** | 🔵 CONNECT | Slalom Bus Advisory Mgr | Slalom | "Hey [Name] — Slalom's approach to business advisory really resonates with me. I'm an operator who built ops infrastructure for a healthcare roll-up (3→70, $17M exit) and I love that Slalom values real-world experience. Would enjoy learning about your path." |
+| **2** | 🔵 CONNECT | Slalom Tech Consulting Mgr | Slalom | "Hey [Name] — I see you're in Slalom's tech consulting practice. I built CRM architecture, forecasting systems, and ops platforms from scratch. Curious how your team approaches tech delivery." |
+| **3** | 🔵 CONNECT | Accenture Strat Mgr | Accenture | "Hey [Name] — I recently applied for the PiP Performance Strategy role. I'm coming from an ops background (built 3→70, $17M exit) and curious how Accenture approaches operations transformation." |
+| **4** | 🔵 CONNECT | Accenture Tech Mgr | Accenture | "Hey [Name] — I'm an operator exploring consulting, applied for the PiP role. Your tech consulting path caught my eye." |
+| **5** | 🔵 CONNECT | Accenture Delivery Lead | Accenture | "Hey [Name] — I see you're on the delivery side. I spent 8 years building ops infrastructure that actually shipped." |
+| **6** | 🔵 CONNECT | Matt Chesser | Deloitte | "Hey Matt — exploring consulting and Deloitte's OWT practice caught my eye. Exited a healthcare ops business ($17M). Would love to follow your journey." |
+| **7** | 🔵 CONNECT | Deloitte STC Mgr | Deloitte | "Hey [Name] — exploring consulting. Background scaling ops 3→70 across 32 locations feels relevant to STC work." |
 
-| Priority | Action | Target | Template Ref |
-|:--------:|--------|--------|:------------:|
-| **1** | LinkedIn connect | Slalom — 2 Managers/Consultants (Vancouver) | `consulting/HIERARCHICAL_CADENCE.md` |
-| **2** | LinkedIn connect | Accenture — 3 Strategy/Consulting Mgrs (Vancouver) | `consulting/HIERARCHICAL_CADENCE.md` |
-| **3** | LinkedIn connect | Deloitte — Matt Chesser + 1 STC Mgr | `consulting/HIERARCHICAL_CADENCE.md` |
+### ⏳ COMING UP
 
-### Direct-Apply Track (Legacy)
+| Date | Contact | Firm | Next Leg |
+|:----:|---------|:----:|:--------:|
+| Jul 11 | EY Deal Mgr | EY-Parthenon | 🔵 CONNECT |
+| Jul 11 | CGI Mgr x2 | CGI | 🔵 CONNECT |
+| Jul 11 | KPMG Sr Mgr (compressed) | KPMG | 🔵 CONNECT |
+| Jul 12 | Ian Wilshaw (compressed) | KPMG | 🔵 CONNECT |
+| Jul 13 | Jeffrey Goodwin | Deloitte | 🔵 CONNECT (reference Tier 1 chats) |
 
-| Company | Role | T+ | Leg | Status |
-|---------|------|:--:|:---:|:------:|
-| Accenture PiP | Performance Strategy Mgr | T+2 | Leg 1 🟡 | Connect TODAY via consulting cadence above |
-| BWZ | Strategy & Ops Mgr | T+12 | 🔴 Overdue | Skip to Leg 2 |
-| KPMG | Dir, Delivery Services | T+12 | 🔴 Overdue | Skip to compressed cadence (see consulting plan) |
-| DoorDash | Mgr, S&O | T+12 | 🔴 Overdue | Skip to Leg 2 |
+### ✅ SENT THIS WEEK
 
-### Full Strategy
+(none yet — start today)
 
-`data/networking/consulting/HIERARCHICAL_CADENCE.md` — complete per-firm plan with Tier 1-4 targets, exact message scripts, and T+ timeline through Week 3.
+---
+
+**To report:** `Sent to [name] at [company]` — I log it, move to next leg, pre-write next touch.

@@ -1,185 +1,292 @@
 {
-  "last_updated": "2026-06-29 14:00",
-  "permanent_rule": "Networking cadence is immutable. Never forget. Every SUBMITTED auto-starts T+0. Every message is semantically personal — no templates. System tracks, user acts.",
-  "companies": [
+  "last_updated": "2026-07-10 16:20",
+  "permanent_rule": "User says 'Sent to [name] at [company].' I log it, compute next action, pre-write next message. I ping when due. User never remembers anything.",
+  "mode": "2nd_brain_active",
+  "contacts": [
     {
-      "company": "BWZ",
-      "role": "Strategy & Ops Manager",
-      "status": "submitted",
-      "submit_date": "2026-06-25",
-      "t_plus_days": 4,
-      "current_leg": 1,
-      "contacts": [
-        {
-          "name": null,
-          "title": "Recruiter (BWZ)",
-          "linkedin": null,
-          "leg_assigned": 1
-        },
-        {
-          "name": null,
-          "title": "Hiring Manager",
-          "linkedin": null,
-          "leg_assigned": 2
-        }
-      ],
-      "legs": {
-        "1": {"due": "2026-06-25", "action": "connect", "status": "overdue", "response": null},
-        "2": {"due": "2026-06-28", "action": "engage", "status": "overdue", "response": null},
-        "3": {"due": "2026-07-02", "action": "value_add", "status": "future", "response": null},
-        "4": {"due": "2026-07-09", "action": "nudge", "status": "future", "response": null},
-        "5": {"due": "2026-07-23", "action": "close", "status": "future", "response": null}
-      }
+      "id": "acc-01",
+      "company": "Accenture",
+      "firm_tier": "PiP",
+      "name": "[SEARCH NEEDED — Manager, Strategy & Consulting Vancouver]",
+      "title": "Manager, Strategy & Consulting",
+      "tier": 1,
+      "linkedin": null,
+      "application_submitted": true,
+      "submit_date": "2026-07-07",
+      "touches": [],
+      "next_touch": {
+        "leg": 1,
+        "action": "connect",
+        "due": "2026-07-10",
+        "message_ready": "Hey [Name] — I recently applied for the PiP Performance Strategy role. I'm coming from an ops background (built a healthcare business 3→70, $17M exit) and genuinely curious how Accenture approaches operations transformation. Would love to follow your work.",
+        "objective": "Establish connection. Position as builder who exited. Set up Tier 2 reference."
+      },
+      "status": "pending_connect"
     },
     {
-      "company": "KPMG",
-      "role": "Director, Delivery Services",
-      "status": "submitted",
-      "submit_date": "2026-06-25",
-      "t_plus_days": 4,
-      "current_leg": 1,
-      "contacts": [
-        {
-          "name": null,
-          "title": "Recruiter (KPMG)",
-          "linkedin": null,
-          "leg_assigned": 1
-        },
-        {
-          "name": null,
-          "title": "Hiring Manager",
-          "linkedin": null,
-          "leg_assigned": 2
-        }
-      ],
-      "legs": {
-        "1": {"due": "2026-06-25", "action": "connect", "status": "overdue", "response": null},
-        "2": {"due": "2026-06-28", "action": "engage", "status": "overdue", "response": null},
-        "3": {"due": "2026-07-02", "action": "value_add", "status": "future", "response": null},
-        "4": {"due": "2026-07-09", "action": "nudge", "status": "future", "response": null},
-        "5": {"due": "2026-07-23", "action": "close", "status": "future", "response": null}
-      }
+      "id": "acc-02",
+      "company": "Accenture",
+      "firm_tier": "PiP",
+      "name": "[SEARCH NEEDED — Technology Consulting Mgr Vancouver]",
+      "title": "Manager, Technology Consulting",
+      "tier": 1,
+      "linkedin": null,
+      "application_submitted": true,
+      "submit_date": "2026-07-07",
+      "touches": [],
+      "next_touch": {
+        "leg": 1,
+        "action": "connect",
+        "due": "2026-07-10",
+        "message_ready": "Hey [Name] — I'm an operator exploring consulting, applied for the PiP role. Your tech consulting path at Accenture caught my eye. Would enjoy learning about your journey into the firm.",
+        "objective": "Establish connection. Different angle — tech delivery focus."
+      },
+      "status": "pending_connect"
     },
     {
-      "company": "Indeed",
-      "role": "Sr Mgr, Integration & Business Acceleration",
-      "status": "submitted",
-      "submit_date": "2026-06-21",
-      "t_plus_days": 8,
-      "current_leg": 2,
-      "contacts": [
-        {
-          "name": null,
-          "title": "Recruiter (Indeed)",
-          "linkedin": null,
-          "leg_assigned": 1
-        },
-        {
-          "name": null,
-          "title": "Hiring Manager",
-          "linkedin": null,
-          "leg_assigned": 2
-        }
-      ],
-      "legs": {
-        "1": {"due": "2026-06-21", "action": "connect", "status": "overdue", "response": null},
-        "2": {"due": "2026-06-24", "action": "engage", "status": "overdue", "response": null},
-        "3": {"due": "2026-06-28", "action": "value_add", "status": "overdue", "response": null},
-        "4": {"due": "2026-07-05", "action": "nudge", "status": "future", "response": null},
-        "5": {"due": "2026-07-19", "action": "close", "status": "future", "response": null}
-      }
+      "id": "acc-03",
+      "company": "Accenture",
+      "firm_tier": "PiP",
+      "name": "[SEARCH NEEDED — Delivery Lead Vancouver]",
+      "title": "Delivery Lead",
+      "tier": 1,
+      "linkedin": null,
+      "application_submitted": true,
+      "submit_date": "2026-07-07",
+      "touches": [],
+      "next_touch": {
+        "leg": 1,
+        "action": "connect",
+        "due": "2026-07-10",
+        "message_ready": "Hey [Name] — I see you're on the delivery side at Accenture. I spent 8 years building ops infrastructure that actually shipped — curious how Accenture balances delivery with strategy.",
+        "objective": "Establish connection. Delivery angle — differentiator."
+      },
+      "status": "pending_connect"
     },
     {
-      "company": "DoorDash Canada",
-      "role": "Manager, S&O Dasher & Logistics",
-      "status": "submitted",
-      "submit_date": "2026-06-25",
-      "t_plus_days": 4,
-      "current_leg": 1,
-      "contacts": [
-        {
-          "name": "Terry Lee",
-          "title": "VP Dasher & Logistics",
-          "linkedin": null,
-          "leg_assigned": 1
-        },
-        {
-          "name": "Cody Aughney",
-          "title": "VP Dasher & Logistics",
-          "linkedin": null,
-          "leg_assigned": 4
-        }
-      ],
-      "legs": {
-        "1": {"due": "2026-06-25", "action": "connect", "status": "overdue", "response": null},
-        "2": {"due": "2026-06-28", "action": "engage", "status": "overdue", "response": null},
-        "3": {"due": "2026-07-02", "action": "value_add", "status": "future", "response": null},
-        "4": {"due": "2026-07-09", "action": "nudge", "status": "future", "response": null},
-        "5": {"due": "2026-07-23", "action": "close", "status": "future", "response": null}
-      }
-    },
-    {
-      "company": "Providence Healthcare",
-      "role": "Dir, Clinical & Operations",
-      "status": "connect_req_sent",
-      "submit_date": null,
-      "t_plus_days": null,
-      "current_leg": 0,
-      "contacts": [
-        {
-          "name": "Norm Peters",
-          "title": "COO, Providence Health Care",
-          "linkedin": "sent",
-          "leg_assigned": 1,
-          "status": "sent"
-        },
-        {
-          "name": "Emily McKenzie",
-          "title": null,
-          "linkedin": "sent",
-          "leg_assigned": 1,
-          "status": "sent"
-        },
-        {
-          "name": "Mark Blandford",
-          "title": "CEO, Providence Living",
-          "linkedin": null,
-          "leg_assigned": 3
-        }
-      ],
-      "legs": {
-        "0": {"due": "2026-06-24", "action": "submit_application", "status": "overdue", "response": null},
-        "1": {"due": null, "action": "connect", "status": "sent", "response": null},
-        "2": {"due": null, "action": "engage", "status": "waiting", "response": null},
-        "3": {"due": null, "action": "value_add", "status": "waiting", "response": null},
-        "4": {"due": null, "action": "nudge", "status": "waiting", "response": null},
-        "5": {"due": null, "action": "close", "status": "waiting", "response": null}
-      }
-    },
-    {
+      "id": "del-01",
       "company": "Deloitte",
-      "role": "Sr Mgr, Strategic & Technology Change, Consumer",
-      "status": "shot",
+      "firm_tier": "OWT/STC",
+      "name": "Matt Chesser",
+      "title": "Sr Mgr, Organization Transformation",
+      "tier": 1,
+      "linkedin": "[SEARCH]",
+      "application_submitted": false,
       "submit_date": null,
-      "t_plus_days": null,
-      "current_leg": 0,
-      "contacts": [
-        {
-          "name": "Jeffrey Goodwin",
-          "title": "Deloitte Canada",
-          "email": "jegoodwin@deloitte.ca",
-          "linkedin": null,
-          "leg_assigned": 1
-        }
-      ],
-      "legs": {
-        "0": {"due": "2026-07-26", "action": "submit_application", "status": "overdue", "response": null},
-        "1": {"due": null, "action": "connect", "status": "waiting", "response": null},
-        "2": {"due": null, "action": "engage", "status": "waiting", "response": null},
-        "3": {"due": null, "action": "value_add", "status": "waiting", "response": null},
-        "4": {"due": null, "action": "nudge", "status": "waiting", "response": null},
-        "5": {"due": null, "action": "close", "status": "waiting", "response": null}
-      }
+      "touches": [],
+      "next_touch": {
+        "leg": 1,
+        "action": "connect",
+        "due": "2026-07-10",
+        "message_ready": "Hey Matt — I'm exploring consulting and Deloitte's OWT practice caught my eye. I recently exited a healthcare ops business ($17M) and am curious how Organization Transformation teams work with clients on the ground. Would love to follow your journey.",
+        "objective": "Connect with identified contact. Reference OWT practice specifically."
+      },
+      "status": "pending_connect"
+    },
+    {
+      "id": "del-02",
+      "company": "Deloitte",
+      "firm_tier": "OWT/STC",
+      "name": "[SEARCH NEEDED — Manager STC Vancouver]",
+      "title": "Manager, STC/OWT",
+      "tier": 1,
+      "linkedin": null,
+      "application_submitted": false,
+      "submit_date": null,
+      "touches": [],
+      "next_touch": {
+        "leg": 1,
+        "action": "connect",
+        "due": "2026-07-10",
+        "message_ready": "Hey [Name] — I'm an operator turned consultant-hopeful. My background scaling ops 3→70 across 32 locations feels relevant to your STC work. Would enjoy learning about your path into Deloitte.",
+        "objective": "Establish connection. Position as operator with scaling story."
+      },
+      "status": "pending_connect"
+    },
+    {
+      "id": "del-03",
+      "company": "Deloitte",
+      "firm_tier": "OWT/STC",
+      "name": "Jeffrey Goodwin",
+      "title": "OWT Leader, Deloitte Canada",
+      "tier": 2,
+      "linkedin": "linkedin.com/in/jeff-goodwin-5baa281",
+      "email": "jegoodwin@deloitte.ca",
+      "application_submitted": false,
+      "submit_date": null,
+      "touches": [],
+      "next_touch": {
+        "leg": 1,
+        "action": "connect",
+        "due": "2026-07-13",
+        "message_ready": "Hi Jeffrey — I've been connecting with members of your OWT team and hearing strong things about the practice. I'm an operations leader exploring consulting after a $17M exit in healthcare. Would appreciate 10 min to learn about your vision for OWT in Canada.",
+        "objective": "Tier 2 connect. Reference team conversations (leg 1s). Position as serious candidate."
+      },
+      "status": "pending_connect"
+    },
+    {
+      "id": "sla-01",
+      "company": "Slalom",
+      "firm_tier": "Business Advisory",
+      "name": "[SEARCH NEEDED — Business Advisory Mgr Vancouver]",
+      "title": "Manager, Business Advisory",
+      "tier": 1,
+      "linkedin": null,
+      "application_submitted": false,
+      "submit_date": null,
+      "touches": [],
+      "next_touch": {
+        "leg": 1,
+        "action": "connect",
+        "due": "2026-07-10",
+        "message_ready": "Hey [Name] — Slalom's approach to business advisory really resonates with me. I'm an operator who built ops infrastructure for a healthcare roll-up (3→70, $17M exit) and I love that Slalom values real-world experience. Would enjoy learning about your path.",
+        "objective": "Establish connection. Lead with culture fit — Slalom values real-world over pedigree."
+      },
+      "status": "pending_connect"
+    },
+    {
+      "id": "sla-02",
+      "company": "Slalom",
+      "firm_tier": "Technology Consulting",
+      "name": "[SEARCH NEEDED — Tech Consulting Mgr Vancouver]",
+      "title": "Manager, Technology Consulting",
+      "tier": 1,
+      "linkedin": null,
+      "application_submitted": false,
+      "submit_date": null,
+      "touches": [],
+      "next_touch": {
+        "leg": 1,
+        "action": "connect",
+        "due": "2026-07-10",
+        "message_ready": "Hey [Name] — I see you're in Slalom's tech consulting practice. I built CRM architecture, forecasting systems, and ops platforms from scratch. Curious how your team approaches tech delivery.",
+        "objective": "Establish connection. Tech angle — systems builder identity."
+      },
+      "status": "pending_connect"
+    },
+    {
+      "id": "ey-01",
+      "company": "EY-Parthenon",
+      "firm_tier": "Strategy & Execution",
+      "name": "[SEARCH NEEDED — Manager Deal Strategy Vancouver]",
+      "title": "Manager, Deal Strategy",
+      "tier": 1,
+      "linkedin": null,
+      "application_submitted": false,
+      "submit_date": null,
+      "touches": [],
+      "next_touch": {
+        "leg": 1,
+        "action": "connect",
+        "due": "2026-07-11",
+        "message_ready": "Hey [Name] — I recently applied for the Sr Mgr Deal Mgmt role at EY-Parthenon. I led the operational side of a $17M acquisition — curious how EY approaches deal strategy from the consulting side.",
+        "objective": "Establish connection. Lead with acquisition story — EY-native language."
+      },
+      "status": "pending_connect"
+    },
+    {
+      "id": "ey-02",
+      "company": "EY-Parthenon",
+      "firm_tier": "Strategy & Execution",
+      "name": "Raj Saxena",
+      "title": "Managing Partner, Strategy & Execution Canada",
+      "tier": 2,
+      "linkedin": "[SEARCH]",
+      "email": "raj.saxena@ca.ey.com",
+      "application_submitted": false,
+      "submit_date": null,
+      "touches": [],
+      "next_touch": {
+        "leg": 1,
+        "action": "connect",
+        "due": "2026-07-14",
+        "message_ready": "Hi Raj — I've connected with some of your team and am impressed by the Strategy & Execution practice's approach. I recently exited a healthcare ops business ($17M) and am looking to bring that operational depth to deal advisory. Would appreciate 10 min of your time.",
+        "objective": "Tier 2 connect. Reference team conversations. Position as deal-adjacent operator."
+      },
+      "status": "pending_connect"
+    },
+    {
+      "id": "cgi-01",
+      "company": "CGI",
+      "firm_tier": "Consulting Services",
+      "name": "[SEARCH NEEDED — Consulting Manager Vancouver]",
+      "title": "Manager, Consulting Services",
+      "tier": 1,
+      "linkedin": null,
+      "application_submitted": false,
+      "submit_date": null,
+      "touches": [],
+      "next_touch": {
+        "leg": 1,
+        "action": "connect",
+        "due": "2026-07-11",
+        "message_ready": "Hey [Name] — I'm exploring consulting at CGI. My background building ops infrastructure for a healthcare roll-up (3→70, $17M exit) seems relevant to your delivery practice. Would enjoy learning about your experience.",
+        "objective": "Establish connection. Lowest barrier firm — friendly approach."
+      },
+      "status": "pending_connect"
+    },
+    {
+      "id": "cgi-02",
+      "company": "CGI",
+      "firm_tier": "Consulting Services",
+      "name": "[SEARCH NEEDED — Delivery Lead Vancouver]",
+      "title": "Delivery Lead",
+      "tier": 1,
+      "linkedin": null,
+      "application_submitted": false,
+      "submit_date": null,
+      "touches": [],
+      "next_touch": {
+        "leg": 1,
+        "action": "connect",
+        "due": "2026-07-11",
+        "message_ready": "Hey [Name] — I see you're in delivery at CGI. I spent 8 years building and scaling operations — curious how CGI approaches delivery management.",
+        "objective": "Establish connection. Delivery focus."
+      },
+      "status": "pending_connect"
+    },
+    {
+      "id": "kpmg-01",
+      "company": "KPMG",
+      "firm_tier": "Delivery Services",
+      "name": "[SEARCH NEEDED — Sr Mgr Digital Delivery Vancouver]",
+      "title": "Sr Mgr, Digital Delivery",
+      "tier": 1,
+      "linkedin": null,
+      "application_submitted": true,
+      "submit_date": "2026-06-25",
+      "touches": [],
+      "next_touch": {
+        "leg": 1,
+        "action": "connect_compressed",
+        "due": "2026-07-11",
+        "message_ready": "Hi [Name] — I applied for the Director, Delivery Services role and have been digging deeper into KPMG's Digital Delivery practice. My background building ops infrastructure from 3→70 and leading a $17M exit maps directly to what your teams deliver. Would love to connect.",
+        "objective": "Compressed Leg 1+2. Overdue — skip standard sequence. Direct and value-forward."
+      },
+      "status": "pending_connect"
+    },
+    {
+      "id": "kpmg-02",
+      "company": "KPMG",
+      "firm_tier": "Delivery Services",
+      "name": "Ian Wilshaw",
+      "title": "Advisory Managing Partner, BC",
+      "tier": 2,
+      "linkedin": "[SEARCH]",
+      "application_submitted": true,
+      "submit_date": "2026-06-25",
+      "touches": [],
+      "next_touch": {
+        "leg": 1,
+        "action": "connect_compressed",
+        "due": "2026-07-12",
+        "message_ready": "Hi Ian — I applied for the Director, Delivery Services role (Req 32769) and have been learning about KPMG's Digital Delivery practice. My ops background (scaled 3→70, led $17M exit) aligns with what your teams deliver. Would appreciate your perspective.",
+        "objective": "Tier 2 compressed. Name-drop the req number — shows intent."
+      },
+      "status": "pending_connect"
     }
-  ]
+  ],
+  "archived_contacts": [],
+  "today": "2026-07-10",
+  "query": "What's due today?"
 }
