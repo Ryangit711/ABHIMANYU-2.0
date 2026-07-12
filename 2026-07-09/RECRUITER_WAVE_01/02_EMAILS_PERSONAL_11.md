@@ -1,7 +1,7 @@
 # PERSONAL EMAILS — Session 1 (11 Recruiters)
 ## From: 7111 Outlook
 ## Attach: Aman_Kumar_MASTER_Master_Resume.docx
-## Date: 2026-07-09
+## Date: 2026-07-11
 
 ---
 
@@ -12,17 +12,17 @@
 ### EMAIL 1 — Korn Ferry | Amie Chu
 
 **To:** amie.chu@kornferry.com
-**Subject:** Senior Operations Leader, Vancouver — Technology & Scale-Up practice
+**Subject:** Operations Executive, Vancouver — for KF's Technology & Scale-Up practice
 
 Hi Amie,
 
-I am writing to introduce myself as a senior operations leader based in Vancouver who would be a strong addition to your Technology and Scale-Up executive search pipeline.
+Your Technology and Scale-Up practice places operators into PE-backed and high-growth environments where the mandate is the same: build the infrastructure, then scale it. That is exactly what I have done.
 
-I built the centralized operations backbone for a US medical practice roll-up — grew the back-office team from 3 to 70, integrated 5+ acquisitions across 32 locations in 4 states, and delivered a $17M exit. Most recently I completed my Post-Baccalaureate at KPU (Aug 2025) and hold an MBA and a BSc in Information Technology.
+I built the centralized operations backbone for a US medical practice roll-up — grew the back-office from 3 to 70, integrated 5+ acquisitions across 32 locations and 4 states, and delivered a $17M exit. The role required everything your clients need: systems architecture from scratch, M&A integration playbooks, multi-state compliance, and a leadership team that scaled with the business. I hold an MBA and a Post-Baccalaureate in Technical Management from KPU (Aug 2025).
 
-I am targeting $120K-$300K+ operations leadership roles (Sr Manager to VP / COO) in Vancouver and Remote Canada — with a focus on growth-stage technology companies, healthcare operations, and professional services firms going through scale-up transitions.
+I am exploring operations leadership opportunities in Vancouver and Remote Canada — Sr Manager through VP/COO level — and my sense is the most interesting mandates never hit a job board.
 
-If you have retained mandates or ongoing searches that match my profile, I would welcome a brief conversation. I have attached my CV for your reference.
+If you have a client who needs someone who has already done the build, I would welcome a conversation. My CV is attached.
 
 Best regards,
 Aman Kumar
@@ -34,17 +34,15 @@ Aman Kumar
 ### EMAIL 2 — Egon Zehnder | Constantin von Oppen
 
 **To:** constantin.von.oppen@egonzehnder.com
-**Subject:** Operations Executive, Vancouver — Potential fit for Pacific NW mandates
+**Subject:** Operations Executive, Vancouver — potential alignment with EZ's Pacific NW practice
 
 Hi Constantin,
 
-I am writing to connect as a Vancouver-based operations executive who aligns with the types of leadership profiles your firm places across the Pacific Northwest.
+Egon Zehnder's practice is built on understanding leadership beyond the résumé — who someone is, not just what they have done. I am reaching out because my trajectory may be the kind of less-obvious profile your firm is known for surfacing.
 
-My career has been focused on building and scaling operational infrastructure in high-growth environments. I built the centralized operations backbone for a US medical practice roll-up — growing the back-office team from 3 to 70, integrating 5+ acquisitions across 32 locations in 4 states, and delivering a $17M exit. My background combines hands-on execution with board-level strategic thinking, supported by an MBA and a recently completed Post-Baccalaureate at KPU.
+I built the centralized operations backbone for a US medical practice roll-up — scaled the team from 3 to 70, integrated 5+ acquisitions across 32 locations and 4 states, and delivered a $17M exit. The arc of that journey — startup to exit — gave me something rare: I have done the building AND I can advise at the board level on how to do it again. I hold an MBA and a Post-Baccalaureate from KPU (Aug 2025).
 
-I am currently exploring Sr Manager to VP / COO opportunities in Vancouver and Remote Canada across technology, healthcare, and professional services. My compensation target is $120K-$300K+.
-
-If any of your current or upcoming mandates in the region align with this profile, I would be grateful for the opportunity to discuss further. My CV is attached.
+I am exploring Sr Manager to VP/COO roles in Vancouver and Remote Canada. If any of your current or upcoming mandates in the Pacific Northwest require someone who can build the plane while flying it, I would be grateful for the opportunity to connect.
 
 Best regards,
 Aman Kumar
@@ -56,17 +54,17 @@ Aman Kumar
 ### EMAIL 3 — Caldwell Partners | Drew Railton
 
 **To:** drew.railton@caldwell.com
-**Subject:** Senior Operations Leader, Vancouver — Interested in Caldwell's BC practice
+**Subject:** Operations Executive, Vancouver — Caldwell's BC practice
 
 Hi Drew,
 
-I am reaching out to introduce myself as a Vancouver-based operations executive with a track record of scaling businesses from startup to exit — a profile I believe aligns with the types of mandates Caldwell Partners serves across BC.
+Caldwell's reputation in BC is built on placing leaders who can operate at both the board level and the ground level — the rare intersection of strategic vision and executional grit. That is precisely where I sit.
 
-I built the centralized operations backbone for a US medical practice roll-up: grew back-office from 3 to 70 FTEs, integrated 5+ acquisitions across 32 locations in 4 states, and led the operational infrastructure that supported a $17M exit. I hold an MBA and a Post-Baccalaureate in Technical Management from KPU (completed Aug 2025).
+I built the centralized operations backbone for a US medical practice roll-up: grew back-office from 3 to 70 FTEs, integrated 5+ acquisitions across 32 locations in 4 states, and led the operational infrastructure that delivered a $17M exit. I hold an MBA and a Post-Baccalaureate in Technical Management from KPU (Aug 2025).
 
-I am targeting operations leadership roles ($120K-$300K+) in Vancouver and Remote Canada — from Sr Manager through VP / COO level, particularly in professional services, technology, and healthcare operations.
+I am exploring operations leadership opportunities in Vancouver and Remote Canada at the Sr Manager through VP/COO level — particularly in professional services, technology, and healthcare organizations navigating scale-up or transformation.
 
-If you are currently working on any retained searches that match this profile, I would appreciate the chance to connect. My CV is attached for your convenience.
+If you are working on a mandate that needs someone who has already walked that path, I would appreciate the chance to connect. My CV is attached.
 
 Best regards,
 Aman Kumar
@@ -82,17 +80,15 @@ Aman Kumar
 ### EMAIL 4 — LHH Knightsbridge | Tim Hewat
 
 **To:** tim.hewat@lhhknightsbridge.com
-**Subject:** Operations Executive, Vancouver — Executive Search Pipeline
+**Subject:** Operations Executive, Vancouver — LHH leadership pipeline
 
 Hi Tim,
 
-I am writing to connect as a Vancouver-based operations leader whose career path — building and scaling a business from 3 to 70 people through to a $17M exit — maps directly to the executive profiles LHH Knightsbridge places across North America.
+LHH Knightsbridge sits at the intersection of leadership transition and organizational transformation — you see the full lifecycle of how companies evolve their teams. I am writing because my career arc maps directly to the profiles you place into those transitions.
 
-My experience spans full operational ownership: I built the centralized ops backbone for a US medical practice roll-up, integrated 5+ acquisitions, managed P&L across 32 locations in 4 states, and led the infrastructure build that enabled the exit. I hold an MBA and a recently completed Post-Baccalaureate from KPU.
+I built the centralized operations backbone for a US medical practice roll-up — grew back-office from 3 to 70, integrated 5+ acquisitions across 32 locations and 4 states, managed P&L throughout, and delivered a $17M exit. I hold an MBA and a Post-Baccalaureate from KPU (Aug 2025).
 
-I am currently exploring opportunities at the Sr Manager to VP / COO level ($120K-$300K+) in Vancouver and Remote Canada. While I am running a targeted direct-apply process, I know the most interesting roles never get posted — which is why I am reaching out to you.
-
-If my profile fits any of your active or upcoming mandates, I would welcome a brief conversation. My CV is attached.
+I am exploring Sr Manager to VP/COO opportunities in Vancouver and Remote Canada. I know the roles that drive real career velocity rarely get posted — which is why I am reaching out directly. If my profile aligns with any active or upcoming mandates, I would welcome a brief conversation.
 
 Best regards,
 Aman Kumar
@@ -108,13 +104,11 @@ Aman Kumar
 
 Hi Wendy,
 
-I came across BigFish Executive Search and wanted to introduce myself as a Vancouver-based operations leader with the kind of hands-on scaling experience I believe your clients value.
+BigFish's model is relationship-driven — you get to know a candidate's depth before you match them to a client. That is the right approach for someone like me, whose story does not fit neatly into a single job title.
 
-I built the centralized operations backbone for a US medical practice roll-up — grew the back-office team from 3 to 70, integrated 5+ acquisitions across 32 locations and 4 states, and delivered a $17M exit. My background combines deep operational execution with strategic leadership, supported by an MBA and a Post-Baccalaureate in Technical Management from KPU (Aug 2025).
+I built the centralized operations backbone for a US medical practice roll-up — scaled the back-office team from 3 to 70, integrated 5+ acquisitions across 32 locations and 4 states, and delivered a $17M exit. I hold an MBA and a Post-Baccalaureate in Technical Management from KPU (Aug 2025).
 
-I am targeting $120K-$300K+ operations leadership roles (Sr Manager to VP / COO) across technology, healthcare, and professional services — both in Vancouver and Remote Canada.
-
-If you have retained or contingency searches where my profile could be relevant, I would be happy to chat. My CV is attached for your reference.
+I am exploring operations leadership opportunities in Vancouver and Remote Canada — Sr Manager through VP/COO level — across technology, healthcare, and professional services. If you have a client mandate that calls for someone who has already executed the full build-scale-exit cycle, I would welcome a conversation.
 
 Best regards,
 Aman Kumar
@@ -130,13 +124,11 @@ Aman Kumar
 
 Hi Paul,
 
-I am writing to introduce myself as a Vancouver-based operations executive whose background in building, scaling, and exiting a healthcare services business maps to the PE-backed and growth-stage mandates McDermott + Bull serves.
+M+B serves PE-backed and growth-stage organizations that need leadership with both operational depth and strategic range — the kind of profile that can sit in a boardroom and on a warehouse floor in the same day. That is my operating reality.
 
-I built the centralized operations backbone for a US medical practice roll-up — growing the back-office team from 3 to 70, integrating 5+ acquisitions across 32 locations in 4 states, and leading the operational infrastructure that delivered a $17M exit. I hold an MBA and a recently completed Post-Baccalaureate in Technical Management from KPU.
+I built the centralized operations backbone for a US medical practice roll-up — grew back-office from 3 to 70, integrated 5+ acquisitions across 32 locations in 4 states, and led the operational infrastructure that delivered a $17M exit. I hold an MBA and a Post-Baccalaureate in Technical Management from KPU (Aug 2025).
 
-I am targeting Sr Manager to VP / COO roles ($120K-$300K+) in Vancouver and Remote Canada, particularly in growth-stage, PE-backed, or professional services environments.
-
-If any of your current or upcoming searches align with my profile, I would welcome a conversation. My CV is attached.
+I am exploring Sr Manager to VP/COO roles in Vancouver and Remote Canada, particularly in environments backed by capital that demands operational rigor. If any of your current or upcoming mandates fit that lens, I would welcome the chance to connect.
 
 Best regards,
 Aman Kumar
@@ -148,17 +140,15 @@ Aman Kumar
 ### EMAIL 7 — Boyden | Derrick Chow (Naomi ref)
 
 **To:** dchow@boyden.com
-**Subject:** Operations Executive, Vancouver — Naomi suggested I reach out / Candidate for Ops/Strategy mandates
+**Subject:** Operations Executive, Vancouver — Naomi suggested I reach out
 
 Hi Derrick,
 
-Naomi suggested I reach out to you directly regarding your operations and strategy practice at Boyden.
+Naomi suggested I reach out directly — she felt my background aligns well with the operations and strategy mandates you run at Boyden.
 
-I am a Vancouver-based operations executive with a track record of scaling businesses from startup to exit. I built the centralized operations backbone for a US medical practice roll-up — growing the back-office team from 3 to 70, integrating 5+ acquisitions across 32 locations in 4 states, and delivering a $17M exit. I hold an MBA and a Post-Baccalaureate in Technical Management from KPU (completed Aug 2025).
+She was right to connect us. I built the centralized operations backbone for a US medical practice roll-up — grew the back-office team from 3 to 70, integrated 5+ acquisitions across 32 locations in 4 states, and delivered a $17M exit. The journey covered exactly what your clients in growth-stage and professional services environments need: systems building from scratch, M&A integration playbooks, multi-state operations, and a team that scaled with the business. I hold an MBA and a Post-Baccalaureate in Technical Management from KPU (Aug 2025).
 
-I am currently exploring Sr Manager to VP / COO opportunities ($120K-$300K+) in Vancouver and Remote Canada, with a focus on growth-stage companies, professional services, and healthcare operations.
-
-If you are working on any retained searches where my profile fits, I would appreciate the opportunity to connect. My CV is attached for your reference.
+I am exploring Sr Manager to VP/COO opportunities in Vancouver and Remote Canada. If you have a current or upcoming mandate where this profile fits, I would appreciate the opportunity to connect. My CV is attached.
 
 Best regards,
 Aman Kumar
@@ -174,15 +164,11 @@ Aman Kumar
 
 Hi Lisa,
 
-Naomi suggested I reach out to you directly regarding Boyden's healthcare practice.
+Naomi suggested I reach out — she thought my healthcare operations background would be relevant to your practice at Boyden.
 
-I am a Vancouver-based operations executive with deep healthcare services experience. I built the centralized operations backbone for a US medical practice roll-up — growing the back-office team from 3 to 70, integrating 5+ acquisitions across 32 locations in 4 states, and delivering a $17M exit. This included building the technology infrastructure (EHR, billing, scheduling, RCM), managing cross-state regulatory compliance, and leading a distributed workforce across four US states.
+She was right. I built the centralized operations backbone for a US medical practice roll-up — grew the back-office team from 3 to 70, integrated 5+ acquisitions across 32 locations in 4 states, and delivered a $17M exit. The operational scope spanned EHR implementation, billing and RCM infrastructure, multi-state regulatory compliance, credentialing, and a distributed workforce across four states. I have done what your healthcare clients need: built the operational engine from zero and scaled it to exit. I hold an MBA and a Post-Baccalaureate in Technical Management from KPU (Aug 2025).
 
-I hold an MBA and a recently completed Post-Baccalaureate in Technical Management from KPU (Aug 2025).
-
-I am targeting operations leadership roles ($120K-$300K+) in Vancouver and Remote Canada — particularly in healthcare operations, health tech, and services organizations going through transformation or scale-up.
-
-If any of your current or upcoming mandates match this profile, I would welcome a brief conversation. My CV is attached.
+I am exploring operations leadership roles in Vancouver and Remote Canada — particularly in health tech, healthcare services, and organizations navigating transformation or growth. If any of your current mandates align, I would welcome a conversation. My CV is attached.
 
 Best regards,
 Aman Kumar
@@ -191,20 +177,18 @@ Aman Kumar
 
 ---
 
-### EMAIL 9 — Boyden | Brent Cameron (warm intro, no referral name)
+### EMAIL 9 — Boyden | Brent Cameron
 
 **To:** bcameron@boyden.com
-**Subject:** Operations Executive, Vancouver — Board-level leadership profile
+**Subject:** Operations Executive, Vancouver — for Boyden's senior leadership mandates
 
 Hi Brent,
 
-I am writing to connect as a Vancouver-based operations executive with a background that may be relevant to Boyden's CEO and Board-level search mandates.
+Boyden's senior leadership and board-level mandates require candidates who bring both operational credibility and strategic perspective — the ability to advise at the highest level because they have executed at that level.
 
-I built the centralized operations backbone for a US medical practice roll-up — growing the back-office team from 3 to 70, integrating 5+ acquisitions across 32 locations in 4 states, and delivering a $17M exit. My role required board-level communication, investor relations, P&L management, and multi-state operational leadership. I hold an MBA and a Post-Baccalaureate in Technical Management from KPU.
+I built the centralized operations backbone for a US medical practice roll-up — grew the back-office team from 3 to 70, integrated 5+ acquisitions across 32 locations in 4 states, and delivered a $17M exit. The role required board-level communication, investor relations, P&L ownership, and the judgment that comes from building a business through every stage. I hold an MBA and a Post-Baccalaureate in Technical Management from KPU (Aug 2025).
 
-I am currently exploring opportunities at the Sr Manager to VP / COO level ($120K-$300K+) in Vancouver and Remote Canada. While I am not a traditional C-suite candidate, I bring the operational depth and strategic perspective that boards look for in senior leadership.
-
-If my profile aligns with any of Boyden's current or upcoming searches, I would appreciate the chance to discuss further. My CV is attached.
+I am exploring Sr Manager to VP/COO opportunities in Vancouver and Remote Canada. If any of your current or upcoming searches require someone who has been in the arena — not just advised from the sidelines — I would appreciate the chance to discuss further. My CV is attached.
 
 Best regards,
 Aman Kumar
@@ -224,13 +208,11 @@ Aman Kumar
 
 Hi Sandy,
 
-I am reaching out to introduce myself as a Vancouver-based operations executive with a track record of scaling businesses through growth and exit — a profile I believe could be relevant to Elite Search's mandate.
+Elite Search's focus on Western Canada means you know the market intimately — and you know that the best candidates are the ones not looking. I am not on the market in the traditional sense, but I am open to the right conversation if the mandate fits.
 
-I built the centralized operations backbone for a US medical practice roll-up: grew back-office from 3 to 70 FTEs, integrated 5+ acquisitions across 32 locations in 4 states, and delivered a $17M exit. My background combines P&L ownership, M&A integration, systems building, and team leadership. I hold an MBA and a Post-Baccalaureate in Technical Management from KPU.
+I built the centralized operations backbone for a US medical practice roll-up — grew back-office from 3 to 70 FTEs, integrated 5+ acquisitions across 32 locations in 4 states, and delivered a $17M exit. My background combines P&L ownership, M&A integration, systems building, and team leadership. I hold an MBA and a Post-Baccalaureate in Technical Management from KPU (Aug 2025).
 
-I am targeting Sr Manager to VP / COO opportunities ($120K-$300K+) in Vancouver and Remote Canada across professional services, technology, and healthcare.
-
-If any of your active or upcoming searches align, I would welcome the chance to connect. My CV is attached.
+I am exploring Sr Manager to VP/COO opportunities in Vancouver and Remote Canada across professional services, technology, and healthcare. If any of your current or upcoming searches align, I would welcome the chance to connect. My CV is attached.
 
 Best regards,
 Aman Kumar
@@ -242,17 +224,15 @@ Aman Kumar
 ### EMAIL 11 — ZRG Partners | Tracy Josling
 
 **To:** tjosling@zrgpartners.com
-**Subject:** Operations Leader, Vancouver — ZRG candidate pipeline (Tracy Josling)
+**Subject:** Operations Leader, Vancouver — ZRG candidate pipeline
 
 Hi Tracy,
 
-I am writing to introduce myself as a Vancouver-based operations leader whose background in scaling and exiting a healthcare services business may align with ZRG Partners' practice in the region.
+ZRG's data-driven approach to executive search means you value substance over signal — candidates whose track records speak in numbers, not just titles. That is how I have always operated.
 
-I built the centralized operations backbone for a US medical practice roll-up — growing the back-office team from 3 to 70, integrating 5+ acquisitions across 32 locations in 4 states, and leading the operational infrastructure that delivered a $17M exit. I hold an MBA and a Post-Baccalaureate in Technical Management from KPU (Aug 2025).
+I built the centralized operations backbone for a US medical practice roll-up — grew the back-office team from 3 to 70, integrated 5+ acquisitions across 32 locations in 4 states, and led the operational infrastructure that delivered a $17M exit. I hold an MBA and a Post-Baccalaureate in Technical Management from KPU (Aug 2025).
 
-I am targeting operations leadership roles ($120K-$300K+) in Vancouver and Remote Canada at the Sr Manager to VP / COO level.
-
-If my profile fits any of your current or upcoming retained searches, I would be grateful for a brief conversation. My CV is attached.
+I am exploring operations leadership opportunities in Vancouver and Remote Canada at the Sr Manager to VP/COO level. If my profile fits any of your current or upcoming retained searches, I would be grateful for a brief conversation. My CV is attached.
 
 Best regards,
 Aman Kumar
@@ -265,14 +245,14 @@ Aman Kumar
 
 | # | To | Subject Line |
 |---|-----|-------------|
-| 1 | Amie Chu (Korn Ferry) | Senior Operations Leader, Vancouver — Technology & Scale-Up practice |
-| 2 | Constantin von Oppen (Egon Zehnder) | Operations Executive, Vancouver — Potential fit for Pacific NW mandates |
-| 3 | Drew Railton (Caldwell) | Senior Operations Leader, Vancouver — Interested in Caldwell's BC practice |
-| 4 | Tim Hewat (LHH) | Operations Executive, Vancouver — Executive Search Pipeline |
+| 1 | Amie Chu (Korn Ferry) | Operations Executive, Vancouver — for KF's Technology & Scale-Up practice |
+| 2 | Constantin von Oppen (Egon Zehnder) | Operations Executive, Vancouver — potential alignment with EZ's Pacific NW practice |
+| 3 | Drew Railton (Caldwell) | Operations Executive, Vancouver — Caldwell's BC practice |
+| 4 | Tim Hewat (LHH) | Operations Executive, Vancouver — LHH leadership pipeline |
 | 5 | Wendy Melvin (BigFish) | Operations Leader, Vancouver — BigFish candidate pipeline |
 | 6 | Paul Gibbons (M+B) | Operations Executive, Vancouver — M+B retained search pipeline |
-| 7 | Derrick Chow (Boyden) | Operations Executive, Vancouver — Naomi suggested I reach out / Candidate for Ops/Strategy mandates |
+| 7 | Derrick Chow (Boyden) | Operations Executive, Vancouver — Naomi suggested I reach out |
 | 8 | Lisa Kershaw (Boyden) | Healthcare Operations Leader, Vancouver — Naomi suggested I reach out |
-| 9 | Brent Cameron (Boyden) | Operations Executive, Vancouver — Board-level leadership profile |
+| 9 | Brent Cameron (Boyden) | Operations Executive, Vancouver — for Boyden's senior leadership mandates |
 | 10 | Sandy Dennis (Elite Search) | Operations Executive, Vancouver — Elite Search candidate pipeline |
-| 11 | Tracy Josling (ZRG Partners) | Operations Leader, Vancouver — ZRG candidate pipeline (Tracy Josling) |
+| 11 | Tracy Josling (ZRG Partners) | Operations Leader, Vancouver — ZRG candidate pipeline |
