@@ -29,6 +29,12 @@
 - Follow-up email to all 11 who haven't replied
 - Phone call Robert Half Vancouver office
 
+### 📋 ALL FOLLOW-UP MESSAGES PRE-WRITTEN
+
+Every T+3/T+7/T+14/T+28 message for all 11 recruiters is already drafted — firm-specific, intelligence-woven, unique per person. See `data/networking/RECRUITER_WAVE_01_TRACKER.md`.
+
+**Reply protocol:** Any recruiter replies at any stage → tell me `[Name] replied: "[exact text]"` → I craft semantic-symbiotic response within 4 hours.
+
 ---
 
 **To report:** `Submitted Portal [N]` or `All 18 done` — I log and advance.

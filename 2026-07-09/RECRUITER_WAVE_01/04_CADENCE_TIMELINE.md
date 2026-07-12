@@ -1,6 +1,8 @@
 # CADENCE TIMELINE — Recruiter Wave 01
-## T+0 = 2026-07-09 (Send Day)
+## T+0 = 2026-07-11 (Email Send Date — Session 1 complete)
+## T+0 = 2026-07-12 (Website Submissions — Session 2 target)
 ## Two independent tracks: Email (11) + Website (18)
+## All follow-up messages pre-written in: data/networking/RECRUITER_WAVE_01_TRACKER.md
 
 ---
 
@@ -95,17 +97,17 @@
 
 | Touchpoint | T+0 | T+3 | T+7 | T+14 | T+28 | Status |
 |------------|-----|-----|-----|------|------|--------|
-| Korn Ferry | ☐ | ☐ | ☐ | ☐ | ☐ | 🟡 |
-| Egon Zehnder | ☐ | ☐ | ☐ | ☐ | ☐ | 🟡 |
-| Caldwell | ☐ | ☐ | ☐ | ☐ | ☐ | 🟡 |
-| LHH | ☐ | ☐ | ☐ | ☐ | ☐ | 🟡 |
-| BigFish | ☐ | ☐ | ☐ | ☐ | ☐ | 🟡 |
-| M+B | ☐ | ☐ | ☐ | ☐ | ☐ | 🟡 |
-| Boyden - Chow | ☐ | ☐ | ☐ | ☐ | ☐ | 🟡 |
-| Boyden - Kershaw | ☐ | ☐ | ☐ | ☐ | ☐ | 🟡 |
-| Boyden - Cameron | ☐ | ☐ | ☐ | ☐ | ☐ | 🟡 |
-| Elite Search | ☐ | ☐ | ☐ | ☐ | ☐ | 🟡 |
-| ZRG Partners | ☐ | ☐ | ☐ | ☐ | ☐ | 🟡 |
+| Korn Ferry | ✅ | ☐ | ☐ | ☐ | ☐ | 🟢 |
+| Egon Zehnder | ✅ | ☐ | ☐ | ☐ | ☐ | 🟢 |
+| Caldwell | ✅ | ☐ | ☐ | ☐ | ☐ | 🟢 |
+| LHH | ✅ | ☐ | ☐ | ☐ | ☐ | 🟢 |
+| BigFish | ✅ | ☐ | ☐ | ☐ | ☐ | 🟢 |
+| M+B | ✅ | ☐ | ☐ | ☐ | ☐ | 🟢 |
+| Boyden - Chow | ✅ | ☐ | ☐ | ☐ | ☐ | 🟢 |
+| Boyden - Kershaw | ✅ | ☐ | ☐ | ☐ | ☐ | 🟢 |
+| Boyden - Cameron | ✅ | ☐ | ☐ | ☐ | ☐ | 🟢 |
+| Elite Search | ✅ | ☐ | ☐ | ☐ | ☐ | 🟢 |
+| ZRG Partners | ✅ | ☐ | ☐ | ☐ | ☐ | 🟢 |
 | (Websites 18) | ☐ | - | - | - | - | 🟡 |
 
 ---
