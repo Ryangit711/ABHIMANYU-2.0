@@ -140,6 +140,16 @@ CONFIG = {
         "format": "docx",
         "ats_notes": "Methanex career portal — DOCX"
     },
+    "Seaspan": {
+        "font": "Calibri",
+        "size": Pt(11),
+        "header_size": Pt(13),
+        "margins": Inches(0.75),
+        "pages": 2,
+        "ats_platform": "oracle_cloud",
+        "format": "docx",
+        "ats_notes": "Seaspan Oracle Cloud ATS — DOCX, Calibri 11pt, CM framing"
+    },
     "KPMG": {
         "font": "Calibri",
         "size": Pt(10),
