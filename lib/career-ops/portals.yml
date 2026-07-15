@@ -909,3 +909,119 @@ job_boards:
     provider: startupjobs
     enabled: true
     notes: "Startup-focused roles — free API, set STARTUP_JOBS_API_KEY env var for full access"
+
+  # ── Idle Sources Wired (added 2026-07-14) ──────────────────────────
+
+  - name: RemoteOK
+    careers_url: https://remoteok.com
+    provider: remoteok
+    enabled: true
+    notes: "Public API — remote ops/strategy roles"
+
+  - name: We Work Remotely
+    careers_url: https://weworkremotely.com
+    provider: weworkremotely
+    enabled: true
+    notes: "RSS feed — remote Canada ops roles"
+
+  - name: Himalayas
+    careers_url: https://himalayas.app
+    provider: himalayas
+    enabled: true
+    notes: "Public API — remote startup ops roles"
+
+  - name: Remotive
+    careers_url: https://remotive.com
+    provider: remotive
+    enabled: true
+    notes: "Public API — remote ops/SaaS roles"
+
+  - name: Jobspresso
+    careers_url: https://jobspresso.co
+    provider: jobspresso
+    enabled: true
+    notes: "Curated remote ops roles"
+
+  - name: Working Nomads
+    careers_url: https://workingnomads.com
+    provider: workingnomads
+    enabled: true
+    notes: "Curated remote ops roles"
+
+  - name: 4-Day Week
+    careers_url: https://4dayweek.io
+    provider: 4dayweek
+    enabled: true
+    notes: "4-day week companies — ops/strategy roles"
+
+  - name: Jobicy
+    careers_url: https://jobicy.com
+    provider: jobicy
+    enabled: true
+    notes: "Remote ops roles"
+
+  - name: NoDesk
+    careers_url: https://nodesk.co
+    provider: nodesk
+    enabled: true
+    notes: "Remote ops/leadership roles"
+
+  - name: Landing Jobs
+    careers_url: https://landing.jobs
+    provider: landingjobs
+    enabled: true
+    notes: "Curated tech org ops roles"
+
+  - name: SolidJobs
+    careers_url: https://solid.jobs
+    provider: solidjobs
+    enabled: true
+    notes: "European tech ops roles (API available)"
+
+  - name: HackerNews Who's Hiring
+    careers_url: https://news.ycombinator.com
+    provider: hackernews
+    enabled: true
+    notes: "Monthly HN hiring thread — ops roles"
+
+  - name: Arbeitnow
+    careers_url: https://arbeitnow.com
+    provider: arbeitnow
+    enabled: true
+    notes: "European remote ops roles"
+
+  - name: Get On Board
+    careers_url: https://getonbrd.com
+    provider: getonbrd
+    enabled: true
+    notes: "LATAM remote ops roles"
+
+  - name: The Hub
+    careers_url: https://thehub.io
+    provider: thehub
+    enabled: true
+    notes: "Curated startup ops roles"
+
+  - name: JustJoin.it
+    careers_url: https://justjoin.it
+    provider: justjoin
+    enabled: true
+    notes: "Polish tech market"
+
+  - name: NoFluffJobs
+    careers_url: https://nofluffjobs.com
+    provider: nofluffjobs
+    enabled: true
+    notes: "Eastern European tech market"
+
+  - name: HigherEdJobs
+    careers_url: https://higheredjobs.com
+    provider: higheredjobs
+    enabled: true
+    notes: "Higher ed ops/administration roles"
+
+  - name: The Muse
+    careers_url: https://www.themuse.com
+    provider: themuse
+    enabled: true
+    notes: "Curated company career pages + culture info"

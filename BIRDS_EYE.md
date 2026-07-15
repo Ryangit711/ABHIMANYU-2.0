@@ -31,15 +31,14 @@
          │
          ▼
    ┌─────────────────────────────────────────────────────────────────────┐
-    │  LAYER 1 — BOARD SCAN (41+ sources)                                │
-   │                                                                     │
-    │  14 original: Indeed · LinkedIn · Glassdoor · Workopolis · Jooble   │
-    │               Google Jobs · Hiring Cafe · Startup Jobs · Eluta.ca   │
-    │               SimplyHired · Monster CA · ZipRecruiter · Otta        │
-    │               BCjobs.ca                                             │
+    │  LAYER 1 — BOARD SCAN (41 provider-wired job boards)               │
     │                                                                     │
-    │  6 new:      Wellfound · WorkBC · Crabjobs · VanHiring             │
-    │              RemoteOK · WeWorkRemotely                              │
+    │  All 41 wired into career-ops scan.mjs via portals.yml —            │
+    │  including remoteok · weworkremotely · himalayas · remotive ·       │
+    │  jobspresso · workingnomads · 4dayweek · jobicy · nodesk ·          │
+    │  landingjobs · solidjobs · hackernews · arbeitnow · getonbrd ·      │
+    │  thehub · justjoin · nofluffjobs · higheredjobs · themuse           │
+    │  Plus 20 already wired (Monster.ca, Eluta.ca, Hiring Cafe, etc.)   │
    └───────────────────────────┬─────────────────────────────────────────┘
                                │
                                ▼
@@ -55,7 +54,7 @@
                                │
                                ▼
    ┌─────────────────────────────────────────────────────────────────────┐
-   │  LAYER 3 — ATS PROVIDER AUTO-SCAN (49 providers)                   │
+    │  LAYER 3 — ATS PROVIDER AUTO-SCAN (40+ providers)                  │
    │                                                                     │
    │  lib/ats-providers/_registry.mjs → maps company name → ATS type    │
    │                                                                     │

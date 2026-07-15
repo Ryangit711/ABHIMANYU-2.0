@@ -20,7 +20,7 @@ YOU:  FETCH → picks targets → YOU: SHOOT [company] → I write package → Y
 ## QUICK START — First Session
 
 ```
-1. FETCH              → I scan 14+ sources for 24h-fresh jobs
+1. FETCH              → I scan 41+ sources for 24h-fresh jobs
 2. Review the table    → pick a company
 3. SHOOT [company]     → I write the full 16-section package
 4. Review the package  → if good, say YES
@@ -256,7 +256,7 @@ ABHIMANYU-2.0/
 ├── REFERENCES.md          ← Cross-reference to JOBS-OS source
 │
 ├── skills/                ← 22 skills, each with SKILL.md
-│   ├── fetch-engine/      ← Job discovery (14+ sources)
+│   ├── fetch-engine/      ← Job discovery (41+ sources)
 │   ├── shoot-deployer/    ← SHOOT package generator (16-section)
 │   ├── dna-extraction/    ← Company alchemy engine
 │   ├── resume-writer/     ← ATS-optimized resume builder

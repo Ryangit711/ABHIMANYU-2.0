@@ -1,6 +1,6 @@
 # SYSTEM SOURCES — QBIT 1 Sweep Registry
 
-## Primary Job Boards (Sweep Every FETCH — 41+ Total)
+## Primary Job Boards (Sweep Every FETCH — 41 Job Boards + 40 ATS Company Scanners)
 - **Indeed** — indeed.ca — general job board, broadest coverage
 - **LinkedIn** — linkedin.com/jobs — professional network, company pages
 - **Glassdoor** — glassdoor.ca — salary data + job listings
@@ -23,45 +23,45 @@
 - **Startup Jobs** — startup.jobs — startup-focused roles (S pipe), free API available
 
 ### New Vault-Discovered Sources (Added 2026-07-09)
-- **Monster.ca** — monster.ca (RSS) — legacy board, strong corporate ops/leadership listings
-- **Eluta.ca** — eluta.ca (OpenSearch) — hidden roles from company career pages
-- **Hiring Cafe** — hiring.cafe — curated tech/startup roles at scale-ups
-- **Startup Jobs** — startup.jobs — startup-focused roles across all pipes (free API, set STARTUP_JOBS_API_KEY for full access)
-- **Crossover** — crossover.com — remote operations/leadership roles
-- **Pangian** — pangian.com — remote-first work platform
-- **CollabWork** — collabwork.com — remote ops/management roles
-- **Dynamite Jobs** — dynamitejobs.com — operations/strategy roles
-- **Hello Generalist** — hellogeneralist.com — curated ops/generalist roles
-- **Built In** — builtin.com — tech hub career pages
-- **DailyRemote** — dailyremote.com — remote Canada roles
-- **JustRemote** — justremote.co — remote Canada ops/strategy roles
-- **Remote Rocketship** — remoterocketship.com — remote ops roles
-- **Virtual Vocations** — virtualvocations.com — remote Canada ops roles
-- **RemoteDom** — remotedom.com — remote starter/growth roles
-- **Truly Remote** — trulyremote.co — remote operations roles
-- **Side Hustle Stack** — sidehustlestack.co — fractional/part-time ops roles
-- **GoFractional** — gofractional.com — fractional operations roles
-- **FractionalJobs** — fractionaljobs.io — fractional operations roles
-- **Cerius Executives** — ceriusexecutives.com — fractional exec/leadership roles
-- **FlexJobs** — flexjobs.com — premium remote board (manual portal registration needed)
-- **Remote.co** — remote.co — remote ops/strategy roles (manual portal registration needed)
-- **The Muse** — themuse.com — curated company career pages + culture info
-- **Himalayas** — himalayas.app — remote startup ops roles
-- **Remotive** — remotive.com — remote ops/SaaS roles
-- **Jobspresso** — jobspresso.co — curated remote ops roles
-- **Working Nomads** — workingnomads.com — curated remote ops roles
-- **4-Day Week** — 4dayweek.io — 4-day week companies, ops/strategy roles
-- **Jobicy** — jobicy.com — remote ops roles
-- **NoDesk** — nodesk.co — remote ops/leadership roles
-- **Landing Jobs** — landing.jobs — curated tech org ops roles
-- **SolidJobs** — solid.jobs — European tech ops roles (API available)
-- **HackerNews Who's Hiring** — news.ycombinator.com/item?id= — monthly HN thread, ops roles
-- **Arbeitnow** — arbeitnow.com — European remote ops roles
-- **Get On Board** — getonbrd.com — LATAM remote ops roles
-- **The Hub** — thehub.io — curated startup ops roles
-- **JustJoin.it** — justjoin.it — Polish tech market
-- **NoFluffJobs** — nofluffjobs.com — Eastern European tech market
-- **HigherEdJobs** — higheredjobs.com — higher ed ops/administration roles
+- **Monster.ca** — monster.ca (RSS) — legacy board, strong corporate ops/leadership listings ✅
+- **Eluta.ca** — eluta.ca (OpenSearch) — hidden roles from company career pages ✅
+- **Hiring Cafe** — hiring.cafe — curated tech/startup roles at scale-ups ✅
+- **Startup Jobs** — startup.jobs — startup-focused roles across all pipes (free API) ✅
+- **Crossover** — crossover.com — remote operations/leadership roles ✅
+- **Pangian** — pangian.com — remote-first work platform ✅
+- **CollabWork** — collabwork.com — remote ops/management roles ✅
+- **Dynamite Jobs** — dynamitejobs.com — operations/strategy roles ✅
+- **Hello Generalist** — hellogeneralist.com — curated ops/generalist roles ✅
+- **Built In** — builtin.com — tech hub career pages ✅
+- **DailyRemote** — dailyremote.com — remote Canada roles ✅
+- **JustRemote** — justremote.co — remote Canada ops/strategy roles ✅
+- **Remote Rocketship** — remoterocketship.com — remote ops roles ✅
+- **Virtual Vocations** — virtualvocations.com — remote Canada ops roles ✅
+- **RemoteDom** — remotedom.com — remote starter/growth roles ✅
+- **Truly Remote** — trulyremote.co — remote operations roles ✅
+- **Side Hustle Stack** — sidehustlestack.co — fractional/part-time ops roles ✅
+- **GoFractional** — gofractional.com — fractional operations roles ✅
+- **FractionalJobs** — fractionaljobs.io — fractional operations roles ✅
+- **Cerius Executives** — ceriusexecutives.com — fractional exec/leadership roles ✅
+- **FlexJobs** — flexjobs.com — premium remote board ❌ (paywalled, no provider)
+- **Remote.co** — remote.co — remote ops/strategy roles ❌ (no provider, site blocked)
+- **The Muse** — themuse.com — curated company career pages + culture info ✅
+- **Himalayas** — himalayas.app — remote startup ops roles ✅
+- **Remotive** — remotive.com — remote ops/SaaS roles ✅
+- **Jobspresso** — jobspresso.co — curated remote ops roles ✅
+- **Working Nomads** — workingnomads.com — curated remote ops roles ✅
+- **4-Day Week** — 4dayweek.io — 4-day week companies, ops/strategy roles ✅
+- **Jobicy** — jobicy.com — remote ops roles ✅
+- **NoDesk** — nodesk.co — remote ops/leadership roles ✅
+- **Landing Jobs** — landing.jobs — curated tech org ops roles ✅
+- **SolidJobs** — solid.jobs — European tech ops roles (API available) ✅
+- **HackerNews Who's Hiring** — news.ycombinator.com/item?id= — monthly HN thread, ops roles ✅
+- **Arbeitnow** — arbeitnow.com — European remote ops roles ✅
+- **Get On Board** — getonbrd.com — LATAM remote ops roles ✅
+- **The Hub** — thehub.io — curated startup ops roles ✅
+- **JustJoin.it** — justjoin.it — Polish tech market ✅
+- **NoFluffJobs** — nofluffjobs.com — Eastern European tech market ✅
+- **HigherEdJobs** — higheredjobs.com — higher ed ops/administration roles ✅
 
 ## Company Career Pages — Tiered Per Pipe (80+ Companies)
 

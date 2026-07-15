@@ -103,7 +103,7 @@ Step 11: git add -A && git commit -m "[action] — [description] — YYYY-MM-DD 
 ### The 8 Quantum Bits (Immutable Sequence)
 
 ```
-QBIT 1 — EYES SCAN (18+ primary sources + 60+ career pages + Greenhouse + ATS providers)
+QBIT 1 — EYES SCAN (41+ wired job boards + 24 manual boards + 80+ company career pages + ATS scanners)
 ├── WebSearch + Browser scan ALL sources in parallel
 ├── Indeed · LinkedIn · Glassdoor · Workopolis · Jooble · Google Jobs · Hiring Cafe
 ├── Eluta.ca · SimplyHired · Monster Canada · ZipRecruiter · Otta · BCjobs.ca
