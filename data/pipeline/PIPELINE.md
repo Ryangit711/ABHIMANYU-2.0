@@ -5,7 +5,7 @@
 | Stage | Company | Role | Pipe | Salary | T+Days | Next Action | Notes |
 |------|---------|------|------|--------|--------|-------------|-------|
 | ❌ REJECTED | Indeed | Sr Mgr, Integration & Business | T | $133K-$199K | T+12 | Reapply with ATS fix | Auto-rejected D3 — ATS screen. Fix: 4%+ phrase density, explicit "Master's" in education line. Ready to reapply. |
-| ✅ SUBMITTED | Seaspan | Change Management Specialist | I | $104K-$121K | D0 | Referral brief & resume sent to Kash – awaiting hiring‑manager name | Oracle Cloud. Applied 2026-07-14. Status: Under Consideration. |
+| ✅ SUBMITTED | Seaspan | Change Management Specialist | I | $104K-$121K | D0 | Referral brief & resume sent to Kash – **found in spam, Kash will forward** – awaiting hiring‑manager name | Oracle Cloud. Applied 2026-07-14. Status: Under Consideration. |
 | ✅ SUBMITTED | Accenture (PiP) | Performance Strategy Mgr | C | $119.7K-$247.8K | T+0 | Submit via Workday | DOCX generated — submit accenture.wd103.myworkdayjobs.com |
 | ✅ SUBMITTED | PointClickCare | Software Impl Consultant - Clinical | Healthtech | $80K-$89K | D3 | Confirm status | Below floor. Old cycle. |
 | ✅ SUBMITTED | BWZ | Strategy & Ops Manager | I | $120K-$160K | T+12 | Follow-up | Lever ATS. Old — verify still open. |
