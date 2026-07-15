@@ -27,7 +27,8 @@ _COMPANIES_WITH_CONTENT = {
     "Methanex", "Hiive", "Providence_Healthcare",
     "DoorDash_Canada", "UBC", "Practice_Better",
     "BWZ", "KPMG", "Microsoft",     "Indeed",
-    "Accenture"
+    "Accenture",
+    "Brex"
 }
 
 
@@ -173,6 +174,14 @@ CONFIG = {
         "margins": Inches(0.75),
         "pages": 2,
         "ats_notes": "Accenture Workday — DOCX, Calibri 10pt"
+    },
+    "Brex": {
+        "font": "Calibri",
+        "size": Pt(10),
+        "header_size": Pt(12),
+        "margins": Inches(0.75),
+        "pages": 2,
+        "ats_notes": "Brex Greenhouse ATS — DOCX, Calibri 10pt, 0.75in margins, BizOps Sr Mgr (Technical)"
     },
     "MASTER": {
         "font": "Calibri",
@@ -323,6 +332,7 @@ def get_date(company):
         "KPMG": "2026-06-25",
         "Microsoft": "2026-06-25",
         "Accenture": "2026-07-07",
+        "Brex": "2026-07-15",
     }
     return DATES.get(company, "2026-06-22")
 
@@ -428,6 +438,13 @@ def generate(company):
             "consultant's structured thinking: MBA-trained, board-level communicator, and hands-on operator "
             "who has led every phase of organizational transformation. Equally effective designing the strategy "
             "and leading the implementation.", config)
+    elif company == "Brex":
+        add_body(doc,
+            "Operations builder who designed and scaled the centralized back-office infrastructure "
+            "for a multi-site healthcare organization — growing 3→70 people, supporting 32 locations "
+            "across 4 states, and directing a $17M exit. Built the entire ops tech stack from zero "
+            "(EHR systems, VOIP, automation scripts, workflows) and led AI-driven process automation "
+            "years before it was mainstream. Combines systems thinking with hands-on technical execution.", config)
     else:
         add_body(doc,
             "Operations executive who built multi-site operational infrastructure from scratch, "
@@ -485,11 +502,17 @@ def generate(company):
             "Operational Resilience  |  Value Creation  |  M&A & Integration  |  "
             "P&L Management  |  Board-Level Communication  |  Business Case Development  |  "
             "Program Governance  |  Change Management  |  Performance Improvement", config, size=Pt(9.5))
+    elif company == "Brex":
+        add_body(doc,
+            "Systems Architecture  |  AI-Native Automation  |  Operational Infrastructure  |  "
+            "Workflow Design  |  Internal Tooling  |  Cross-Functional Leadership  |  "
+            "Risk & Compliance Operations  |  Acquisition Integration  |  "
+            "Python Scripting  |  LLM/AI Workflows  |  Process Optimization  |  "
+            "Team Scaling (3→70)", config, size=Pt(9.5))
     elif company == "Indeed":
         add_body(doc,
             "M&A Integration  |  Cross-Functional Program Management  |  Operational Infrastructure  |  "
             "Strategic Planning & OKRs  |  P&L Management  |  Board Reporting  |  Multi-Site Operations", config, size=Pt(9.5))
-
     add_section_header(doc, "Professional Experience", config)
 
     # SkyflyMD
@@ -827,6 +850,40 @@ def generate(company):
             "workflows, data migration, compliance alignment, and team restructuring across 32 locations "
             "to ensure value realization post-close",
             config, bold_prefix="Full-Cycle Acquisition Leadership")
+    elif company == "Brex":
+        add_body(doc,
+            "Led end-to-end operations for a multi-site healthcare organization scaling from 3 to 70 "
+            "team members across 32 locations in 4 US states. Directed the operational infrastructure "
+            "that enabled revenue growth from $300K to $4M ARR and a $17M acquisition exit.", config, italic=True, size=Pt(9.5))
+        add_bullet(doc,
+            " — provisioned hardware, set up VOIP/VPN/internet redundancy across 32 locations, "
+            "configured EHR systems, managed 24/7 IT operations — no prior playbook existed",
+            config, bold_prefix="Designed and built entire technical infrastructure from zero")
+        add_bullet(doc,
+            " — automated clinic scouting workflow using Python scripts — scraped real estate and "
+            "provider data across 10+ states, replaced manual research with automated pipeline "
+            "accelerating target identification by 3x",
+            config, bold_prefix="Automated clinic scouting pipeline")
+        add_bullet(doc,
+            " — deployed LLM/AI tools to overhaul communication workflows — built prompt-based "
+            "email refinement systems, automated patient-provider message templates, reduced "
+            "manual writing time by 60% across the operations team",
+            config, bold_prefix="Deployed AI-native automation")
+        add_bullet(doc,
+            " — scaled operations team from 3 to 70 — designed training programs achieving "
+            "sub-30-day new hire ramp, developed team leads, built performance management "
+            "frameworks, maintained zero-defect quality culture across all locations",
+            config, bold_prefix="Scaled team 3→70")
+        add_bullet(doc,
+            " — directed 8 concurrent due diligence workstreams through $17M acquisition — "
+            "coordinated finance, legal, operations, IT, HR, and compliance teams to deliver "
+            "clean close, retained 100% of key talent through 18-month earnout transition",
+            config, bold_prefix="Directed full-cycle acquisition execution")
+        add_bullet(doc,
+            " — consolidated 8 separate operational systems into one unified platform within "
+            "90 days post-close — migrated EHR, billing, scheduling, and reporting workflows "
+            "without service disruption",
+            config, bold_prefix="Consolidated 8 systems in 90 days")
     else:
         add_body(doc,
             "Directed end-to-end operations for a multi-site healthcare group. Served as the primary "
@@ -912,6 +969,13 @@ def generate(company):
             "Data Visualization & KPI Dashboards  |  AI-Augmented Workflows  |  "
             "ERP / Financial Systems  |  OKR Frameworks  |  Project Management Tools (Jira, Confluence)  |  "
             "Cross-Functional Collaboration Platforms  |  Executive Communication & Board Reporting", config, size=Pt(9))
+    elif company == "Brex":
+        add_body(doc,
+            "Languages & Tools: Python, SQL, JavaScript (working), LLM/AI platforms (ChatGPT, Claude, custom agents)  |  "
+            "Operational Platforms: Salesforce, Retool, workflow automation, EHR (eClinicalWorks, Athenahealth)  |  "
+            "Infrastructure: VOIP/VPN, cloud platforms, network design, hardware provisioning, disaster recovery  |  "
+            "Methodologies: Process automation, workflow design, SOP development, cross-functional program management",
+            config, size=Pt(9))
     elif company == "Indeed":
         add_body(doc,
             "Athenahealth  |  eClinicalWorks  |  CRM Platforms  |  Google Workspace  |  "
@@ -938,6 +1002,8 @@ def generate(company):
         role_str = "SrTPM_Security"
     elif company == "Accenture":
         role_str = "Performance_Strategy_Manager"
+    elif company == "Brex":
+        role_str = "BizOps_SrMgr_Technical"
     else:
         role_str = "SrMgr_Integration"
 
@@ -963,7 +1029,7 @@ def generate(company):
     add_plain_run(cover_contact, "  |  ", config["font"], Pt(9), color="505050")
     add_hyperlink_contact(cover_contact, "LinkedIn", f"https://{LINKEDIN}", config["font"], Pt(9))
     add_body(doc, LOCATION, config, size=Pt(9), space_after=4)
-    DATE_LABELS = {"Indeed": "July 5, 2026", "Methanex": "June 21, 2026", "Deloitte": "June 19, 2026", "Hiive": "June 22, 2026", "Providence_Healthcare": "June 22, 2026", "DoorDash_Canada": "June 24, 2026", "UBC": "June 25, 2026", "BWZ": "June 25, 2026", "KPMG": "June 25, 2026", "Microsoft": "June 25, 2026", "Accenture": "July 7, 2026"}
+    DATE_LABELS = {"Indeed": "July 5, 2026", "Methanex": "June 21, 2026", "Deloitte": "June 19, 2026", "Hiive": "June 22, 2026", "Providence_Healthcare": "June 22, 2026", "DoorDash_Canada": "June 24, 2026", "UBC": "June 25, 2026", "BWZ": "June 25, 2026", "KPMG": "June 25, 2026", "Microsoft": "June 25, 2026", "Accenture": "July 7, 2026", "Brex": "July 15, 2026"}
     add_body(doc, DATE_LABELS.get(company, "June 22, 2026"), config, space_after=8)
 
     if company == "Methanex":
@@ -1263,6 +1329,33 @@ def generate(company):
             "I would welcome the opportunity to discuss how my experience building readiness frameworks "
             "at scale can support Microsoft Security's mission to help enterprises adopt AI securely."
         )
+    elif company == "Brex":
+        add_body(doc, "Brex Talent Acquisition", config, space_after=0)
+        add_body(doc, "Vancouver, BC", config, space_after=8)
+        add_body(doc, "Re: BizOps Senior Manager (Technical)", config, bold=True, space_after=8)
+
+        body = (
+            "To the Brex Systems Team,\n\n"
+            "I'm writing because your BizOps Senior Manager (Technical) role in Vancouver is one of those rare "
+            "job descriptions that describes what I've spent the last eight years actually doing — building the "
+            "systems, automation, and operational infrastructure that let an organization scale without breaking.\n\n"
+            "When I joined SkyflyMD in 2018, there was no playbook. Three people, one location, no SOPs, no "
+            "infrastructure. I built everything from zero — the VOIP network, the internet redundancy across 32 "
+            "locations, the EHR system configurations, the team workflows. When we acquired new practices, I didn't "
+            "just absorb them — I built the integration playbook, consolidated their systems, and retained their people. "
+            "When the company prepared for exit, I structured 8 concurrent due diligence workstreams and directed the transition.\n\n"
+            "The part of your JD that resonates most is this: 'How should operational work be redesigned in an AI-native "
+            "world?' I've been asking that question since 2020. I wrote Python scripts to automate clinic scouting years "
+            "before the AI boom. I deployed LLM tools to automate patient-provider communication, cutting manual writing "
+            "time by 60%. I taught myself every system we needed — from eClinicalWorks to Athenahealth to custom "
+            "automation scripts — because that's what building means: you don't wait for tools, you make them.\n\n"
+            "I don't describe myself as a manager who happens to know about systems. I'm a builder who leads through "
+            "the systems he creates. Your 'Systems' team — operating at the intersection of product, operations, "
+            "finance, data, engineering, and GTM — is exactly where I've spent my career. I've never had someone "
+            "hand me a ready-built infrastructure. Every system I've worked with, I built or rebuilt.\n\n"
+            "I'd welcome the chance to walk your team through the systems I've built and discuss how they apply "
+            "to the challenges Brex's Operations organization faces at scale."
+        )
     else:
         add_body(doc, "Indeed", config, space_after=0)
         add_body(doc, "Vancouver, BC", config, space_after=8)
@@ -1307,12 +1400,11 @@ if __name__ == "__main__":
     company = sys.argv[1] if len(sys.argv) > 1 else "Methanex"
     generate(company)
     # Final content validation — fail hard if output is too thin
-    # (Re-run generate to check — simpler: check one of the saved files)
-    respath = os.path.join(
-        f"/mnt/c/Users/owner/OneDrive/ABHIMANYU-2.0/{get_date(company)}/{company}",
-        f"Aman_Kumar_{company}_SrMgr_Integration.docx"
-    )
-    if os.path.exists(respath):
+    import glob as _gb
+    out_dir = f"/mnt/c/Users/owner/OneDrive/ABHIMANYU-2.0/{get_date(company)}/{company}"
+    docx_files = _gb.glob(os.path.join(out_dir, "Aman_Kumar_*.docx"))
+    if docx_files:
+        respath = docx_files[0]
         from docx import Document as DocCheck
         check = DocCheck(respath)
         c = count_docx_content(check)

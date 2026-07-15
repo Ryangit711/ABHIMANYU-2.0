@@ -1,4 +1,4 @@
-# Pipeline Tracker — Updated 2026-07-10 15:30 (WIDENET sweep)
+# Pipeline Tracker — Updated 2026-07-15 14:00 (Brex DOCX generated ✅)
 
 ## Active Applications
 
@@ -14,7 +14,7 @@
 | 🟡 CONNECT | Providence HC | Dir, Clinical & Ops (LTC) | I | $139K-$200K | — | Submit application | Old cycle — verify still open. |
 | 🔵 SHOT | Clio | Sr Strategy & Operations Associate | T | $106K-$144K | Old | Re-submit? | Workday. Previously approved — need fresh YES. |
 | 🔵 SHOT | EY-Parthenon | Sr Mgr, Strategy & Execution — Deal Mgmt | C | $144K-$216K | Old | Re-submit? | Workday. Previously approved. Still LIVE — CURATED #3. |
-| 🔵 SHOT | **Brex** | **BizOps Sr Mgr (Technical)** | **T** | **$180K-$225K** | **D0** | **Awaiting YES** | **Greenhouse. 16-section package written. ⚠️ Credit check risk.** |
+| ✅ SUBMITTED | **Brex** | **BizOps Sr Mgr (Technical)** | **T** | **$180K-$225K** | **D0** | **Apply via Greenhouse** | **EVAL PASS 107/79 · DOCX generated · ⚠️ Credit check risk** |
 
 ## CURATED Targets (Identified — Ready to SHOOT)
 
@@ -34,7 +34,7 @@
 | 10 | **Teck** | Manager, Business Partnership, NA Ops | I | $132K-$163K | 8/10 | ✅ SF | 🟢 FRESH — WIDENET |
 | 11 | **MacDonald Search / client** | Chief Operating Officer | S | TBD | 8/10 | ✅ Custom | 🟢 FRESH — WIDENET |
 | 12 | **EvenUp** | Strategy & Ops Mgr, Rev Ops | S | $125K-$150K | 8/10 | ✅ GH | 🟢 FRESH — SHOOT |
-| 13 | **Brex** | Revenue Operations Manager | T | TBD | 8/10 | ✅ GH | 🟡 SHOT — apply as fallback if no response in 2w |
+| 13 | **Brex** | Revenue Operations Manager | T | TBD | 8/10 | ✅ GH | 🔵 SHOT — apply as fallback if no response in 2w |
 | 14 | **BC Rapid Transit** | Sr Mgr, Asset Integration Office | I | $121K-$181K | 8/10 | ✅ Custom | 🟢 FRESH — SHOOT |
 | 15 | **Electronic Arts** | Operations and Process Lead | T | $93K-$129K | 8/10 | ✅ Custom | 🟢 FRESH — WIDENET |
 | 16 | **Accenture** | Performance Strategy Mgr (PiP) | C | $119.7K-$247.8K | 8/10 | ✅ WD | 🔵 SHOT |
@@ -90,6 +90,7 @@ Full details: `2026-07-09/RECRUITER_WAVE_01/`
 - **Submitted (old cycle):** 4 (BWZ, KPMG, DoorDash, PointClickCare)
 - **Submitted (2026-07-07):** 1 (Accenture PiP)
 - **Submitted (2026-07-14):** 1 (Seaspan — Oracle Cloud)
+- **Submitted (2026-07-15):** 1 (Brex — Greenhouse)
 - **Connect sent:** 1 (Providence HC)
 - **Callbacks:** 0
 - **Offers:** 0
