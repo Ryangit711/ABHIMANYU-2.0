@@ -206,42 +206,34 @@ scale with leverage · foundational questions · ship fast · ownership
 ## 9. RESUME TEXT (Plain)
 
 ```
-Aman A.
-Vancouver, BC · [PHONE] · [EMAIL] · [LINKEDIN]
+Aman A. | Vancouver, BC | [PHONE] | [EMAIL] | [LINKEDIN]
 
 PROFESSIONAL SUMMARY
-BUILT FROM ZERO: 3→70 FTE · $300K→$4M ARR · 1→32 locations · $0→$17M exit.
-
-Operations builder who designed and scaled the centralized back-office infrastructure for a multi-site healthcare organization across this growth arc — building the systems, tech stack (EHR, VOIP, automation), and AI-driven process transformation that made scale possible. Combines systems thinking with hands-on technical execution. Reports to CEO. Presents quarterly board reporting to 5-member executive committee.
+BUILT FROM ZERO: 3→70 FTE · $300K→$4M ARR · 1→32 locations · $17M exit. Operations builder who designed the centralized back-office infrastructure across this arc — building every system (EHR, VOIP, automation, Python pipelines), leading AI-driven transformation, and directing the acquisition. Board-communicator. Hands-on builder.
 
 CORE COMPETENCIES
-Systems Architecture · AI-Native Automation · Operational Infrastructure · Scalable Platforms · Decision Infrastructure · High-Agency · Workflow Design · Internal Tooling · Cross-Functional Leadership · Risk & Compliance Operations · Acquisition Integration · Python Scripting · LLM/AI Workflows · Process Optimization · Team Scaling (3→70)
+Systems Architecture · AI-Native Automation · Decision Infrastructure · Scalable Platforms · High-Agency · Workflow Design · Internal Tooling · Cross-Functional Leadership · Risk & Compliance · Acquisition Integration · Python · LLM/AI · Team Scaling 3→70
 
 PROFESSIONAL EXPERIENCE
 
 Operations Lead, Skyfly Global / SkyflyMD              2018–2023
 Remote (US Operations) → Vancouver, BC
 
-Led end-to-end operations for a multi-site healthcare organization scaling from 3 to 70 team members across 32 locations in 4 US states. Directed the operational infrastructure that enabled revenue growth from $300K to $4M ARR and a $17M acquisition exit.
+Led end-to-end operations scaling from 3→70 team members across 32 locations in 4 US states. Directed the infrastructure enabling $300K→$4M ARR and a $17M exit.
 
-- Designed and built the decision infrastructure and scalable platforms from zero: provisioned hardware, set up VOIP/VPN/internet redundancy across 32 locations, configured EHR systems, built Python-based automated data pipeline connecting EHR→billing→analytics, and managed 24/7 IT operations — no prior playbook existed
-- Automated clinic scouting workflow using Python scripts — identified acquisition targets across 10+ states by scraping real estate and provider data, replaced manual research with an automated pipeline that accelerated target identification by 3x
-- Deployed LLM/AI tools to overhaul communication workflows — built prompt-based email refinement systems, automated patient-provider message templates, and reduced manual writing time by 60% across the operations team
-- Scaled operations team from 3 to 70 — designed training programs achieving sub-30-day new hire ramp, developed team leads, built performance management frameworks, and maintained zero-defect quality culture across all locations. Delivered quarterly investor-ready reporting and strategy reviews to executive leadership.
-- Directed 8 concurrent due diligence workstreams through $17M acquisition — coordinated finance, legal, operations, IT, HR, and compliance teams to deliver clean close and retained 100% of key talent through 18-month earnout transition
-- Consolidated 8 separate operational systems into one unified platform within 90 days post-close — migrated EHR, billing, scheduling, and reporting workflows without service disruption
-- Presented quarterly board reports to 5-member executive committee — delivered P&L variance analysis across 12 departments, strategic initiative tracking, and board-ready financial reporting packages that governed $4M resource allocation. Advised CEO on $17M acquisition strategy and operational readiness.
+- Built decision infrastructure and scalable platforms from zero: hardware provisioned, VOIP/VPN/internet at 32 sites, EHR configured, Python data pipeline connecting EHR→billing→analytics — no prior playbook
+- Automated clinic scouting with Python — scraped real estate and provider data across 10+ states, replaced manual research with automated pipeline, accelerating target ID by 3x
+- Deployed LLM/AI to overhaul communication — built prompt-based email refinement and automated patient-provider templates, cutting manual writing time by 60%
+- Scaled team 3→70 with sub-30-day new hire ramp, team lead development, performance frameworks, zero-defect quality culture. Delivered quarterly investor-ready reporting to executive leadership.
+- Directed 8 concurrent diligence workstreams through $17M acquisition — coordinated finance, legal, ops, IT, HR, compliance — clean close, 100% key talent retained through 18-month earnout
+- Consolidated 8 separate systems into one unified platform within 90 days — migrated EHR, billing, scheduling, reporting without service disruption
+- Presented quarterly board reports to 5-member executive committee — P&L variance across 12 departments, strategic tracking, financial packages governing $4M allocation. Advised CEO on acquisition strategy.
 
 EDUCATION
-Post-Baccalaureate Diploma, Technical Management & Services — Kwantlen Polytechnic University (KPU), Surrey, BC
-Master of Business Administration (MBA), International Business & IT
-Bachelor of Science, Information Technology
+MBA, International Business & IT | Post-Bacc Diploma, Technical Mgmt & Services — KPU, Surrey, BC | BSc, Information Technology
 
 TECHNICAL PROFICIENCY
-Languages & Tools: Python, SQL, JavaScript (working knowledge), LLM/AI platforms (ChatGPT, Claude, custom agents)
-Operational Platforms: Salesforce, Retool, workflow automation tools, EHR systems (eClinicalWorks, Athenahealth)
-Infrastructure: VOIP/VPN, cloud platforms, network design, hardware provisioning, disaster recovery
-Methodologies: Process automation, workflow design, SOP development, cross-functional program management
+Python · SQL · LLM/AI (ChatGPT, Claude) · Salesforce · Retool · EHR (eClinicalWorks, Athenahealth) · VOIP/VPN · Cloud · Workflow Design · SOP Development · Cross-Functional Program Mgmt
 ```
 
 ---
@@ -289,47 +281,38 @@ Methodologies: Process automation, workflow design, SOP development, cross-funct
 
 \begin{center}
 {\LARGE \textbf{Aman A.}} \\[4pt]
-Vancouver, BC · \href{tel:+1PHONE}{[PHONE]} · \href{mailto:[EMAIL]}{[EMAIL]} · \href{[LINKEDIN]}{[LINKEDIN]}
+Vancouver, BC \;|\; \href{tel:+1PHONE}{[PHONE]} \;|\; \href{mailto:[EMAIL]}{[EMAIL]} \;|\; \href{[LINKEDIN]}{[LINKEDIN]}
 \end{center}
 
 \section*{Professional Summary}
-\textbf{BUILT FROM ZERO: 3$\to$70 FTE \; \$300K$\to$\$4M ARR \; 1$\to$32 locations \; \$0$\to$\$17M exit.}
-
-Operations builder who designed and scaled the centralized back-office infrastructure for a multi-site healthcare organization across this growth arc --- building the systems, tech stack (EHR, VOIP, automation), and AI-driven process transformation that made scale possible. Combines systems thinking with hands-on technical execution. Reports to CEO. Presents quarterly board reporting to 5-member executive committee.
+\textbf{BUILT FROM ZERO: 3$\to$70 FTE \; \$300K$\to$\$4M ARR \; 1$\to$32 locations \; \$17M exit.}
+Operations builder who designed the centralized back-office infrastructure across this arc --- building every system (EHR, VOIP, automation, Python pipelines), leading AI-driven transformation, and directing the acquisition. Board-communicator. Hands-on builder.
 
 \section*{Core Competencies}
-Systems Architecture \textbullet{} AI-Native Automation \textbullet{} Operational Infrastructure \textbullet{} Scalable Platforms \textbullet{} Decision Infrastructure \textbullet{} High-Agency \textbullet{} Workflow Design \textbullet{} Internal Tooling \textbullet{} Cross-Functional Leadership \textbullet{} Risk \& Compliance Operations \textbullet{} Acquisition Integration \textbullet{} Python Scripting \textbullet{} LLM/AI Workflows \textbullet{} Team Scaling (3$\to$70)
+Systems Architecture \textbullet{} AI-Native Automation \textbullet{} Decision Infrastructure \textbullet{} Scalable Platforms \textbullet{} High-Agency \textbullet{} Workflow Design \textbullet{} Internal Tooling \textbullet{} Cross-Functional Leadership \textbullet{} Risk \& Compliance \textbullet{} Acquisition Integration \textbullet{} Python \textbullet{} LLM/AI \textbullet{} Team Scaling 3$\to$70
 
 \section*{Professional Experience}
 
 \textbf{Skyfly Global / SkyflyMD} \hfill 2018--2023 \\
 \textit{Operations Lead} \hfill Remote (US Ops) $\to$ Vancouver, BC \\
 
-Led end-to-end operations for a multi-site healthcare organization scaling from 3 to 70 team members across 32 locations in 4 US states. Directed the operational infrastructure that enabled revenue growth from \$300K to \$4M ARR and a \$17M acquisition exit.
+Led end-to-end operations scaling from 3$\to$70 team members across 32 locations in 4 US states. Directed the infrastructure enabling \$300K$\to$\$4M ARR and a \$17M exit.
 
 \begin{itemize}
-  \item Designed and built the decision infrastructure and scalable platforms from zero: provisioned hardware, set up VOIP/VPN/internet redundancy across 32 locations, configured EHR systems, built Python-based automated data pipeline connecting EHR$\to$billing$\to$analytics, and managed 24/7 IT operations --- no prior playbook existed
-  \item Automated clinic scouting workflow using Python scripts --- identified acquisition targets across 10+ states by scraping real estate and provider data, replaced manual research with an automated pipeline that accelerated target identification by 3x
-  \item Deployed LLM/AI tools to overhaul communication workflows --- built prompt-based email refinement systems, automated patient-provider message templates, and reduced manual writing time by 60\% across the operations team
-  \item Scaled operations team from 3 to 70 --- designed training programs achieving sub-30-day new hire ramp, developed team leads, built performance management frameworks, and maintained zero-defect quality culture across all locations. Delivered quarterly investor-ready reporting and strategy reviews to executive leadership.
-  \item Directed 8 concurrent due diligence workstreams through \$17M acquisition --- coordinated finance, legal, operations, IT, HR, and compliance teams to deliver clean close and retained 100\% of key talent through 18-month earnout transition
-  \item Consolidated 8 separate operational systems into one unified platform within 90 days post-close --- migrated EHR, billing, scheduling, and reporting workflows without service disruption
-  \item Presented quarterly board reports to 5-member executive committee --- delivered P\&L variance analysis across 12 departments, strategic initiative tracking, and board-ready financial reporting packages that governed \$4M resource allocation. Advised CEO on \$17M acquisition strategy and operational readiness.
+  \item Built decision infrastructure and scalable platforms from zero: hardware provisioned, VOIP/VPN/internet at 32 sites, EHR configured, Python data pipeline connecting EHR$\to$billing$\to$analytics --- no prior playbook
+  \item Automated clinic scouting with Python --- scraped real estate and provider data across 10+ states, replaced manual research with automated pipeline, accelerating target ID by 3x
+  \item Deployed LLM/AI to overhaul communication --- built prompt-based email refinement and automated patient-provider templates, cutting manual writing time by 60\%
+  \item Scaled team 3$\to$70 with sub-30-day new hire ramp, team lead development, performance frameworks, zero-defect quality culture. Delivered quarterly investor-ready reporting to executive leadership.
+  \item Directed 8 concurrent diligence workstreams through \$17M acquisition --- coordinated finance, legal, ops, IT, HR, compliance --- clean close, 100\% key talent retained through 18-month earnout
+  \item Consolidated 8 separate systems into one unified platform within 90 days --- migrated EHR, billing, scheduling, reporting without service disruption
+  \item Presented quarterly board reports to 5-member executive committee --- P\&L variance across 12 departments, strategic tracking, financial packages governing \$4M allocation. Advised CEO on acquisition strategy.
 \end{itemize}
 
 \section*{Education}
-\textbf{Post-Baccalaureate Diploma}, Technical Management \& Services \\
-Kwantlen Polytechnic University (KPU), Surrey, BC \\
-\textbf{Master of Business Administration (MBA)}, International Business \& IT \\
-\textbf{Bachelor of Science}, Information Technology
+MBA, International Business \& IT \;|\; Post-Bacc Diploma, Technical Mgmt \& Services --- KPU, Surrey, BC \;|\; BSc, Information Technology
 
 \section*{Technical Proficiency}
-\begin{itemize}
-  \item \textbf{Languages \& Tools:} Python, SQL, JavaScript (working knowledge), LLM/AI platforms (ChatGPT, Claude, custom agents)
-  \item \textbf{Operational Platforms:} Salesforce, Retool, workflow automation tools, EHR systems (eClinicalWorks, Athenahealth)
-  \item \textbf{Infrastructure:} VOIP/VPN, cloud platforms, network design, hardware provisioning, disaster recovery
-  \item \textbf{Methodologies:} Process automation, workflow design, SOP development, cross-functional program management
-\end{itemize}
+Python \;$\cdot$\; SQL \;$\cdot$\; LLM/AI (ChatGPT, Claude) \;$\cdot$\; Salesforce \;$\cdot$\; Retool \;$\cdot$\; EHR (eClinicalWorks, Athenahealth) \;$\cdot$\; VOIP/VPN \;$\cdot$\; Cloud \;$\cdot$\; Workflow Design \;$\cdot$\; SOP Development \;$\cdot$\; Cross-Functional Program Mgmt
 
 \end{document}
 ```

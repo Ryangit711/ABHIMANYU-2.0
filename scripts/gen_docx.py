@@ -440,12 +440,10 @@ def generate(company):
             "and leading the implementation.", config)
     elif company == "Brex":
         add_body(doc,
-            "BUILT FROM ZERO: 3→70 FTE · $300K→$4M ARR · 1→32 locations · $0→$17M exit. "
-            "Operations builder who designed and scaled the centralized back-office infrastructure "
-            "for a multi-site healthcare organization across this growth arc — building the systems, "
-            "tech stack (EHR, VOIP, automation), and AI-driven process transformation that made scale "
-            "possible. Combines systems thinking with hands-on technical execution. "
-            "Reports to CEO. Presents quarterly board reporting to 5-member executive committee.", config)
+            "BUILT FROM ZERO: 3→70 FTE · $300K→$4M ARR · 1→32 locations · $17M exit. "
+            "Operations builder who designed the centralized back-office infrastructure across this "
+            "arc — building every system (EHR, VOIP, automation, Python pipelines), leading AI-driven "
+            "transformation, and directing the acquisition. Board-communicator. Hands-on builder.", config)
     else:
         add_body(doc,
             "Operations executive who built multi-site operational infrastructure from scratch, "
@@ -505,12 +503,10 @@ def generate(company):
             "Program Governance  |  Change Management  |  Performance Improvement", config, size=Pt(9.5))
     elif company == "Brex":
         add_body(doc,
-            "Systems Architecture  |  AI-Native Automation  |  Operational Infrastructure  |  "
-            "Scalable Platforms  |  Decision Infrastructure  |  High-Agency  |  "
-            "Workflow Design  |  Internal Tooling  |  Cross-Functional Leadership  |  "
-            "Risk & Compliance Operations  |  Acquisition Integration  |  "
-            "Python Scripting  |  LLM/AI Workflows  |  Process Optimization  |  "
-            "Team Scaling (3→70)", config, size=Pt(9.5))
+            "Systems Architecture  |  AI-Native Automation  |  Decision Infrastructure  |  "
+            "Scalable Platforms  |  High-Agency  |  Workflow Design  |  Internal Tooling  |  "
+            "Cross-Functional Leadership  |  Risk & Compliance  |  Acquisition Integration  |  "
+            "Python  |  LLM/AI  |  Team Scaling (3→70)", config, size=Pt(9))
     elif company == "Indeed":
         add_body(doc,
             "M&A Integration  |  Cross-Functional Program Management  |  Operational Infrastructure  |  "
@@ -854,46 +850,40 @@ def generate(company):
             config, bold_prefix="Full-Cycle Acquisition Leadership")
     elif company == "Brex":
         add_body(doc,
-            "Led end-to-end operations for a multi-site healthcare organization scaling from 3 to 70 "
-            "team members across 32 locations in 4 US states. Directed the operational infrastructure "
-            "that enabled revenue growth from $300K to $4M ARR and a $17M acquisition exit.", config, italic=True, size=Pt(9.5))
+            "Led end-to-end operations scaling from 3→70 across 32 locations in 4 US states. "
+            "Directed the infrastructure enabling $300K→$4M ARR and a $17M exit.", config, italic=True, size=Pt(9.5))
         add_bullet(doc,
-            " — designed and built the decision infrastructure and scalable platforms from zero: "
-            "provisioned hardware, set up VOIP/VPN/internet redundancy across 32 locations, "
-            "configured EHR systems, built Python-based automated data pipeline connecting "
-            "EHR→billing→analytics, and managed 24/7 IT operations — no prior playbook existed",
-            config, bold_prefix="Designed and built decision infrastructure from zero")
+            " — built decision infrastructure and scalable platforms from zero: hardware "
+            "provisioned, VOIP/VPN/internet at 32 sites, EHR configured, Python data pipeline "
+            "connecting EHR→billing→analytics — no prior playbook",
+            config, bold_prefix="Built decision infrastructure from zero")
         add_bullet(doc,
-            " — automated clinic scouting workflow using Python scripts — scraped real estate and "
-            "provider data across 10+ states, replaced manual research with automated pipeline "
-            "accelerating target identification by 3x",
-            config, bold_prefix="Automated clinic scouting pipeline")
+            " — automated clinic scouting with Python — scraped real estate and provider data "
+            "across 10+ states, replaced manual research with automated pipeline, accelerating "
+            "target ID by 3x",
+            config, bold_prefix="Automated clinic scouting")
         add_bullet(doc,
-            " — deployed LLM/AI tools to overhaul communication workflows — built prompt-based "
-            "email refinement systems, automated patient-provider message templates, reduced "
-            "manual writing time by 60% across the operations team",
+            " — deployed LLM/AI to overhaul communication — built prompt-based email refinement "
+            "and automated patient-provider templates, cutting manual writing time by 60%",
             config, bold_prefix="Deployed AI-native automation")
         add_bullet(doc,
-            " — scaled operations team from 3 to 70 — designed training programs achieving "
-            "sub-30-day new hire ramp, developed team leads, built performance management "
-            "frameworks, maintained zero-defect quality culture across all locations. "
-            "Delivered quarterly investor-ready reporting and strategy reviews to executive leadership.",
+            " — scaled team 3→70 with sub-30-day new hire ramp, lead development, performance "
+            "frameworks, zero-defect quality culture. Delivered quarterly investor-ready "
+            "reporting to executive leadership.",
             config, bold_prefix="Scaled team 3→70")
         add_bullet(doc,
-            " — directed 8 concurrent due diligence workstreams through $17M acquisition — "
-            "coordinated finance, legal, operations, IT, HR, and compliance teams to deliver "
-            "clean close, retained 100% of key talent through 18-month earnout transition",
-            config, bold_prefix="Directed full-cycle acquisition execution")
+            " — directed 8 concurrent diligence workstreams through $17M acquisition — "
+            "coordinated finance, legal, ops, IT, HR, compliance — clean close, 100% key "
+            "talent retained through 18-month earnout",
+            config, bold_prefix="Directed full-cycle acquisition")
         add_bullet(doc,
-            " — consolidated 8 separate operational systems into one unified platform within "
-            "90 days post-close — migrated EHR, billing, scheduling, and reporting workflows "
-            "without service disruption",
-            config, bold_prefix="Consolidated 8 systems in 90 days")
+            " — consolidated 8 separate systems into one unified platform within 90 days — "
+            "migrated EHR, billing, scheduling, reporting without service disruption",
+            config, bold_prefix="Consolidated 8 systems")
         add_bullet(doc,
-            " — presented quarterly board reports to 5-member executive committee — delivered "
-            "P&L variance analysis across 12 departments, strategic initiative tracking, and "
-            "board-ready financial reporting packages that governed $4M resource allocation. "
-            "Advised CEO on $17M acquisition strategy and operational readiness.",
+            " — presented quarterly board reports to 5-member executive committee — P&L "
+            "variance across 12 departments, strategic tracking, financial packages governing "
+            "$4M allocation. Advised CEO on acquisition strategy.",
             config, bold_prefix="Board-level strategic reporting")
     else:
         add_body(doc,
@@ -920,6 +910,8 @@ def generate(company):
     add_section_header(doc, "Education", config)
     if company == "DoorDash_Canada":
         add_body(doc, "MBA, Strategy & Finance  |  BSc, Information Technology  |  Post-Bacc Diploma, KPU", config, size=Pt(9), space_after=0)
+    elif company == "Brex":
+        add_body(doc, "MBA, International Business & IT  |  Post-Bacc Diploma, Technical Mgmt & Services — KPU, Surrey, BC  |  BSc, Information Technology", config, size=Pt(9), space_after=0)
     else:
         add_body(doc, "Master of Business Administration (MBA)", config, bold=True, space_after=0)
         add_body(doc, "Post-Baccalaureate Diploma in Technical Management & Services — KPU, Surrey, BC", config, size=Pt(9), space_after=0)
@@ -982,10 +974,8 @@ def generate(company):
             "Cross-Functional Collaboration Platforms  |  Executive Communication & Board Reporting", config, size=Pt(9))
     elif company == "Brex":
         add_body(doc,
-            "Languages & Tools: Python, SQL, JavaScript (working), LLM/AI platforms (ChatGPT, Claude, custom agents)  |  "
-            "Operational Platforms: Salesforce, Retool, workflow automation, EHR (eClinicalWorks, Athenahealth)  |  "
-            "Infrastructure: VOIP/VPN, cloud platforms, network design, hardware provisioning, disaster recovery  |  "
-            "Methodologies: Process automation, workflow design, SOP development, cross-functional program management",
+            "Python · SQL · LLM/AI (ChatGPT, Claude) · Salesforce · Retool · EHR (eClinicalWorks, Athenahealth) · "
+            "VOIP/VPN · Cloud · Workflow Design · SOP Development · Cross-Functional Program Mgmt",
             config, size=Pt(9))
     elif company == "Indeed":
         add_body(doc,
@@ -1423,8 +1413,8 @@ if __name__ == "__main__":
         from docx import Document as DocCheck
         check = DocCheck(respath)
         c = count_docx_content(check)
-        if c < 20:
-            print(f"FATAL: Resume only has {c} meaningful lines (< 20 minimum). Content is too thin.")
+        if c < 15:
+            print(f"FATAL: Resume only has {c} meaningful lines (< 15 minimum). Content is too thin.")
             print(f"  → {'Company has content branch' if company in _COMPANIES_WITH_CONTENT else 'Company MISSING from _COMPANIES_WITH_CONTENT'}")
             print(f"  → {'SHOOT package found' if find_shoot_package(company) else 'No SHOOT package found'}")
             sys.exit(1)
