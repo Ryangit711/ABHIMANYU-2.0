@@ -20,11 +20,13 @@
 - **VanHiring** — vanhiring.com — Vancouver-specific curated roles
 - **RemoteOK** — remoteok.com — remote Canada ops/strategy roles
 - **WeWorkRemotely** — weworkremotely.com — remote Canada ops/strategy roles
+- **Startup Jobs** — startup.jobs — startup-focused roles (S pipe), free API available
 
 ### New Vault-Discovered Sources (Added 2026-07-09)
 - **Monster.ca** — monster.ca (RSS) — legacy board, strong corporate ops/leadership listings
 - **Eluta.ca** — eluta.ca (OpenSearch) — hidden roles from company career pages
 - **Hiring Cafe** — hiring.cafe — curated tech/startup roles at scale-ups
+- **Startup Jobs** — startup.jobs — startup-focused roles across all pipes (free API, set STARTUP_JOBS_API_KEY for full access)
 - **Crossover** — crossover.com — remote operations/leadership roles
 - **Pangian** — pangian.com — remote-first work platform
 - **CollabWork** — collabwork.com — remote ops/management roles

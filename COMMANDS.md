@@ -4,7 +4,7 @@
 
 | Command | What It Does |
 |---------|-------------|
-| `FETCH` | Scan 13+ sources, return 24h-fresh jobs |
+| `FETCH` | Scan 14+ sources, return 24h-fresh jobs |
 | `SHOOT [company]` | Write 16-section package |
 | `YES` | Approve → auto-start networking timer |
 | `AUTO-APPLY [company]` | Browser auto-submit |

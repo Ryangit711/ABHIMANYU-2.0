@@ -895,3 +895,17 @@ job_boards:
     provider: ceriusexecutives
     enabled: true
     notes: "Fractional exec/leadership roles"
+
+  # ── New Sources (added 2026-07-14) ─────────────────────────────────
+
+  - name: Hiring Cafe
+    careers_url: https://hiring.cafe
+    provider: hiringcafe
+    enabled: true
+    notes: "Curated tech/startup roles — salary data on listings, company stage filters"
+
+  - name: Startup Jobs
+    careers_url: https://startup.jobs
+    provider: startupjobs
+    enabled: true
+    notes: "Startup-focused roles — free API, set STARTUP_JOBS_API_KEY env var for full access"

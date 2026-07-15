@@ -33,12 +33,13 @@
    ┌─────────────────────────────────────────────────────────────────────┐
     │  LAYER 1 — BOARD SCAN (41+ sources)                                │
    │                                                                     │
-   │  13 original: Indeed · LinkedIn · Glassdoor · Workopolis · Jooble   │
-   │               Google Jobs · Hiring Cafe · Eluta.ca · SimplyHired    │
-   │               Monster CA · ZipRecruiter · Otta · BCjobs.ca          │
-   │                                                                     │
-   │  6 new:      Wellfound · WorkBC · Crabjobs · VanHiring             │
-   │              RemoteOK · WeWorkRemotely                              │
+    │  14 original: Indeed · LinkedIn · Glassdoor · Workopolis · Jooble   │
+    │               Google Jobs · Hiring Cafe · Startup Jobs · Eluta.ca   │
+    │               SimplyHired · Monster CA · ZipRecruiter · Otta        │
+    │               BCjobs.ca                                             │
+    │                                                                     │
+    │  6 new:      Wellfound · WorkBC · Crabjobs · VanHiring             │
+    │              RemoteOK · WeWorkRemotely                              │
    └───────────────────────────┬─────────────────────────────────────────┘
                                │
                                ▼

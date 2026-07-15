@@ -40,7 +40,7 @@ Show SYSTEM READY banner. If any check fails → warn user and stop.
 ## Phase 2a — Sweep All 13 Sources + Career Pages + Greenhouse (24h fresh window)
 - Full source registry: `data/pipeline/SYSTEM_SOURCES.md`
 - READ SYSTEM_SOURCES.md first — sweep ALL sources in parallel
-- **Primary boards (all 13)**: Indeed · LinkedIn · Glassdoor · Workopolis · Jooble · Google Jobs · Hiring Cafe · Eluta.ca · SimplyHired · Monster Canada · ZipRecruiter · Otta · BCjobs.ca
+- **Primary boards (all 14)**: Indeed · LinkedIn · Glassdoor · Workopolis · Jooble · Google Jobs · Hiring Cafe · Startup Jobs · Eluta.ca · SimplyHired · Monster Canada · ZipRecruiter · Otta · BCjobs.ca
 - **T PIPE (Tech/Ops Core)**: Clio, Shopify, Amazon, 1Password, Tailscale, DoorDash, SaaS ops — plus SYSTEM_SOURCES.md T pipe list
 - **I PIPE (Internal Strategy)**: lululemon, TELUS, corporate strategy, BizOps, RevOps — plus SYSTEM_SOURCES.md I pipe list
 - **C PIPE (Consulting)**: EY-Parthenon, Deloitte, EY, KPMG, PwC, Accenture, MBB — plus SYSTEM_SOURCES.md C pipe list
@@ -57,7 +57,7 @@ Show SYSTEM READY banner. If any check fails → warn user and stop.
 - Apify fallback when webfetch returns blank/truncated
 
 ## Phase 2b — Deduplicate Across ALL Sources
-- For every raw job found across all 13 sources + career pages + Greenhouse:
+- For every raw job found across all 14 sources + career pages + Greenhouse:
   - Group by: company name + role title + location (fuzzy match — same company + same level = same job)
   - Collapse each group into ONE entry
   - Retain the best source URL (priority: company career page → ATS portal → LinkedIn → primary board → third-party board)
@@ -157,7 +157,7 @@ WRITE to data/pipeline/PIPELINE.md:
 ## Phase 8 — Display
 1. Full proofread table with columns: pipe, wave, company, role, salary, fit%, ATS feasibility (✅/⚠️), apply via, sources found on, why
 2. Pipeline integration readout: "N new jobs added to pipeline. M jobs already tracked."
-3. Simplest Summary — 3-4 sentence plain-language recap (include total # of raw jobs found across 13 sources before dedup)
+3. Simplest Summary — 3-4 sentence plain-language recap (include total # of raw jobs found across 14+ sources before dedup)
 4. Command footer — full command reference
 
 ## Phase 9 — SHOOT All Jobs (Auto-Trigger)
