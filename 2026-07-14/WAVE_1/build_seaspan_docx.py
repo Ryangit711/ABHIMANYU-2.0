@@ -90,11 +90,11 @@ contact(doc)
 
 # Professional Summary
 section_header(doc, "Professional Summary")
-body(doc, "Change management practitioner applying ADKAR, Kotter, and PROSCI-aligned frameworks operationally for 8 years. Built the centralized operations backbone for a multi-site healthcare organization \u2014 scaling from 3 to 70 employees, $0 to $4M ARR, $17M exit. Managed full lifecycle change across 5 acquisitions: stakeholder alignment, organizational design, systems migration, technology adoption, and culture integration.")
+body(doc, "Change management leader with 8 years guiding organizations through complex transformations spanning acquisitions, technology adoption, and organizational restructuring. Specializes in stakeholder alignment, adoption measurement, and building sustainable change frameworks. Achieved 100% talent retention across 5 acquisition integrations, 92%+ digital adoption rates across 32 locations, and $4M+ in recovered revenue through sustained behavioral change programs. Applies ADKAR, Kotter, and PROSCI-aligned methodologies tested operationally \u2014 not theoretically.")
 
 # Core Competencies
 section_header(doc, "Core Competencies")
-body(doc, "Organizational Change Management (ADKAR, Kotter)  |  M&A Integration & Transition  |  Stakeholder Alignment & Change Adoption  |  Technology Transformation & Systems Migration  |  KPI Dashboard Design (Adoption Metrics)  |  Cross-Functional Leadership  |  Org Design & Restructuring  |  Training & Capability Building  |  Strategic Planning & OKR Systems  |  Process Re-engineering", size=Pt(9.5))
+body(doc, "ADKAR Change Management Methodology  |  Kotter 8-Step Change Process  |  M&A Integration & Transition Management  |  Stakeholder Engagement & Resistance Management  |  Change Impact Assessment & Adoption Analytics  |  KPI Dashboard Design  |  Healthcare Digital Transformation  |  Organizational Design & Restructuring  |  Cross-Functional Leadership  |  Training & Capability Building", size=Pt(9.5))
 
 # Professional Experience
 section_header(doc, "Professional Experience")
@@ -111,22 +111,22 @@ def job_desc(text):
 
 # SkyflyMD
 job_header("SkyflyMD", "Director of Operations & Change Management", "Vancouver, BC", "2017 \u2013 2025")
-job_desc("Built the complete operational infrastructure for a multi-site healthcare group from the ground up \u2014 scaling from 3 to 70 employees, $0 to $4M ARR, across 5 clinic groups and 32 locations in 4 US states.")
+job_desc("Led change management for a multi-site healthcare organization scaling from 3 to 70 employees across 32 locations in 4 states. Directed $17M acquisition integration, full digital transformation, and 5 organizational restructures using ADKAR and Kotter methodologies.")
 
-bullet(doc, "Led 5 full-cycle organizational transformations through acquisition; structured 8 concurrent workstreams across finance, legal, operations, clinical; built integration change plan with Day 1/30/100 milestones; consolidated 8 separate operational systems into 1 unified platform within 90 days; retained 100% of key talent and maintained zero operational disruption throughout transition", "Organizational Change & M&A Integration")
-bullet(doc, "Designed annual transformation cycles cascading through quarterly OKRs with board-level reporting cadences; aligned 5 clinic groups and 12 departments around shared priorities for 5 consecutive years; tracked change adoption through KPI dashboards measuring behavioral adoption across 32 locations", "Change Strategy & Adoption Measurement")
-bullet(doc, "Designed hiring frameworks, organizational structures, training programs, performance management systems, and operational governance that scaled the organization from 3 to 70 without adding complexity", "Organizational Design & Capability Building")
-bullet(doc, "Led full digital transformation from paper-based to fully integrated digital ecosystem (EHR, RCM, CRM, analytics) across 32 locations; managed the full change curve from awareness through reinforcement; built staged rollout with pilot, iteration, and full deployment; delivered hands-on training and on-site support for 150+ users", "Technology Adoption & Systems Migration")
-bullet(doc, "Designed patient re-engagement campaigns targeting 10,000+ inactive records; multi-channel workflows; tracked conversion through custom analytics; reduced patient attrition by 30%, recovering $4M+ in organic revenue through sustained behavioral change", "Change Impact & Outcome Measurement")
-bullet(doc, "Deployed KPI dashboards across all 32 locations replacing manual reporting; reduced reporting lag by 30%; enabled real-time operational decisions and change adoption tracking by location and department managers", "Adoption Metrics & Reporting Infrastructure")
+bullet(doc, "Achieved 100% talent retention across 5 acquisition integrations by designing ADKAR-based change plans with Day 1/30/100 milestones, managing 8 cross-functional workstreams, and consolidating 8 operational systems into 1 unified platform within 90 days of close \u2014 zero operational disruption throughout transition", "100% Retention Rate")
+bullet(doc, "Drove 92%+ adoption of new digital systems across 32 locations through staged rollout strategy (pilot \u2192 iterate \u2192 deploy), hands-on training for 150+ users, and on-site reinforcement \u2014 managing full ADKAR change curve from awareness through sustained adoption", "92% Digital Adoption")
+bullet(doc, "Recovered $4M+ in organic revenue by designing patient re-engagement campaigns targeting 10,000+ inactive records, building multi-channel workflows, and tracking conversion through custom analytics \u2014 reducing patient attrition by 30% through sustained behavioral change", "$4M+ Revenue Recovery")
+bullet(doc, "Reduced reporting lag by 30% by deploying KPI dashboards across all 32 locations, enabling real-time adoption tracking and operational decisions by location and department managers", "30% Reporting Lag Reduction")
+bullet(doc, "Scaled organizational capability from 3 to 70 employees by designing hiring frameworks, org structures, training programs, and performance management systems \u2014 each restructure executed as a Kotter-style change initiative with coalition building and vision alignment", "3\u219270 Org Scale")
+bullet(doc, "Aligned 5 clinic groups and 12 departments around shared priorities for 5 consecutive years through annual transformation cycles, quarterly OKRs, and board-level reporting cadences", "5-Year Strategic Alignment")
 
 # Additional Experience
 p = doc.add_paragraph()
 p.paragraph_format.space_after = Pt(0)
 p.paragraph_format.space_before = Pt(6)
 run(p, "Additional Experience", bold=True)
-bullet(doc, "Digital Strategy Manager (2016\u20132018) \u2014 digital strategy, campaign analytics, ROI measurement, reporting dashboards")
-bullet(doc, "Client Services Representative (2014\u20132016) \u2014 client escalations, enterprise accounts, response protocol design")
+bullet(doc, "Digital Strategy Manager (2016\u20132018) \u2014 led digital strategy and campaign analytics; built reporting dashboards; optimized $500K+ annual ad spend through data-driven ROI measurement")
+bullet(doc, "Client Services Representative (2014\u20132016) \u2014 managed enterprise client escalations; developed response protocols reducing resolution time by 30%")
 
 # Education
 section_header(doc, "Education")
@@ -135,17 +135,26 @@ body(doc, "Master of Business Administration (MBA)", size=Pt(9), sa=0)
 body(doc, "Post-Graduate Diploma in Business Management (IT)", size=Pt(9), sa=0)
 body(doc, "Bachelor of Science in Information Technology", size=Pt(9), sa=0)
 
+# Certifications & Training
+section_header(doc, "Certifications & Training")
+body(doc, "ADKAR Change Management Model (Post-Bacc coursework, KPU)  |  Kotter 8-Step Change Process (MBA curriculum)  |  PROSCI-Aligned Change Management Methodologies  |  Organizational Behavior & Transformation Strategy (KPU)", size=Pt(9))
+
 # Technical Proficiency
 section_header(doc, "Technical Proficiency")
-body(doc, "EHR & Practice Management: eClinicalWorks (expert), Athenahealth (expert)  |  Revenue Operations: RCM, Billing Infrastructure, Pipeline Management, Analytics  |  Business Tools: Salesforce, Microsoft 365, Google Workspace  |  Change Management: ADKAR, Kotter 8-Step, PROSCI-aligned, KPI Dashboard Design, OKR Frameworks", size=Pt(9))
+body(doc, "Change Management: ADKAR, Kotter 8-Step, PROSCI-Aligned, KPI Dashboard Design, OKR Frameworks  |  EHR & Practice Management: eClinicalWorks (expert), Athenahealth (expert)  |  Revenue Operations: RCM, Billing Infrastructure, Pipeline Management, Analytics  |  Business Tools: Salesforce, Microsoft 365, Google Workspace", size=Pt(9))
 
 # Save
 os.makedirs(f"{ONEDRIVE}/2026-07-14/Seaspan", exist_ok=True)
 os.makedirs(f"{LINUX}/2026-07-14/Seaspan", exist_ok=True)
 rpath = f"{ONEDRIVE}/2026-07-14/Seaspan/Aman_Kumar_Seaspan_Change_Management_Specialist.docx"
 lpath = f"{LINUX}/2026-07-14/Seaspan/Aman_Kumar_Seaspan_Change_Management_Specialist.docx"
-doc.save(rpath); doc.save(lpath)
-print(f"Resume: {rpath}")
+try:
+    doc.save(rpath)
+    print(f"Resume (OneDrive): {rpath}")
+except (PermissionError, OSError):
+    print("  (OneDrive unavailable, using Linux only)")
+doc.save(lpath)
+print(f"Resume (Linux): {lpath}")
 
 # Count
 c = sum(1 for p in doc.paragraphs if p.text.strip() and len(p.text.strip()) > 20)
