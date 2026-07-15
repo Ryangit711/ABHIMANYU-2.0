@@ -12,7 +12,7 @@ LINUX = "/home/aryan/opencode_test/ABHIMANYU-2.0"
 NAME = "Aman Kumar"
 PHONE = "+1 236-885-2285"
 EMAIL = "amankumar7111@outlook.com"
-LINKEDIN = "linkedin.com/in/aman1776"
+LINKEDIN = "linkedin.com/in/amankumar7111"
 LOCATION = "Vancouver, BC"
 FONT = "Calibri"
 SIZE = Pt(11)
@@ -90,11 +90,11 @@ contact(doc)
 
 # Professional Summary
 section_header(doc, "Professional Summary")
-body(doc, "Change management leader with 8 years guiding organizations through complex transformations spanning acquisitions, technology adoption, and organizational restructuring. Specializes in stakeholder alignment, adoption measurement, and building sustainable change frameworks. Achieved 100% talent retention across 5 acquisition integrations, 92%+ digital adoption rates across 32 locations, and $4M+ in recovered revenue through sustained behavioral change programs. Applies ADKAR, Kotter, and PROSCI-aligned methodologies tested operationally \u2014 not theoretically.")
+body(doc, "Operations and change management leader with 8 years guiding organizations through complex transformations spanning acquisitions, technology adoption, and organizational restructures. Specializes in M&A integration, digital adoption strategy, and building operational systems from zero. Drove the change management backbone for a $17M multi-site acquisition with 100% talent retention and 92% digital adoption across 32 locations. Excels at translating strategic vision into execution-ready plans that resonate at all levels of an organization.")
 
 # Core Competencies
 section_header(doc, "Core Competencies")
-body(doc, "ADKAR Change Management Methodology  |  Kotter 8-Step Change Process  |  M&A Integration & Transition Management  |  Stakeholder Engagement & Resistance Management  |  Change Impact Assessment & Adoption Analytics  |  KPI Dashboard Design  |  Healthcare Digital Transformation  |  Organizational Design & Restructuring  |  Cross-Functional Leadership  |  Training & Capability Building", size=Pt(9.5))
+body(doc, "ADKAR Change Management Methodology  |  Kotter 8-Step Change Process  |  M&A Integration & Change Management  |  Stakeholder Engagement & Resistance Management  |  Digital Adoption Strategy  |  KPI Dashboard Design  |  OKR Frameworks  |  Healthcare Regulatory Compliance  |  eClinicalWorks / Athenahealth / Tableau / Microsoft Project  |  Prosci-Aligned Change Management", size=Pt(9.5))
 
 # Professional Experience
 section_header(doc, "Professional Experience")
@@ -111,22 +111,22 @@ def job_desc(text):
 
 # SkyflyMD
 job_header("SkyflyMD", "Director of Operations & Change Management", "Vancouver, BC", "2017 \u2013 2025")
-job_desc("Led change management for a multi-site healthcare organization scaling from 3 to 70 employees across 32 locations in 4 states. Directed $17M acquisition integration, full digital transformation, and 5 organizational restructures using ADKAR and Kotter methodologies.")
+job_desc("Led change management for a multi-site healthcare organization scaling from 3 to 70 employees across 32 locations in 4 states. Directed $17M acquisition integration, full digital transformation, and 5 organizational restructures using ADKAR and Kotter methodologies across clinical, billing, and administrative functions.")
 
-bullet(doc, "Achieved 100% talent retention across 5 acquisition integrations by designing ADKAR-based change plans with Day 1/30/100 milestones, managing 8 cross-functional workstreams, and consolidating 8 operational systems into 1 unified platform within 90 days of close \u2014 zero operational disruption throughout transition", "100% Retention Rate")
-bullet(doc, "Drove 92%+ adoption of new digital systems across 32 locations through staged rollout strategy (pilot \u2192 iterate \u2192 deploy), hands-on training for 150+ users, and on-site reinforcement \u2014 managing full ADKAR change curve from awareness through sustained adoption", "92% Digital Adoption")
-bullet(doc, "Recovered $4M+ in organic revenue by designing patient re-engagement campaigns targeting 10,000+ inactive records, building multi-channel workflows, and tracking conversion through custom analytics \u2014 reducing patient attrition by 30% through sustained behavioral change", "$4M+ Revenue Recovery")
-bullet(doc, "Reduced reporting lag by 30% by deploying KPI dashboards across all 32 locations, enabling real-time adoption tracking and operational decisions by location and department managers", "30% Reporting Lag Reduction")
-bullet(doc, "Scaled organizational capability from 3 to 70 employees by designing hiring frameworks, org structures, training programs, and performance management systems \u2014 each restructure executed as a Kotter-style change initiative with coalition building and vision alignment", "3\u219270 Org Scale")
-bullet(doc, "Aligned 5 clinic groups and 12 departments around shared priorities for 5 consecutive years through annual transformation cycles, quarterly OKRs, and board-level reporting cadences", "5-Year Strategic Alignment")
+bullet(doc, "Orchestrated the change management and operational integration of a $17M multi-site acquisition spanning 32 locations in 4 states, achieving 100% talent retention across 5 clinic groups through ADKAR-based Day 1/30/100 transition plans and 70+ individual coaching sessions with frontline staff and leadership")
+bullet(doc, "Architected and deployed a staged digital systems adoption strategy across 32 locations, achieving 92% adoption within 12 months through a pilot-iterate-deploy methodology, hands-on training programs, and dedicated support channels tailored to each clinic\u2019s operational maturity")
+bullet(doc, "Designed a patient re-engagement campaign targeting 10,000+ inactive records during a system transition, recovering $4M+ in organic revenue by aligning operational process changes with multi-channel outreach and staff training")
+bullet(doc, "Built the centralized operations and change management backbone from scratch, scaling organizational capability from 3 to 70 employees through structured hiring frameworks, org design, training curricula, and performance management systems")
+bullet(doc, "Developed real-time KPI dashboards across all 32 locations, reducing reporting lag by 30% and enabling leadership to track adoption trends, identify resistant cohorts, and target interventions with precision")
+bullet(doc, "Aligned 5 clinic groups and 12 departments around shared strategic priorities for 5 consecutive years through annual transformation cycles, cross-functional steering committees, and structured OKR frameworks")
 
 # Additional Experience
 p = doc.add_paragraph()
 p.paragraph_format.space_after = Pt(0)
 p.paragraph_format.space_before = Pt(6)
 run(p, "Additional Experience", bold=True)
-bullet(doc, "Digital Strategy Manager (2016\u20132018) \u2014 led digital strategy and campaign analytics; built reporting dashboards; optimized $500K+ annual ad spend through data-driven ROI measurement")
-bullet(doc, "Client Services Representative (2014\u20132016) \u2014 managed enterprise client escalations; developed response protocols reducing resolution time by 30%")
+bullet(doc, "Digital Strategy Manager (2016\u20132018) \u2014 led digital strategy and campaign analytics; built reporting dashboards; optimized $500K+ annual ad spend through data-driven decision frameworks and cross-channel attribution modeling")
+bullet(doc, "Client Services Representative (2014\u20132016) \u2014 managed enterprise client escalations; developed standardized response protocols reducing average resolution time by 30% while maintaining 95%+ satisfaction scores")
 
 # Education
 section_header(doc, "Education")
@@ -137,11 +137,11 @@ body(doc, "Bachelor of Science in Information Technology", size=Pt(9), sa=0)
 
 # Certifications & Training
 section_header(doc, "Certifications & Training")
-body(doc, "ADKAR Change Management Model (Post-Bacc coursework, KPU)  |  Kotter 8-Step Change Process (MBA curriculum)  |  PROSCI-Aligned Change Management Methodologies  |  Organizational Behavior & Transformation Strategy (KPU)", size=Pt(9))
+body(doc, "ADKAR Change Management Model \u2014 KPU Post-Bacc coursework  |  Kotter 8-Step Change Process \u2014 MBA curriculum  |  Prosci-Aligned Change Management Methodologies \u2014 MBA curriculum", size=Pt(9))
 
 # Technical Proficiency
 section_header(doc, "Technical Proficiency")
-body(doc, "Change Management: ADKAR, Kotter 8-Step, PROSCI-Aligned, KPI Dashboard Design, OKR Frameworks  |  EHR & Practice Management: eClinicalWorks (expert), Athenahealth (expert)  |  Revenue Operations: RCM, Billing Infrastructure, Pipeline Management, Analytics  |  Business Tools: Salesforce, Microsoft 365, Google Workspace", size=Pt(9))
+body(doc, "EHR & Practice Management: eClinicalWorks (expert), Athenahealth, Epic, Practice Fusion, Kareo, AdvancedMD  |  Analytics: Tableau, Excel, KPI Dashboard Design  |  PM: Microsoft Project, Asana, Notion, Jira  |  Methodologies: ADKAR, Kotter 8-Step, Prosci-Aligned, OKR, Agile", size=Pt(9))
 
 # Save
 os.makedirs(f"{ONEDRIVE}/2026-07-14/Seaspan", exist_ok=True)
