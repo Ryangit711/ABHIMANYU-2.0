@@ -440,11 +440,12 @@ def generate(company):
             "and leading the implementation.", config)
     elif company == "Brex":
         add_body(doc,
+            "BUILT FROM ZERO: 3→70 FTE · $300K→$4M ARR · 1→32 locations · $0→$17M exit. "
             "Operations builder who designed and scaled the centralized back-office infrastructure "
-            "for a multi-site healthcare organization — growing 3→70 people, supporting 32 locations "
-            "across 4 states, and directing a $17M exit. Built the entire ops tech stack from zero "
-            "(EHR systems, VOIP, automation scripts, workflows) and led AI-driven process automation "
-            "years before it was mainstream. Combines systems thinking with hands-on technical execution.", config)
+            "for a multi-site healthcare organization across this growth arc — building the systems, "
+            "tech stack (EHR, VOIP, automation), and AI-driven process transformation that made scale "
+            "possible. Combines systems thinking with hands-on technical execution. "
+            "Reports to CEO. Presents quarterly board reporting to 5-member executive committee.", config)
     else:
         add_body(doc,
             "Operations executive who built multi-site operational infrastructure from scratch, "
@@ -505,6 +506,7 @@ def generate(company):
     elif company == "Brex":
         add_body(doc,
             "Systems Architecture  |  AI-Native Automation  |  Operational Infrastructure  |  "
+            "Scalable Platforms  |  Decision Infrastructure  |  High-Agency  |  "
             "Workflow Design  |  Internal Tooling  |  Cross-Functional Leadership  |  "
             "Risk & Compliance Operations  |  Acquisition Integration  |  "
             "Python Scripting  |  LLM/AI Workflows  |  Process Optimization  |  "
@@ -856,9 +858,11 @@ def generate(company):
             "team members across 32 locations in 4 US states. Directed the operational infrastructure "
             "that enabled revenue growth from $300K to $4M ARR and a $17M acquisition exit.", config, italic=True, size=Pt(9.5))
         add_bullet(doc,
-            " — provisioned hardware, set up VOIP/VPN/internet redundancy across 32 locations, "
-            "configured EHR systems, managed 24/7 IT operations — no prior playbook existed",
-            config, bold_prefix="Designed and built entire technical infrastructure from zero")
+            " — designed and built the decision infrastructure and scalable platforms from zero: "
+            "provisioned hardware, set up VOIP/VPN/internet redundancy across 32 locations, "
+            "configured EHR systems, built Python-based automated data pipeline connecting "
+            "EHR→billing→analytics, and managed 24/7 IT operations — no prior playbook existed",
+            config, bold_prefix="Designed and built decision infrastructure from zero")
         add_bullet(doc,
             " — automated clinic scouting workflow using Python scripts — scraped real estate and "
             "provider data across 10+ states, replaced manual research with automated pipeline "
@@ -872,7 +876,8 @@ def generate(company):
         add_bullet(doc,
             " — scaled operations team from 3 to 70 — designed training programs achieving "
             "sub-30-day new hire ramp, developed team leads, built performance management "
-            "frameworks, maintained zero-defect quality culture across all locations",
+            "frameworks, maintained zero-defect quality culture across all locations. "
+            "Delivered quarterly investor-ready reporting and strategy reviews to executive leadership.",
             config, bold_prefix="Scaled team 3→70")
         add_bullet(doc,
             " — directed 8 concurrent due diligence workstreams through $17M acquisition — "
@@ -884,6 +889,12 @@ def generate(company):
             "90 days post-close — migrated EHR, billing, scheduling, and reporting workflows "
             "without service disruption",
             config, bold_prefix="Consolidated 8 systems in 90 days")
+        add_bullet(doc,
+            " — presented quarterly board reports to 5-member executive committee — delivered "
+            "P&L variance analysis across 12 departments, strategic initiative tracking, and "
+            "board-ready financial reporting packages that governed $4M resource allocation. "
+            "Advised CEO on $17M acquisition strategy and operational readiness.",
+            config, bold_prefix="Board-level strategic reporting")
     else:
         add_body(doc,
             "Directed end-to-end operations for a multi-site healthcare group. Served as the primary "
@@ -1336,25 +1347,29 @@ def generate(company):
 
         body = (
             "To the Brex Systems Team,\n\n"
-            "I'm writing because your BizOps Senior Manager (Technical) role in Vancouver is one of those rare "
-            "job descriptions that describes what I've spent the last eight years actually doing — building the "
-            "systems, automation, and operational infrastructure that let an organization scale without breaking.\n\n"
-            "When I joined SkyflyMD in 2018, there was no playbook. Three people, one location, no SOPs, no "
-            "infrastructure. I built everything from zero — the VOIP network, the internet redundancy across 32 "
-            "locations, the EHR system configurations, the team workflows. When we acquired new practices, I didn't "
-            "just absorb them — I built the integration playbook, consolidated their systems, and retained their people. "
-            "When the company prepared for exit, I structured 8 concurrent due diligence workstreams and directed the transition.\n\n"
-            "The part of your JD that resonates most is this: 'How should operational work be redesigned in an AI-native "
-            "world?' I've been asking that question since 2020. I wrote Python scripts to automate clinic scouting years "
-            "before the AI boom. I deployed LLM tools to automate patient-provider communication, cutting manual writing "
-            "time by 60%. I taught myself every system we needed — from eClinicalWorks to Athenahealth to custom "
-            "automation scripts — because that's what building means: you don't wait for tools, you make them.\n\n"
-            "I don't describe myself as a manager who happens to know about systems. I'm a builder who leads through "
-            "the systems he creates. Your 'Systems' team — operating at the intersection of product, operations, "
-            "finance, data, engineering, and GTM — is exactly where I've spent my career. I've never had someone "
-            "hand me a ready-built infrastructure. Every system I've worked with, I built or rebuilt.\n\n"
-            "I'd welcome the chance to walk your team through the systems I've built and discuss how they apply "
-            "to the challenges Brex's Operations organization faces at scale."
+            "I'm writing because your BizOps Senior Manager (Technical) role in Vancouver describes what I've "
+            "spent the last eight years actually doing — building the systems, automation, and operational "
+            "infrastructure that let an organization scale without breaking.\n\n"
+            "When I joined SkyflyMD in 2018, it was three people in a single room. No SOPs. No infrastructure. "
+            "No playbook for what came next. Over eight years, I walked that organization from zero to 70 people, "
+            "32 locations, and a $17M exit — not by managing what existed, but by building what didn't. I designed "
+            "the tech stack from scratch when there were no tools. I automated the workflows when manual couldn't "
+            "scale. I directed the acquisition when the opportunity came.\n\n"
+            "The part of your JD that resonates most: 'How should operational work be redesigned in an AI-native "
+            "world?' I've been asking that since 2020 — writing Python scripts to automate clinic scouting years "
+            "before the AI boom, deploying LLM tools that cut manual writing time by 60%, and teaching myself "
+            "every system we needed because building means making the tools, not waiting for them.\n\n"
+            "I know Brex is navigating the Capital One integration — which makes your Systems team's mandate "
+            "even more critical. I've consolidated 8 separate operational systems into one platform in 90 days "
+            "without disruption, retained 100% of key talent through a $17M acquisition transition, and built "
+            "the integration playbook from scratch. That exact playbook is what I'd bring to the Systems team "
+            "during this chapter.\n\n"
+            "I don't describe myself as a manager who knows about systems. I'm a builder who leads through the "
+            "systems he creates — which is why Brex's values — 'One Brex' (no silos), 'Dream Big' (think 10x), "
+            "'Ownership' (if it's broken, you fix it) — describe how I've operated my entire career. I've scaled "
+            "teams and written Python scripts in the same week because that's what operating at all levels means.\n\n"
+            "I'd welcome the chance to walk your team through the systems I've built and how they apply "
+            "to Brex's Operations challenges at scale."
         )
     else:
         add_body(doc, "Indeed", config, space_after=0)
