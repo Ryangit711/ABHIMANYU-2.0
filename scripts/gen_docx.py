@@ -378,139 +378,121 @@ def generate(company):
     add_section_header(doc, "Professional Summary", config)
     if company == "Methanex":
         add_body(doc,
-            "Strategy and operations executive who built the strategic infrastructure for a multi-site "
-            "organization from zero, scaling it from 3 to 70 employees across 32 locations and directing "
-            "a $17M acquisition. Combines board-level strategic thinking with hands-on financial modelling, "
-            "M&A execution, and cross-functional leadership. Equally comfortable leading an ELT strategy "
-            "session, building a valuation model, or aligning diverse teams around a shared plan.", config)
+            "Strategy + operations executive. Scaled 3→70, 32 locations, $4M ARR, $17M exit. "
+            "Built strategic planning, financial models (multi-scenario P&L, valuation, capital allocation), "
+            "and board-level reporting from zero. Boardroom-fluent. Builder-grounded.", config)
     elif company == "Hiive":
         add_body(doc,
-            "Operations strategist and systems builder who designed and implemented the complete operational "
-            "infrastructure for a startup that grew 23x — from 3 to 70 employees across 32 locations — "
-            "and directed its $17M exit. Combines a builder's instinct for scalable systems with an operator's "
-            "discipline for data integrity, revenue lifecycle optimization, and cross-functional execution.", config)
+            "Operations strategist + systems builder. Scaled 3→70, 32 locations, $4M ARR, $17M exit. "
+            "Designed operational infrastructure, automated revenue lifecycle, and built data systems "
+            "from zero. Eliminated bottlenecks. Never added complexity.", config)
     elif company == "Providence_Healthcare":
         add_body(doc,
-            "Healthcare operations leader with 8 years of progressive experience directing multi-site clinical "
-            "and operational infrastructure across 32 locations and 12 departments. Scaled a healthcare startup "
-            "from 3 to 70 employees and $4M ARR, managed full P&L ownership, led quality improvement initiatives, "
-            "and directed a $17M acquisition end-to-end. Combines strategic thinking with hands-on operational "
-            "execution in complex, multi-stakeholder healthcare environments.", config)
+            "Healthcare operations leader. Scaled 3→70, 32 locations, $4M ARR, $17M exit. "
+            "Directed multi-site clinical ops, interdisciplinary teams, and P&L across 12 departments. "
+            "Geriatrics-specialized. Quality improvement. $4M budget ownership.", config)
     elif company == "DoorDash_Canada":
         add_body(doc,
-            "Operations executive with 8 years scaling a business from 3 to 70 people, 32 locations, and $4M ARR. "
-            "Led the complete technology transformation, owned end-to-end P&L, and delivered a $17M exit. "
-            "Built marketplace-style incentive systems balancing worker earnings with cost efficiency — directly transferable to Dasher pay strategy. "
-            "Also led cross‑functional teams across 12 departments, delivering board‑level insights and strategic alignment.", config)
+            "Operations executive. Scaled 3→70, 32 locations, $4M ARR, $17M exit. "
+            "Designed marketplace incentive architecture across 32 markets — balancing worker earnings "
+            "with cost efficiency. Led technology transformation. Full P&L ownership.", config)
     elif company == "Practice_Better":
         add_body(doc,
-            "Revenue operations executive who architected the complete RevOps infrastructure for a multi-site healthcare "
-            "SaaS business from zero to $4M ARR across 32 locations, then directed through a $17M exit. "
-            "Combines a builder's instinct for scalable systems with an operator's discipline for SaaS metrics (MRR, ARR, churn, CAC, LTV), "
-            "pipeline integrity, and cross-functional GTM execution. Proven ability to own the revenue operations function end-to-end "
-            "for a scaling healthcare SaaS company.", config)
+            "Revenue operations architect. Scaled 3→70, 32 locations, $4M ARR, $17M exit. "
+            "Built complete RevOps stack from zero — EHR, billing, RCM, analytics, forecasting. "
+            "SaaS metrics (MRR, ARR, churn, CAC, LTV). End-to-end pipeline ownership.", config)
     elif company == "BWZ":
         add_body(doc,
-            "Operations executive who built a multi-site organization from 3 to 70 people, 32 locations, and $4M ARR — "
-            "then directed a $17M exit. Specializes in zero-to-one initiative build, cross-functional program discipline, "
-            "and business case development for scale-stage companies. Combines a builder's hands-on execution with "
-            "a strategist's ability to pressure-test ideas and turn ambiguity into actionable plans. "
-            "MBA preferred, founder DNA, AI-native operator.", config)
+            "Zero-to-one operator. Scaled 3→70, 32 locations, $4M ARR, $17M exit. "
+            "Built initiatives from idea through business case to market launch. "
+            "Program discipline without bureaucracy. AI-augmented. Founder DNA.", config)
     elif company == "KPMG":
         add_body(doc,
-            "Operations and program delivery executive who built a multi-site organization from 3 to 70 people, "
-            "32 locations, and $4M ARR — then directed a $17M acquisition end-to-end. Combines hands-on program "
-            "delivery (P&L ownership, governance, cross-functional leadership) with the strategic framing of a "
-            "consultant (board-level reporting, business case development, digital transformation advisory). "
-            "MBA + BSc IT. Builder who can also advise.", config)
+            "Operations + program delivery executive. Scaled 3→70, 32 locations, $4M ARR, $17M exit. "
+            "Builder's execution + consultant's strategic framing. Program governance, digital "
+            "transformation, P&L ownership. MBA. Builds, then advises.", config)
     elif company == "Indeed":
         add_body(doc,
-            "Senior technical program management leader with 8+ years building and scaling a multi-site enterprise "
-            "from 3 to 70 people, 32 locations, and $4M ARR — culminating in a $17M exit. Expertise in defining "
-            "operational readiness frameworks, leading cross-functional technology transformations, managing complex "
-            "programs across distributed teams, and translating strategic priorities into measurable outcomes. "
-            "MBA-trained with deep P&L ownership and executive-level communication.", config)
+            "Operations + integration leader. Scaled 3→70, 32 locations, $4M ARR, $17M exit. "
+            "Led M&A integration, cross-functional programs, and technology transformations. "
+            "Built integration playbooks from scratch. P&L owner. Executive communicator.", config)
     elif company == "Accenture":
         add_body(doc,
-            "Strategy and operations executive who built the centralized operations backbone for a multi-site "
-            "healthcare organization — scaling from 3 to 70 employees across 32 locations, integrating 5+ "
-            "acquisitions, and delivering a $17M exit. Combines a builder's execution credibility with a "
-            "consultant's structured thinking: MBA-trained, board-level communicator, and hands-on operator "
-            "who has led every phase of organizational transformation. Equally effective designing the strategy "
-            "and leading the implementation.", config)
+            "Strategy + operations executive. Scaled 3→70 across 32 locations in 4 US states, "
+            "$4M ARR, $17M exit. Built centralized operations backbone — tech, team, process — "
+            "from zero. P&L owner through hypergrowth. Board-level communicator.", config)
     elif company == "Brex":
         add_body(doc,
             "BUILT FROM ZERO: 3→70 FTE · $300K→$4M ARR · 1→32 locations · $17M exit. "
-            "Operations builder who designed the centralized back-office infrastructure across this "
-            "arc — building every system (EHR, VOIP, automation, Python pipelines), leading AI-driven "
-            "transformation, and directing the acquisition. Board-communicator. Hands-on builder.", config)
+            "Operations builder — designed every system (EHR, VOIP, automation, Python pipelines), "
+            "led AI-driven transformation, directed the acquisition. Board-communicator. Hands-on builder.", config)
+    elif company == "Microsoft":
+        add_body(doc,
+            "Technical program management leader. Scaled 3→70, 32 locations, $4M ARR, $17M exit. "
+            "Defined operational readiness frameworks, led technology transformations, managed $4M P&L. "
+            "Executive communication. AI adoption at scale.", config)
     else:
         add_body(doc,
-            "Operations executive who built multi-site operational infrastructure from scratch, "
-            "scaling from 3 to 70 employees across 32 locations, then directed a $17M acquisition. "
-            "Combines strategic thinking with execution.", config)
+            "Operations executive. Scaled 3→70, 32 locations, $4M ARR, $17M exit. "
+            "Built multi-site infrastructure from scratch. Strategic + execution.", config)
 
     add_section_header(doc, "Core Competencies", config)
     if company == "Methanex":
         add_body(doc,
-            "Corporate Strategy & Planning  |  Financial Modelling & Valuation  |  M&A Execution & Integration  |  "
-            "Board & Executive Communication  |  Cross-Functional Leadership  |  OKR & Performance Systems  |  "
-            "Capital Allocation  |  Strategic Growth Initiatives", config, size=Pt(9.5))
+            "Corporate Strategy · Financial Modelling & Valuation · M&A Execution & Integration · "
+            "Board & Executive Communication · Capital Allocation · OKR & Performance Systems · "
+            "Cross-Functional Leadership · Strategic Growth Initiatives", config, size=Pt(9.5))
     elif company == "Hiive":
         add_body(doc,
-            "Revenue Operations  |  Operational Infrastructure Design  |  Systems Architecture & Automation  |  "
-            "Bottleneck Analysis  |  Workflow Optimization  |  Data Integrity & Reporting  |  "
-            "Cross-Functional Execution  |  M&A & Strategic Projects", config, size=Pt(9.5))
+            "Revenue Operations · Systems Architecture & Automation · "
+            "Bottleneck Analysis · Workflow Optimization · "
+            "Data Integrity & Reporting · Cross-Functional Execution · "
+            "M&A & Strategic Projects · Operational Infrastructure Design", config, size=Pt(9.5))
     elif company == "Providence_Healthcare":
         add_body(doc,
-            "Multi-Site Healthcare Operations  |  Clinical Operations Leadership  |  Quality Improvement  |  "
-            "Financial Management & Budgeting  |  Interdisciplinary Team Leadership  |  "
-            "Change Management & Transformation  |  Regulatory Compliance  |  Strategic Planning & OKRs", config, size=Pt(9.5))
+            "Multi-Site Healthcare Ops · Clinical Operations Leadership · Quality Improvement · "
+            "Financial Management & Budgeting ($4M) · Interdisciplinary Team Leadership · "
+            "Change Management · Regulatory Compliance · Geriatrics & Senior Care", config, size=Pt(9.5))
     elif company == "DoorDash_Canada":
         add_body(doc,
-            "Marketplace Operations  |  Pay & Incentive Design  |  P&L Management  |  "
-            "Cross-Functional Leadership  |  Behavioral Economics  |  Data-Driven Strategy  |  "
-            "0-to-1 Scaling  |  Operational Excellence", config, size=Pt(9.5))
+            "Marketplace Operations · Pay & Incentive Design · P&L Management · "
+            "Cross-Functional Leadership · Behavioral Economics · Data-Driven Strategy · "
+            "0-to-1 Scaling · Operational Excellence", config, size=Pt(9.5))
     elif company == "Practice_Better":
         add_body(doc,
-            "Revenue Operations  |  SaaS Metrics (MRR, ARR, Churn, CAC, LTV)  |  P&L Management  |  "
-            "Revenue Cycle Management  |  GTM Alignment  |  Pipeline Management  |  Forecasting & Budgeting  |  "
-            "Process Optimization  |  Workflow Automation  |  EHR / Practice Management Platforms  |  "
-            "KPI Dashboard Design  |  SaaS Scaling Infrastructure  |  Team Building (3$\\rightarrow$70 FTEs)", config, size=Pt(9.5))
+            "Revenue Operations · SaaS Metrics (MRR/ARR/Churn/CAC/LTV) · P&L Management · "
+            "Revenue Cycle Management · GTM Alignment · Pipeline & Forecasting · "
+            "Workflow Automation · KPI Dashboard Design", config, size=Pt(9.5))
     elif company == "BWZ":
         add_body(doc,
-            "Zero-to-One Initiative Build  |  Program & Project Discipline  |  Business Case Development  |  "
-            "Cross-Functional Leadership  |  Business Modeling (Revenue, Cost, Margin)  |  P&L Management  |  "
-            "AI-Augmented Workflows  |  Data Analytics & Dashboarding  |  Strategic Planning & OKRs  |  "
-            "Operational Infrastructure Design", config, size=Pt(9.5))
+            "Zero-to-One Initiative Build · Program & Project Discipline · Business Case Development · "
+            "Cross-Functional Leadership · Financial Modeling (Revenue/Cost/Margin) · P&L Management · "
+            "AI-Augmented Workflows · Operational Infrastructure Design", config, size=Pt(9.5))
     elif company == "KPMG":
         add_body(doc,
-            "Program Delivery & Governance  |  Digital Transformation  |  P&L Management  |  "
-            "Cross-Functional Leadership  |  Strategic Planning & OKRs  |  M&A & Integration  |  "
-            "Client Relationship Management  |  Business Case Development  |  Risk Management  |  "
-            "Board-Level Reporting & Stakeholder Engagement", config, size=Pt(9.5))
+            "Program Delivery & Governance · Digital Transformation · P&L Management · "
+            "Cross-Functional Leadership · Strategic Planning & OKRs · M&A & Integration · "
+            "Risk Management · Board-Level Reporting & Stakeholder Engagement", config, size=Pt(9.5))
     elif company == "Microsoft":
         add_body(doc,
-            "Technical Program Management  |  Cross-Functional Leadership  |  Operational Readiness Frameworks  |  "
-            "Strategic Planning & Execution  |  Technology Transformation  |  P&L Management  |  "
-            "Governance & Compliance  |  Executive Communication  |  M&A Integration  |  "
-            "KPI & Metrics Design  |  AI-Augmented Workflows  |  Stakeholder Management", config, size=Pt(9.5))
+            "Technical Program Management · Operational Readiness Frameworks · "
+            "Cross-Functional Leadership · Technology Transformation · P&L Management · "
+            "Executive Communication · M&A Integration · AI-Augmented Workflows", config, size=Pt(9.5))
     elif company == "Accenture":
         add_body(doc,
-            "Strategic Transformation  |  Cross-Functional Leadership  |  Technology Enablement  |  "
-            "Operational Resilience  |  Value Creation  |  M&A & Integration  |  "
-            "P&L Management  |  Board-Level Communication  |  Business Case Development  |  "
-            "Program Governance  |  Change Management  |  Performance Improvement", config, size=Pt(9.5))
+            "Strategic Transformation · Technology Enablement · Operational Resilience · "
+            "Cross-Functional Leadership · M&A & Integration · P&L Management · "
+            "Board-Level Communication · Business Case Development", config, size=Pt(9.5))
     elif company == "Brex":
         add_body(doc,
-            "Systems Architecture  |  AI-Native Automation  |  Decision Infrastructure  |  "
-            "Scalable Platforms  |  High-Agency  |  Workflow Design  |  Internal Tooling  |  "
-            "Cross-Functional Leadership  |  Risk & Compliance  |  Acquisition Integration  |  "
-            "Python  |  LLM/AI  |  Team Scaling (3→70)", config, size=Pt(9))
+            "Systems Architecture · AI-Native Automation · Decision Infrastructure · "
+            "Scalable Platforms · Workflow Design · Internal Tooling · "
+            "Cross-Functional Leadership · Acquisition Integration", config, size=Pt(9.5))
     elif company == "Indeed":
         add_body(doc,
-            "M&A Integration  |  Cross-Functional Program Management  |  Operational Infrastructure  |  "
-            "Strategic Planning & OKRs  |  P&L Management  |  Board Reporting  |  Multi-Site Operations", config, size=Pt(9.5))
+            "M&A Integration · Cross-Functional Program Management · Operational Infrastructure · "
+            "Strategic Planning & OKRs · P&L Management · Board Reporting · Multi-Site Operations",
+            config, size=Pt(9.5))
     add_section_header(doc, "Professional Experience", config)
 
     # SkyflyMD
@@ -527,36 +509,39 @@ def generate(company):
 
     if company == "Methanex":
         add_body(doc,
-            "Led strategy and operations for a multi-site healthcare group. Built the strategic planning "
-            "process, financial infrastructure, and operational systems from zero.", config, italic=True, size=Pt(9.5))
+            "Built strategic planning, financial infrastructure, and operational systems from zero — "
+            "from 3 people and no playbook to 70 FTEs, 32 locations, and a $17M exit.", config, italic=True, size=Pt(9.5))
         add_bullet(doc,
-            " — built company-wide strategic planning framework across 5 annual cycles: board-level strategy "
-            "sessions, departmental OKR cascades, quarterly performance reviews with executive leadership",
+            " — built company-wide strategic planning: board-level strategy sessions, OKR cascades, "
+            "quarterly reviews aligned across 5 clinic groups, 12 departments, 32 locations",
             config, bold_prefix="Strategic Planning & Execution")
         add_bullet(doc,
             " — multi-scenario P&L models, capital allocation frameworks, departmental budgets across "
-            "12 departments, board-ready reporting templates",
-            config, bold_prefix="Financial Modelling")
+            "12 departments — governed $4M in annual resource allocation",
+            config, bold_prefix="Financial Modelling & Capital Allocation")
         add_bullet(doc,
-            " — directed end-to-end $17M acquisition: 8 due diligence workstreams, Day 1 readiness, "
-            "100% key talent retention, 90-day systems consolidation",
-            config, bold_prefix="M&A & Integration")
+            " — directed end-to-end $17M acquisition: 8 diligence workstreams, Day 1 readiness, "
+            "90-day systems consolidation, 100% key talent retention",
+            config, bold_prefix="M&A Execution & Integration")
         add_bullet(doc,
-            " — organizational infrastructure for 70 employees across 5 clinic groups, 32 locations — "
-            "hiring frameworks, training, quality standards, cross-border coordination",
-            config, bold_prefix="Organizational Leadership")
+            " — built organizational infrastructure: hiring frameworks, training programs, quality "
+            "standards, cross-border coordination for 70 FTEs across 5 clinic groups",
+            config, bold_prefix="Organizational Leadership & Team Scaling")
+        add_bullet(doc,
+            " — presented board-ready financial reporting and strategic updates to executive leadership "
+            "and investors — governed $4M annual budget with monthly variance tracking",
+            config, bold_prefix="Board-Level Reporting & Governance")
     elif company == "Hiive":
         add_body(doc,
-            "Built the complete operational infrastructure for a multi-site healthcare startup from zero. "
-            "Served as the primary systems architect, process designer, and cross-functional integrator "
-            "across all revenue-generating and operational functions.", config, italic=True, size=Pt(9.5))
+            "Designed operational infrastructure from zero — systems, processes, data pipelines — "
+            "enabling 23x growth without adding complexity.", config, italic=True, size=Pt(9.5))
         add_bullet(doc,
-            " — from zero: designed and implemented the entire operational tech stack (EHR, billing, scheduling, "
-            "RCM, analytics) that scaled from 3 to 70 employees across 32 locations without adding complexity",
+            " — designed and implemented the entire operational tech stack (EHR, billing, scheduling, "
+            "RCM, analytics) that scaled from 3→70 across 32 locations without adding complexity",
             config, bold_prefix="Systems Architecture & Automation")
         add_bullet(doc,
-            " — identified and eliminated bottlenecks in the revenue lifecycle — automated billing workflows, "
-            "replaced manual reconciliation with real-time RCM, reduced admin overhead by 40%+",
+            " — eliminated revenue lifecycle bottlenecks: automated billing workflows, replaced manual "
+            "reconciliation with real-time RCM, cut admin overhead by 40%+",
             config, bold_prefix="Revenue Operations & Optimization")
         add_bullet(doc,
             " — built KPI dashboards, board-level reporting, and data integrity systems from scratch — "
@@ -564,290 +549,249 @@ def generate(company):
             config, bold_prefix="Data Infrastructure & Reporting")
         add_bullet(doc,
             " — directed full-cycle $17M acquisition: 8 diligence workstreams, integration playbook, "
-            "consolidated 8 systems within 90 days, retained 100% of key talent",
-            config, bold_prefix="M&A & Strategic Projects")
+            "consolidated 8 systems within 90 days, 100% key talent retention",
+            config, bold_prefix="M&A & Strategic Execution")
     elif company == "Providence_Healthcare":
         add_body(doc,
-            "Directed clinical and operational leadership for a multi-site healthcare organization across 32 locations. "
-            "Served as the primary operational leader coordinating interdisciplinary teams, managing resources, "
-            "and driving quality improvement across 12 departments and 5 clinic groups.", config, italic=True, size=Pt(9.5))
+            "Directed clinical + operational leadership across 32 locations, 12 departments, "
+            "and 5 clinic groups. Full P&L ownership. Geriatrics-specialized.", config, italic=True, size=Pt(9.5))
         add_bullet(doc,
-            " — led clinical and operational leadership across 32 multi-site locations, coordinating interdisciplinary "
-            "teams to deliver integrated, patient-centered care across 5 clinic groups and 12 departments",
+            " — coordinated interdisciplinary teams across 5 clinic groups delivering patient-centered "
+            "geriatric care — multi-facility coordination including senior care homes",
             config, bold_prefix="Multi-Site Healthcare Operations")
         add_bullet(doc,
-            " — managed full P&L ownership for $4M revenue healthcare organization — budget planning, variance analysis, "
-            "resource allocation, capital expenditure planning across 32 locations",
+            " — managed full P&L ownership for $4M healthcare org — budget planning, variance analysis, "
+            "resource allocation, capital expenditure across 32 locations",
             config, bold_prefix="Financial Management & Resource Allocation")
         add_bullet(doc,
-            " — drove quality improvement initiatives reducing administrative overhead by 40%+ through workflow "
-            "automation, standardized processes, and data-driven performance management",
+            " — drove quality improvement: automated workflows, standardized processes, data-driven "
+            "performance management — reduced administrative overhead by 40%+",
             config, bold_prefix="Quality Improvement & Process Optimization")
         add_bullet(doc,
-            " — directed end-to-end $17M acquisition: 8 diligence workstreams, Day 1 readiness, 90-day systems "
-            "consolidation across 32 locations, 100% key talent retention",
+            " — directed end-to-end $17M acquisition: 8 diligence workstreams, Day 1 readiness, "
+            "90-day systems consolidation, 100% key talent retention across 32 locations",
             config, bold_prefix="Change Management & Transformation")
         add_bullet(doc,
-            " — managed full operational infrastructure for a geriatrics-specialized multi-site practice — scheduling, "
-            "billing (ICD coding, insurance claims), multi-facility coordination across 5+ clinic locations and "
-            "multiple senior care homes serving aging populations",
-            config, bold_prefix="Geriatric Practice & Senior Care Operations")
+            " — managed geriatric practice operations: scheduling, billing (ICD coding, insurance claims), "
+            "multi-site coordination across 5+ clinics and multiple senior care homes",
+            config, bold_prefix="Geriatric & Senior Care Operations")
     elif company == "DoorDash_Canada":
         add_body(doc,
-            "Built the business from zero — 3 to 70 people, 32 locations, $4M ARR. Owned end-to-end "
-            "P&L, designed the incentive architecture, led the technology transformation, and delivered "
-            "a $17M exit.", config, italic=True, size=Pt(9.5))
+            "Built from zero: 3→70 people, 32 locations, $4M ARR, $17M exit. "
+            "Owned P&L, designed incentive architecture, led technology transformation.", config, italic=True, size=Pt(9.5))
         add_bullet(doc,
-            " — scaled 3 to 70 people, 32 locations — built infrastructure, processes, and hiring "
-            "frameworks that supported 23x growth without adding complexity",
+            " — scaled 3→70 with infrastructure that supported 23x growth without adding complexity — "
+            "hiring frameworks, training, cross-functional processes",
             config, bold_prefix="Operational Scaling & Infrastructure")
         add_bullet(doc,
-            " — designed incentive compensation across 32 markets — tuned per location for labour "
-            "cost, competitive pressure, and worker expectations while maintaining budget discipline",
-            config, bold_prefix="Pay & Incentive Design")
+            " — designed incentive compensation across 32 markets — tuned per location for labour cost, "
+            "competitive pressure, and worker expectations while maintaining budget discipline",
+            config, bold_prefix="Pay & Incentive Design (Marketplace)")
         add_bullet(doc,
-            " — directed full-cycle acquisition: 8 diligence workstreams, Day 1 readiness, 90-day "
-            "systems consolidation, 100% key talent retention",
+            " — directed full-cycle $17M acquisition: 8 diligence workstreams, Day 1 readiness, "
+            "90-day systems consolidation, 100% key talent retention",
             config, bold_prefix="M&A & Exit Execution")
         add_bullet(doc,
             " — managed $3M+ annual budget, multi-scenario forecasting, variance analysis, capital "
             "allocation across 12 departments — presented board-ready reporting to investors",
             config, bold_prefix="P&L Management & Financial Operations")
         add_bullet(doc,
-            " — led transformation from paper to fully integrated digital platform — EHR, billing, "
-            "scheduling, analytics — selected, deployed, and owned every system",
+            " — led transformation from paper to integrated digital platform: EHR, billing, scheduling, "
+            "analytics — selected, deployed, and owned every system",
             config, bold_prefix="Technology Transformation")
         add_bullet(doc,
-            " — implemented KPI dashboards across 32 locations, improving operational visibility and reducing reporting lag by 30%",
-            config, bold_prefix="KPI Dashboards")
-        add_bullet(doc,
-            " — negotiated vendor contracts and technology procurement, achieving 12% cost savings while maintaining service quality",
-            config, bold_prefix="Vendor Management & Cost Savings")
+            " — implemented KPI dashboards across 32 locations, reducing reporting lag by 30%. "
+            "Negotiated vendor contracts achieving 12% cost savings.",
+            config, bold_prefix="KPI Dashboards & Vendor Management")
     elif company == "UBC":
         add_body(doc,
-            "Directed end-to-end operations for a multi-site healthcare organization. Served as the primary "
-            "strategic and operational leader, building governance frameworks, stakeholder engagement "
-            "processes, and financial infrastructure from zero.", config, italic=True, size=Pt(9.5))
+            "Built strategic governance, stakeholder systems, and financial infrastructure from zero — "
+            "serving as the bridge between executive vision and operational execution.", config, italic=True, size=Pt(9.5))
         add_bullet(doc,
-            " — built company-wide strategic planning framework across 5 annual cycles: board-level strategy "
-            "sessions, departmental OKR cascades, quarterly performance reviews — delivering 100% alignment "
-            "on annual priorities across 5 clinic groups and 12 departments",
+            " — built strategic planning framework across 5 annual cycles: board-level strategy sessions, "
+            "OKR cascades, quarterly reviews — aligning 5 clinic groups, 12 departments, 32 locations",
             config, bold_prefix="Strategic Planning & Governance")
         add_bullet(doc,
-            " — managed full P&L ownership for $4M ARR organization: department-level budgets, variance "
-            "analysis, multi-scenario forecasting, and board-ready financial reporting across 12 departments",
+            " — managed full P&L ownership for $4M ARR organization: department budgets, variance "
+            "analysis, multi-scenario forecasting, board-ready financial reporting",
             config, bold_prefix="Budget & Financial Management")
         add_bullet(doc,
-            " — directed end-to-end $17M acquisition: 8 concurrent due diligence workstreams, Day 1 readiness, "
+            " — directed end-to-end $17M acquisition: 8 diligence workstreams, Day 1 readiness, "
             "90-day systems consolidation across 32 locations, 100% key talent retention",
             config, bold_prefix="Acquisition & Integration Leadership")
         add_bullet(doc,
-            " — built operational governance framework satisfying both internal accountability requirements and "
-            "external regulatory review (HIPAA, state licensing) across 5 jurisdictions",
+            " — built governance framework satisfying HIPAA and state licensing across 5 jurisdictions — "
+            "internal accountability and external regulatory compliance",
             config, bold_prefix="Compliance & Regulatory Governance")
         add_bullet(doc,
             " — stakeholder engagement across 12 departments, 5 clinic groups with competing priorities: "
-            "established monthly check-in cadences, escalation frameworks, and prioritization matrices",
+            "monthly check-in cadences, escalation frameworks, prioritization matrices",
             config, bold_prefix="Stakeholder Engagement & Alignment")
+        add_bullet(doc,
+            " — presented quarterly board-level reporting to executive leadership — P&L variance, "
+            "strategic initiative tracking, resource allocation governing $4M annual budget",
+            config, bold_prefix="Board Reporting & Executive Communication")
     elif company == "Practice_Better":
         add_body(doc,
-            "Architected the complete revenue operations infrastructure for a multi-site healthcare SaaS business "
-            "from zero to \$4M ARR across 32 locations — built the systems, teams, and processes that converted "
-            "pipeline into predictable, scalable revenue.", config, italic=True, size=Pt(9.5))
+            "Architected complete RevOps infrastructure from zero — systems, metrics, pipeline — "
+            "scaling from $0→$4M ARR across 32 locations through a $17M exit.", config, italic=True, size=Pt(9.5))
         add_bullet(doc,
-            " — built end-to-end revenue operations from zero: EHR, billing, scheduling, RCM, and analytics — "
-            "designed and implemented the entire tech stack from scratch — scaled from 3 to 70 employees "
-            "across 32 locations without adding operational complexity",
+            " — built end-to-end RevOps stack from scratch: EHR, billing, scheduling, RCM, analytics — "
+            "scaled 3→70 across 32 locations without adding complexity",
             config, bold_prefix="Revenue Operations Infrastructure")
         add_bullet(doc,
-            " — architected SaaS metrics framework: MRR, ARR, churn, CAC, LTV, and payback period — "
-            "built KPI dashboards replacing manual spreadsheets — reduced reporting lag by 30%, "
-            "enabled real-time data-driven decisions across all 32 locations",
+            " — architected SaaS metrics framework: MRR, ARR, churn, CAC, LTV — built KPI dashboards "
+            "replacing manual spreadsheets, reduced reporting lag by 30%",
             config, bold_prefix="SaaS Metrics & Data Infrastructure")
         add_bullet(doc,
-            " — identified and eliminated revenue lifecycle bottlenecks: automated billing workflows, "
-            "replaced manual reconciliation with real-time RCM, reduced administrative overhead by 40%+",
+            " — eliminated revenue lifecycle bottlenecks: automated billing workflows, replaced manual "
+            "reconciliation with real-time RCM, cut admin overhead by 40%+",
             config, bold_prefix="Pipeline Management & Optimization")
         add_bullet(doc,
-            " — managed full P&L ownership for \$4M ARR organization: budget planning, variance analysis, "
-            "resource allocation, and multi-scenario forecasting across 12 departments",
+            " — managed full P&L ownership for $4M ARR: budget planning, variance analysis, resource "
+            "allocation, multi-scenario forecasting across 12 departments",
             config, bold_prefix="P&L Ownership & Forecasting")
         add_bullet(doc,
-            " — directed full-cycle \$17M acquisition: 8 due diligence workstreams, integration playbook, "
-            "Day 1/100 milestones, systems consolidation across 8$\\rightarrow$1 unified platform, "
-            "100% key talent retention",
+            " — directed full-cycle $17M acquisition: 8 diligence workstreams, integration playbook, "
+            "Day 1/100 milestones, 8→1 systems consolidation, 100% talent retention",
             config, bold_prefix="M&A Revenue Integration")
         add_bullet(doc,
-            " — coordinated cross-functional GTM alignment: sales, operations, finance, and clinical teams — "
-            "reduced pipeline variance from 40% to under 10% through unified reporting and accountability",
+            " — coordinated GTM alignment across sales, ops, finance, clinical teams — reduced pipeline "
+            "variance from 40% to under 10% through unified reporting",
             config, bold_prefix="GTM Alignment & Cross-Functional Leadership")
     elif company == "BWZ":
         add_body(doc,
-            "Built a multi-site organization from 3 to 70 people, 32 locations, and $4M ARR — then directed "
-            "a $17M exit. Served as the primary operator, systems architect, and cross-functional integrator "
-            "across all revenue-generating and operational functions.", config, italic=True, size=Pt(9.5))
+            "Built from zero to 70 people, 32 locations, $4M ARR — then directed the $17M exit. "
+            "Primary operator, systems architect, cross-functional integrator.", config, italic=True, size=Pt(9.5))
         add_bullet(doc,
-            " — owned end-to-end build of zero-to-one initiatives: took new ventures and expansions from idea "
-            "to launch — costing, lead time, pricing, go-to-market — across 32 locations and 5 clinic groups",
+            " — owned end-to-end zero-to-one initiatives: from idea through costing, pricing, GTM "
+            "to launch — across 32 locations and 5 clinic groups",
             config, bold_prefix="Zero-to-One Initiative Build")
         add_bullet(doc,
-            " — installed project discipline across leadership initiatives: designed governance frameworks that "
-            "ensured business cases were built before shipping, decisions were documented, owners were clear, "
-            "and cross-functional partners followed through — without adding bureaucracy",
+            " — installed project discipline: governance frameworks with clear owners, documented "
+            "decisions, cross-functional follow-through — without adding bureaucracy",
             config, bold_prefix="Program & Project Discipline")
         add_bullet(doc,
-            " — acted as business-case clearinghouse: when department heads had half-baked ideas, pressure-tested "
-            "them and turned them into board-ready proposals with revenue projections, cost structures, "
-            "break-even analysis, and risk assessment that let leadership make fast decisions",
+            " — acted as business-case clearinghouse: pressure-tested half-baked ideas into board-ready "
+            "proposals with revenue projections, cost structures, break-even analysis",
             config, bold_prefix="Business Case Development")
         add_bullet(doc,
-            " — built business models for new initiatives: revenue projections, cost structures, break-even "
-            "and sensitivity analysis for every new product, location, and investment — napkin math to board-ready",
+            " — built financial models for every new initiative: revenue projections, cost structures, "
+            "sensitivity analysis — from napkin math to board-ready",
             config, bold_prefix="Financial Modeling & Analysis")
         add_bullet(doc,
-            " — managed full P&L ownership for $4M ARR organization: budget planning, variance analysis, "
-            "resource allocation, multi-scenario forecasting across 12 departments and 32 locations",
+            " — managed full P&L: budget planning, variance analysis, multi-scenario forecasting "
+            "across 12 departments and 32 locations",
             config, bold_prefix="P&L Management & Forecasting")
         add_bullet(doc,
-            " — led AI-driven workflow transformation: automated billing, scheduling, and reporting processes — "
-            "reduced administrative overhead by 40%+, used AI tools daily to accelerate decision-making",
+            " — led AI-driven automation: transformed billing, scheduling, reporting — cut admin "
+            "overhead by 40%+ using AI tools daily",
             config, bold_prefix="AI-Augmented Operations")
     elif company == "KPMG":
         add_body(doc,
-            "Built a multi-site organization from 3 to 70 people, 32 locations, and $4M ARR — then directed "
-            "a $17M acquisition end-to-end. Served as both the builder who executed and the strategist who "
-            "designed the delivery framework.", config, italic=True, size=Pt(9.5))
+            "Scaled 3→70, 32 locations, $4M ARR, $17M exit. Builder who executed + strategist "
+            "who designed the delivery framework.", config, italic=True, size=Pt(9.5))
         add_bullet(doc,
-            " — directed end-to-end $17M acquisition: 8 concurrent due diligence workstreams across finance, "
-            "legal, operations, and provider contracts — built integration playbook, Day 1/100 milestones, "
-            "consolidated 8 systems into 1 unified platform, 100% key talent retention",
+            " — directed end-to-end $17M acquisition: 8 diligence workstreams across finance, legal, "
+            "ops — built integration playbook, Day 1/100 milestones, 8→1 systems, 100% talent retention",
             config, bold_prefix="Program Delivery & Governance")
         add_bullet(doc,
-            " — led complete digital transformation: designed and implemented EHR, billing, scheduling, RCM, "
-            "and analytics platform across 32 locations — replaced paper-based processes with integrated tech stack",
+            " — led complete digital transformation: designed EHR, billing, scheduling, RCM, analytics "
+            "platform across 32 locations — replaced paper with integrated tech stack",
             config, bold_prefix="Digital Transformation")
         add_bullet(doc,
-            " — managed full P&L ownership for $4M ARR organization: department budgets, variance analysis, "
-            "multi-scenario forecasting, capital allocation across 12 departments — presented board-ready "
-            "financial reporting to executive leadership and investors",
+            " — managed full P&L: department budgets, variance analysis, multi-scenario forecasting, "
+            "capital allocation — board-ready reporting to executive leadership and investors",
             config, bold_prefix="P&L Management & Financial Reporting")
         add_bullet(doc,
-            " — built strategic planning and governance framework from scratch: annual strategy cycles, "
-            "OKR cascades, quarterly reviews, board reporting — across 5 clinic groups, 12 departments, "
-            "32 locations, and 5 jurisdictional regulatory environments",
+            " — built strategic planning and governance framework: annual strategy cycles, OKR cascades, "
+            "quarterly reviews — across 5 clinic groups, 12 departments, 5 regulatory jurisdictions",
             config, bold_prefix="Strategic Planning & Risk Management")
         add_bullet(doc,
-            " — led cross-functional teams across 12 departments, 6 clinical and operational functions — "
-            "managed 70 FTEs through hypergrowth, built hiring frameworks, training programs, and quality standards",
+            " — led cross-functional teams across 12 departments — managed 70 FTEs through hypergrowth, "
+            "built hiring frameworks, training programs, quality standards",
             config, bold_prefix="Cross-Functional Leadership & Team Building")
     elif company == "Microsoft":
         add_body(doc,
-            "Built and scaled a multi-site enterprise from 3 to 70 people, 32 locations, and $4M ARR — "
-            "then directed a $17M exit. Served as the primary operator, systems architect, and program "
-            "manager defining how work got done at scale.", config, italic=True, size=Pt(9.5))
+            "Scaled 3→70, 32 locations, $4M ARR, $17M exit. Primary operator, systems architect, "
+            "and program manager defining how work got done at scale.", config, italic=True, size=Pt(9.5))
         add_bullet(doc,
-            " — defined and scaled operational readiness frameworks, success metrics, and governance processes "
-            "across clinical, financial, compliance, and technology domains — enabling growth from 3 to 70 FTEs "
-            "across 32 geographically distributed locations",
+            " — defined operational readiness frameworks and governance processes across clinical, "
+            "financial, compliance, and technology domains — enabling growth from 3→70 across 32 locations",
             config, bold_prefix="Operational Readiness Frameworks")
         add_bullet(doc,
-            " — led cross-functional technology transformation: designed and implemented EHR, billing, scheduling, "
-            "and RCM platform across 32 locations — managed program dependencies, vendor selection, stakeholder "
-            "alignment, and rollout sequencing",
+            " — led cross-functional technology transformation: designed EHR, billing, scheduling, RCM "
+            "platform — managed vendor selection, stakeholder alignment, rollout sequencing",
             config, bold_prefix="Technology Transformation Programs")
         add_bullet(doc,
-            " — managed $4M ARR P&L, built board-level reporting dashboards, investor communications, and "
-            "executive strategy cadence — translated operational signals into executive insights for a $17M exit",
+            " — managed $4M ARR P&L, built board-level reporting dashboards, investor communications, "
+            "executive strategy cadence — translated operational signals into $17M exit insights",
             config, bold_prefix="Program Metrics & Executive Communication")
         add_bullet(doc,
-            " — led cross-functional integration programs spanning M&A, technology, compliance, and operations — "
-            "aligned priorities across 7+ departments with competing objectives, built governance frameworks "
-            "with clear decision rights",
+            " — led integration programs spanning M&A, technology, compliance, ops — aligned priorities "
+            "across 7+ departments with governance frameworks and clear decision rights",
             config, bold_prefix="Cross-Organizational Program Leadership")
         add_bullet(doc,
-            " — designed customer feedback loops, operational dashboards, and KPI frameworks that directly "
-            "informed product roadmaps, service improvements, and strategic resource allocation decisions",
+            " — designed customer feedback loops, KPI frameworks, and dashboards that informed "
+            "product roadmaps, service improvements, and strategic resource allocation",
             config, bold_prefix="Customer Feedback → Product Strategy")
     elif company == "Accenture":
         add_body(doc,
-            "Built the centralized operations backbone for a multi-site healthcare organization from scratch — "
-            "growing the back-office team from 3 to 70, integrating 5+ acquisitions across 32 locations in "
-            "4 US states, and delivering a $17M exit. Served as the embedded strategy and operations partner "
-            "to executive leadership.", config, italic=True, size=Pt(9.5))
+            "Built centralized operations backbone for a multi-site roll-up from scratch — "
+            "3→70 FTEs, 32 locations, 4 US states, 5+ acquisitions, $17M exit.", config, italic=True, size=Pt(9.5))
         add_bullet(doc,
-            " — directed end-to-end $17M acquisition: led 8 concurrent due diligence workstreams across finance, "
-            "legal, operations, and provider contracts — built integration playbook with Day 1/100 milestones, "
-            "consolidated 8 separate systems into 1 unified platform, retained 100% of key talent across 32 locations",
+            " — directed end-to-end $17M acquisition: 8 diligence workstreams across finance, legal, "
+            "ops, provider contracts — integration playbook with Day 1/100 milestones, 8→1 systems, "
+            "100% talent retention across 32 locations",
             config, bold_prefix="Strategic Transformation & M&A")
         add_bullet(doc,
-            " — designed and implemented complete operational tech stack (EHR, billing, scheduling, RCM, analytics) "
-            "that scaled from 3 to 70 employees without adding complexity — replaced paper-based manual processes "
-            "with integrated digital systems across all 32 locations",
+            " — designed and implemented complete tech stack (EHR, billing, scheduling, RCM, analytics) "
+            "that scaled 3→70 without adding complexity — replaced paper with integrated digital systems",
             config, bold_prefix="Technology Enablement & Systems Architecture")
         add_bullet(doc,
-            " — managed full P&L ownership for $4M ARR organization: built multi-scenario financial models, "
-            "department-level budgets, variance analysis frameworks, and board-ready reporting that gave "
-            "executive leadership real-time visibility into performance across 12 departments and 32 locations",
+            " — managed full P&L: multi-scenario financial models, department budgets, variance analysis, "
+            "board-ready reporting — real-time visibility across 12 departments and 32 locations",
             config, bold_prefix="Value Creation & P&L Management")
         add_bullet(doc,
-            " — built company-wide strategic planning framework from zero: annual strategy cycles cascading through "
-            "quarterly OKRs with board-level reporting — aligned 5 clinic groups, 12 departments, and 32 locations "
-            "around shared priorities across 5 annual cycles",
+            " — built strategic planning from zero: annual strategy cycles, quarterly OKRs, board-level "
+            "reporting — aligned 5 clinic groups, 12 departments, 32 locations across 5 annual cycles",
             config, bold_prefix="Performance Improvement & Strategic Planning")
         add_bullet(doc,
-            " — led cross-functional team of 45-70 FTEs including recruitment, training, performance management, "
-            "and organizational design — built hiring frameworks, quality standards, and operational governance "
-            "that turned a startup into a scalable enterprise",
+            " — led cross-functional team of 45-70 FTEs: recruitment, training, performance management, "
+            "organizational design — turned a startup into a scalable enterprise",
             config, bold_prefix="Cross-Functional Leadership & Organizational Design")
     elif company == "Indeed":
         add_body(doc,
-            "Operations Lead, Multi-Site Integration — managed cross-functional integration across "
-            "5+ clinic groups spanning 32 locations in Arizona and Texas. Served as the primary integration "
-            "lead ensuring Day 1 readiness for every acquisition.", config, italic=True, size=Pt(9.5))
+            "Operations Lead, Multi-Site Integration — managed integration across 5+ clinic groups, "
+            "32 locations in AZ and TX. Ensured Day 1 readiness for every acquisition.", config, italic=True, size=Pt(9.5))
         add_bullet(doc,
-            " — established integration governance rhythms including workstream cadences, milestone tracking, "
-            "and escalation paths across 5+ clinic groups spanning 32 locations — ensured Day 1 readiness "
-            "for every acquisition with zero operational disruption",
+            " — established integration governance: workstream cadences, milestone tracking, escalation "
+            "paths across 5+ clinic groups spanning 32 locations — zero operational disruption on Day 1",
             config, bold_prefix="Multi-Site Integration Governance")
         add_bullet(doc,
-            " — built standardized operational frameworks and integration playbooks from scratch — documented "
-            "every process for repeatable execution, enabling new clinic locations to reach operational "
-            "steady state within 30 days of close",
+            " — built standardized integration playbooks from scratch — documented every process for "
+            "repeatable execution — new locations reached steady state within 30 days of close",
             config, bold_prefix="Integration Playbooks & Frameworks")
         add_bullet(doc,
-            " — led cross-functional team of 45-60 members across scheduling, clinical coordination, patient "
-            "outreach, compliance, and IT — coordinated aligned execution across functions without direct authority",
+            " — led cross-functional team of 45-60 across scheduling, clinical coordination, outreach, "
+            "compliance, IT — aligned execution without direct authority",
             config, bold_prefix="Cross-Functional Team Leadership")
         add_bullet(doc,
-            " — translated diligence insights into actionable integration plans with clear owners and "
-            "dependencies — tracked progress against synergy targets and Day 100 priorities, providing "
-            "structured reporting to executive leadership",
+            " — translated diligence insights into actionable plans with clear owners — tracked progress "
+            "against synergy targets and Day 100 priorities for executive leadership",
             config, bold_prefix="Diligence-to-Integration Translation")
         add_bullet(doc,
-            " — drove $4M+ organic revenue growth through operational systems, team performance, and "
-            "patient re-engagement campaigns — filtered 10,000+ inactive patient records, triaged by "
-            "priority, coordinated multi-channel outreach, tracked to visit conversion",
+            " — drove $4M+ organic growth through operational systems and patient re-engagement — "
+            "filtered 10,000+ inactive records, triaged, tracked multi-channel outreach to visit conversion",
             config, bold_prefix="Revenue Growth & Value Realization")
         add_bullet(doc,
-            " — identified execution risks early during integration phases — developed governance rhythms "
-            "and escalation paths that prevented operational friction from stalling deal momentum, "
-            "maintaining timeline integrity across every acquisition",
-            config, bold_prefix="Execution Risk Management")
-        add_bullet(doc,
-            " — designed and maintained operational frameworks for cross-functional alignment across clinic "
-            "operations, revenue cycle management, IT systems implementation, and patient experience — "
-            "enabling aligned execution across 12 departments",
-            config, bold_prefix="Cross-Functional Operational Frameworks")
-        add_bullet(doc,
-            " — managed technology systems integration across multiple platforms (eClinicalWorks, Athenahealth, "
-            "Curegram, Salesforce) — ensured continuity from diligence through execution, consolidating "
-            "8 separate systems into unified operational platform",
+            " — managed technology integration across eClinicalWorks, Athenahealth, Curegram, Salesforce — "
+            "consolidated 8 separate systems into unified operational platform",
             config, bold_prefix="Technology Integration")
         add_bullet(doc,
-            " — directed operational infrastructure through $17M acquisition — orchestrated transition "
-            "workflows, data migration, compliance alignment, and team restructuring across 32 locations "
-            "to ensure value realization post-close",
-            config, bold_prefix="Full-Cycle Acquisition Leadership")
+            " — identified execution risks early — governance rhythms and escalation paths that prevented "
+            "operational friction from stalling deal momentum across every acquisition",
+            config, bold_prefix="Execution Risk Management")
     elif company == "Brex":
         add_body(doc,
             "Led end-to-end operations scaling from 3→70 across 32 locations in 4 US states. "
@@ -911,76 +855,72 @@ def generate(company):
     if company == "DoorDash_Canada":
         add_body(doc, "MBA, Strategy & Finance  |  BSc, Information Technology  |  Post-Bacc Diploma, KPU", config, size=Pt(9), space_after=0)
     elif company == "Brex":
-        add_body(doc, "MBA, International Business & IT  |  Post-Bacc Diploma, Technical Mgmt & Services — KPU, Surrey, BC  |  BSc, Information Technology", config, size=Pt(9), space_after=0)
+        add_body(doc, "MBA, International Business & IT  |  Post-Bacc Diploma, Technical Mgmt & Services — KPU  |  BSc, Information Technology", config, size=Pt(9), space_after=0)
     else:
-        add_body(doc, "Master of Business Administration (MBA)", config, bold=True, space_after=0)
-        add_body(doc, "Post-Baccalaureate Diploma in Technical Management & Services — KPU, Surrey, BC", config, size=Pt(9), space_after=0)
-        add_body(doc, "Post-Graduate Diploma in Business Management (IT)", config, size=Pt(9), space_after=0)
-        add_body(doc, "Bachelor of Science in Information Technology", config, size=Pt(9), space_after=0)
+        add_body(doc, "Master of Business Administration (MBA)  |  Post-Bacc Diploma, Technical Mgmt & Services — KPU  |  Post-Grad Diploma, Business Mgmt (IT)  |  BSc, Information Technology", config, size=Pt(9), space_after=0)
 
     # Technical Proficiency
     add_section_header(doc, "Technical Proficiency", config)
     if company == "Methanex":
         add_body(doc,
-            "Financial Modelling & Analysis  |  Microsoft Excel (Advanced)  |  Google Workspace  |  "
-            "OKR Frameworks  |  ERP Systems  |  CRM Platforms  |  Jira / Confluence  |  Data Visualization",
+            "Financial Modelling & Analysis  ·  MS Excel (Advanced)  ·  Google Workspace  ·  "
+            "OKR Frameworks  ·  ERP Systems  ·  CRM Platforms  ·  Jira/Confluence  ·  Data Visualization",
             config, size=Pt(9))
     elif company == "Hiive":
         add_body(doc,
-            "Systems Architecture & Automation  |  EHR / Practice Management Platforms  |  "
-            "Google Workspace  |  Data Visualization & KPI Dashboards  |  Financial Modeling  |  "
-            "OKR Frameworks  |  CRM Platforms  |  Jira / Confluence  |  AI-Augmented Workflows",
+            "Systems Architecture & Automation  ·  EHR/Practice Management  ·  "
+            "Google Workspace  ·  KPI Dashboards  ·  Financial Modeling  ·  "
+            "OKR Frameworks  ·  CRM  ·  Jira/Confluence  ·  AI-Augmented Workflows",
             config, size=Pt(9))
     elif company == "Providence_Healthcare":
         add_body(doc,
-            "EHR / Practice Management Platforms  |  Financial Modeling & Budgeting  |  "
-            "Data Visualization & KPI Dashboards  |  Google Workspace  |  OKR Frameworks  |  "
-            "Project Management Tools  |  Regulatory Compliance Systems  |  Quality Improvement Frameworks",
+            "EHR/Practice Management  ·  Financial Modeling & Budgeting  ·  "
+            "KPI Dashboards  ·  Google Workspace  ·  OKR Frameworks  ·  "
+            "Project Management  ·  Regulatory Compliance  ·  Quality Improvement",
             config, size=Pt(9))
     elif company == "DoorDash_Canada":
         add_body(doc,
-            "ERP/Financial Systems  |  SQL  |  Excel/Google Sheets (advanced modeling)  |  "
-            "Data Analysis  |  Project Management Tools",
+            "ERP/Financial Systems  ·  SQL  ·  Excel/Sheets (Advanced)  ·  "
+            "Data Analysis  ·  Project Management",
             config, size=Pt(9))
     elif company == "Practice_Better":
         add_body(doc,
-            "Revenue Operations Platforms  |  EHR / Practice Management (Athenahealth, eClinicalWorks)  |  "
-            "G Suite  |  CRM Platforms  |  KPI Dashboard Design  |  Financial Modeling  |  "
-            "OKR Frameworks  |  Jira / Confluence  |  Data Visualization",
+            "RevOps Platforms  ·  EHR (Athenahealth, eClinicalWorks)  ·  G Suite  ·  CRM  ·  "
+            "KPI Dashboards  ·  Financial Modeling  ·  OKR Frameworks  ·  Jira/Confluence",
             config, size=Pt(9))
     elif company == "BWZ":
         add_body(doc,
-            "Business Modeling (Excel/Sheets)  |  SQL & Data Analytics  |  KPI Dashboard Design  |  "
-            "AI-Augmented Workflows  |  Project Management Tools  |  OKR Frameworks  |  "
-            "ERP / Financial Systems  |  Data Visualization  |  Cross-Functional Collaboration Tools",
+            "Business Modeling (Excel/Sheets)  ·  SQL & Data Analytics  ·  KPI Dashboards  ·  "
+            "AI-Augmented Workflows  ·  Project Management  ·  OKR Frameworks  ·  "
+            "ERP/Financial Systems  ·  Data Visualization",
             config, size=Pt(9))
     elif company == "KPMG":
         add_body(doc,
-            "Program Management & Governance  |  ERP / Financial Systems  |  Digital Transformation Platforms  |  "
-            "Data Visualization & KPI Dashboards  |  Financial Modeling & Analysis  |  "
-            "AI-Augmented Workflows  |  OKR Frameworks  |  Project Management Tools (Jira, Confluence)  |  "
-            "Cross-Functional Leadership Tools", config, size=Pt(9))
+            "Program Management & Governance  ·  ERP/Financial Systems  ·  Digital Transformation  ·  "
+            "KPI Dashboards  ·  Financial Modeling  ·  AI-Augmented Workflows  ·  "
+            "OKR Frameworks  ·  Jira/Confluence",
+            config, size=Pt(9))
     elif company == "Microsoft":
         add_body(doc,
-            "Program Management & Governance Frameworks  |  Operational Readiness & Scale  |  "
-            "Data Visualization & KPI Dashboards  |  AI-Augmented Workflows  |  "
-            "ERP / Financial Systems  |  OKR Frameworks  |  Project Management Tools (Jira, Confluence)  |  "
-            "Cross-Functional Collaboration Platforms  |  Executive Communication Tools", config, size=Pt(9))
+            "Program Management & Governance  ·  Operational Readiness  ·  "
+            "KPI Dashboards  ·  AI-Augmented Workflows  ·  ERP/Financial  ·  "
+            "OKR Frameworks  ·  Jira/Confluence  ·  Executive Communication",
+            config, size=Pt(9))
     elif company == "Accenture":
         add_body(doc,
-            "Strategic Transformation Frameworks  |  Financial Modeling & Analysis  |  "
-            "Data Visualization & KPI Dashboards  |  AI-Augmented Workflows  |  "
-            "ERP / Financial Systems  |  OKR Frameworks  |  Project Management Tools (Jira, Confluence)  |  "
-            "Cross-Functional Collaboration Platforms  |  Executive Communication & Board Reporting", config, size=Pt(9))
+            "Strategic Transformation Frameworks  ·  Financial Modeling  ·  "
+            "KPI Dashboards  ·  AI-Augmented Workflows  ·  ERP/Financial  ·  "
+            "OKR Frameworks  ·  Jira/Confluence  ·  Board Reporting",
+            config, size=Pt(9))
     elif company == "Brex":
         add_body(doc,
             "Python · SQL · LLM/AI (ChatGPT, Claude) · Salesforce · Retool · EHR (eClinicalWorks, Athenahealth) · "
-            "VOIP/VPN · Cloud · Workflow Design · SOP Development · Cross-Functional Program Mgmt",
+            "VOIP/VPN · Cloud · Workflow Design · Cross-Functional Program Mgmt",
             config, size=Pt(9))
     elif company == "Indeed":
         add_body(doc,
-            "Athenahealth  |  eClinicalWorks  |  CRM Platforms  |  Google Workspace  |  "
-            "Financial Modeling  |  OKR Frameworks  |  Jira / Confluence",
+            "Athenahealth  ·  eClinicalWorks  ·  CRM  ·  Google Workspace  ·  "
+            "Financial Modeling  ·  OKR Frameworks  ·  Jira/Confluence",
             config, size=Pt(9))
 
     if company == "Methanex":
@@ -1061,11 +1001,6 @@ def generate(company):
             "I would welcome the opportunity to discuss how my experience building strategic and financial infrastructure "
             "can support Methanex's next phase of global leadership."
         )
-    elif company == "Hiive":
-        add_body(doc, "Hiive", config, space_after=0)
-        add_body(doc, "Vancouver, BC (HQ)", config, space_after=8)
-        add_body(doc, "Re: Associate, Operations Strategy", config, bold=True, space_after=8)
-
     elif company == "Providence_Healthcare":
         add_body(doc, "Providence Health Care", config, space_after=0)
         add_body(doc, "Burnaby, BC", config, space_after=8)
