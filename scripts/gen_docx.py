@@ -28,7 +28,8 @@ _COMPANIES_WITH_CONTENT = {
     "DoorDash_Canada", "UBC", "Practice_Better",
     "BWZ", "KPMG", "Microsoft",     "Indeed",
     "Accenture",
-    "Brex"
+    "Brex",
+    "Seaspan",
 }
 
 
@@ -333,6 +334,7 @@ def get_date(company):
         "Microsoft": "2026-06-25",
         "Accenture": "2026-07-07",
         "Brex": "2026-07-15",
+        "Seaspan": "2026-07-14",
     }
     return DATES.get(company, "2026-06-22")
 
@@ -426,6 +428,12 @@ def generate(company):
             "BUILT FROM ZERO: 3→70 FTE · $300K→$4M ARR · 1→32 locations · $17M exit. "
             "Operations builder — designed every system (EHR, VOIP, automation, Python pipelines), "
             "led AI-driven transformation, directed the acquisition. Board-communicator. Hands-on builder.", config)
+    elif company == "Seaspan":
+        add_body(doc,
+            "Change management practitioner + operations builder. Scaled 3→70, 32 locations, "
+            "$4M ARR, $17M exit. Led organizational change through 5 acquisitions — building "
+            "adoption frameworks, stakeholder systems, and integration playbooks that retained "
+            "100% key talent. PROSCI-aligned. ADKAR-practiced.", config)
     elif company == "Microsoft":
         add_body(doc,
             "Technical program management leader. Scaled 3→70, 32 locations, $4M ARR, $17M exit. "
@@ -493,6 +501,11 @@ def generate(company):
             "M&A Integration · Cross-Functional Program Management · Operational Infrastructure · "
             "Strategic Planning & OKRs · P&L Management · Board Reporting · Multi-Site Operations",
             config, size=Pt(9.5))
+    elif company == "Seaspan":
+        add_body(doc,
+            "Change Management & Adoption · Organizational Transformation · Stakeholder Engagement · "
+            "M&A Integration & Culture · Strategic Planning & OKRs · Cross-Functional Leadership · "
+            "Process Improvement · Operational Infrastructure Design", config, size=Pt(9.5))
     add_section_header(doc, "Professional Experience", config)
 
     # SkyflyMD
@@ -829,6 +842,35 @@ def generate(company):
             "variance across 12 departments, strategic tracking, financial packages governing "
             "$4M allocation. Advised CEO on acquisition strategy.",
             config, bold_prefix="Board-level strategic reporting")
+    elif company == "Seaspan":
+        add_body(doc,
+            "Built organizational infrastructure during 23x hypergrowth — managing change across "
+            "5 clinic groups, 12 departments, 32 locations through 5 acquisitions and a $17M exit.",
+            config, italic=True, size=Pt(9.5))
+        add_bullet(doc,
+            " — managed organizational change through 5 acquisitions: built adoption frameworks, "
+            "stakeholder communication plans, culture integration playbooks — 100% key talent retention",
+            config, bold_prefix="Change Management & Organizational Transformation")
+        add_bullet(doc,
+            " — built change governance: weekly steering cadences, escalation paths, readiness "
+            "checklists — every new location reached operational steady state within 30 days",
+            config, bold_prefix="Change Governance & Readiness Frameworks")
+        add_bullet(doc,
+            " — stakeholder engagement across 12 departments with competing priorities: monthly "
+            "check-ins, escalation frameworks, prioritization matrices — aligned 5 clinic groups",
+            config, bold_prefix="Stakeholder Engagement & Alignment")
+        add_bullet(doc,
+            " — managed full P&L for $4M ARR: budget planning, variance analysis, multi-scenario "
+            "forecasting — board-ready reporting to executive leadership",
+            config, bold_prefix="P&L Management & Financial Reporting")
+        add_bullet(doc,
+            " — designed and delivered training for 70 FTEs across 32 locations — reduced new hire "
+            "ramp from 60 to 30 days through structured onboarding and mentorship frameworks",
+            config, bold_prefix="Training & Capability Building")
+        add_bullet(doc,
+            " — presented quarterly board reports to executive committee — P&L variance, strategic "
+            "tracking, resource allocation governing $4M annual budget across 12 departments",
+            config, bold_prefix="Executive Reporting & Board Communication")
     else:
         add_body(doc,
             "Directed end-to-end operations for a multi-site healthcare group. Served as the primary "
@@ -917,6 +959,12 @@ def generate(company):
             "Python · SQL · LLM/AI (ChatGPT, Claude) · Salesforce · Retool · EHR (eClinicalWorks, Athenahealth) · "
             "VOIP/VPN · Cloud · Workflow Design · Cross-Functional Program Mgmt",
             config, size=Pt(9))
+    elif company == "Seaspan":
+        add_body(doc,
+            "Change Management (ADKAR, Kotter, PROSCI-aligned)  ·  Project Management  ·  "
+            "Jira/Confluence  ·  OKR Frameworks  ·  KPI Dashboards  ·  "
+            "Google Workspace  ·  EHR/Operational Platforms  ·  Data Visualization",
+            config, size=Pt(9))
     elif company == "Indeed":
         add_body(doc,
             "Athenahealth  ·  eClinicalWorks  ·  CRM  ·  Google Workspace  ·  "
@@ -945,6 +993,8 @@ def generate(company):
         role_str = "Performance_Strategy_Manager"
     elif company == "Brex":
         role_str = "BizOps_SrMgr_Technical"
+    elif company == "Seaspan":
+        role_str = "Change_Management_Specialist"
     else:
         role_str = "SrMgr_Integration"
 
@@ -970,7 +1020,7 @@ def generate(company):
     add_plain_run(cover_contact, "  |  ", config["font"], Pt(9), color="505050")
     add_hyperlink_contact(cover_contact, "LinkedIn", f"https://{LINKEDIN}", config["font"], Pt(9))
     add_body(doc, LOCATION, config, size=Pt(9), space_after=4)
-    DATE_LABELS = {"Indeed": "July 5, 2026", "Methanex": "June 21, 2026", "Deloitte": "June 19, 2026", "Hiive": "June 22, 2026", "Providence_Healthcare": "June 22, 2026", "DoorDash_Canada": "June 24, 2026", "UBC": "June 25, 2026", "BWZ": "June 25, 2026", "KPMG": "June 25, 2026", "Microsoft": "June 25, 2026", "Accenture": "July 7, 2026", "Brex": "July 15, 2026"}
+    DATE_LABELS = {"Indeed": "July 5, 2026", "Methanex": "June 21, 2026", "Deloitte": "June 19, 2026", "Hiive": "June 22, 2026", "Providence_Healthcare": "June 22, 2026", "DoorDash_Canada": "June 24, 2026", "UBC": "June 25, 2026", "BWZ": "June 25, 2026", "KPMG": "June 25, 2026", "Microsoft": "June 25, 2026", "Accenture": "July 7, 2026", "Brex": "July 15, 2026", "Seaspan": "July 14, 2026"}
     add_body(doc, DATE_LABELS.get(company, "June 22, 2026"), config, space_after=8)
 
     if company == "Methanex":
