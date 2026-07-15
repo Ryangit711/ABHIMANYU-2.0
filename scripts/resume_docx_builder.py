@@ -142,13 +142,13 @@ CONFIG = {
     },
     "Seaspan": {
         "font": "Calibri",
-        "size": Pt(11),
-        "header_size": Pt(13),
-        "margins": Inches(0.75),
-        "pages": 2,
+        "size": Pt(10.5),
+        "header_size": Pt(12),
+        "margins": Inches(0.7),
+        "pages": 1,
         "ats_platform": "oracle_cloud",
         "format": "docx",
-        "ats_notes": "Seaspan Oracle Cloud ATS — DOCX, Calibri 11pt, CM framing"
+        "ats_notes": "Seaspan Oracle Cloud ATS — DOCX, Calibri 10.5pt, 1-page, CM framing"
     },
     "KPMG": {
         "font": "Calibri",
