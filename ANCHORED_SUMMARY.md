@@ -1,46 +1,43 @@
-# Anchored Summary — 2026-07-15
+# Anchored Summary — 2026-07-23 (AGNOSTIC MODE ACTIVATED)
 
 ## Objective
-Add Seaspan as a supported company in `gen_docx.py` so `GEN DOCX Seaspan` produces a proper resume + cover letter with Change Management framing, not the generic else-branch fallback.
+Go wide. No company worship. Fetch all → curate30 → shoot30 → next30. ATS is the enemy. We are the nemesis.
 
-## Important Details
-- Seaspan role: Change Management Specialist (I Pipe — Internal Strategy/Corporate)
-- Must NOT use the generic else branch — that creates unreviewed thin output
-- Content must weave Change Management keywords: ADKAR, Kotter, PROSCI-aligned, adoption frameworks, stakeholder engagement, culture integration, change governance
-- The Brex resume was previously condensed to 1-page fit (tighter bullets, merged summary stats, condensed education/technical sections) — Seaspan should follow same concise format
+## Current Pipeline State
 
-## Work State
-### Completed
-- Added `"Seaspan"` to `_COMPANIES_WITH_CONTENT` set (line 32)
-- Added `"Seaspan": "2026-07-14"` to `get_date()` DATES table (line 336)
-- Added Seaspan Professional Summary — Change Management practitioner + ops builder narrative, PROSCI-aligned, ADKAR-practiced
-- Added Seaspan Core Competencies (8 items: Change Management & Adoption · Organizational Transformation · Stakeholder Engagement · M&A Integration & Culture · Strategic Planning & OKRs · Cross-Functional Leadership · Process Improvement · Operational Infrastructure Design)
-- Added 6 experience bullets with bold prefixes: Change Management & Org Transformation, Change Governance & Readiness Frameworks, Stakeholder Engagement & Alignment, P&L Management & Financial Reporting, Training & Capability Building, Executive Reporting & Board Communication
-- Added Seaspan Technical Proficiency (ADKAR, Kotter, PROSCI-aligned · Project Management · Jira/Confluence · OKR Frameworks · KPI Dashboards · Google Workspace · EHR/Operational Platforms · Data Visualization)
-- Added `"Seaspan": "Change_Management_Specialist"` to role_str mapping (line 994)
-- Added `"Seaspan": "July 14, 2026"` to cover letter DATE_LABELS (line 1023)
+### Submitted — Waiting
+| Company | Role | Status |
+|---------|------|--------|
+| Brex | BizOps Sr Mgr | ✅ SUBMITTED Jul 15 — waiting |
+| Seaspan | Change Mgmt Specialist | ✅ SUBMITTED Jul 14 — Kash has resume, awaiting HM name |
+| Accenture, BWZ, KPMG, DoorDash, PointClickCare | Various | ✅ OLD CYCLE — low priority |
 
-### Active
-- (none — branch is complete, tested, and validated)
+### CURATED 30 — AGNOSTIC (Fresh 2026-07-23)
 
-### Blocked
-- (none)
+**Tier 1 (9/10 — Auto-SHOOT):**
+1. Highbridge Human Capital — VP Ops ($130K-$160K)
+2. Aritzia — Workplace Ops Sr Mgr ($100K-$300K)
+3. Dialog — Studio Ops Manager ($130K-$155K)
+4. SFU — Sr Director, Strategic Ops ($132K-$170K)
+5. QuadReal — Director, Operations West ($165K-$180K)
+
+**Tier 2 (8/10):** 15 companies (123Dentist, PHSA, Verathon, Aviso Wealth, Article, veritree, TELUS, Human Agency, Ericsson, Smartest Energy, Nexii, EY Canada, Eluta, Autodesk, DoorDash)
+
+**Tier 3 (7/10):** 10 companies (Maersk, EviSmart, AbCellera, Goldbeck, United Services, Donald's Fine Foods, Power Group, DoorDash x2, Charitable Impact)
+
+### Strategy
+- Shoot Tier 1 first (5 companies)
+- Then Tier 2 (15)
+- Then Tier 3 (10)
+- One by one. No worship. Pure execution.
+- After30 → next30
+
+## Files
+- `data/pipeline/CURATED_30.md` — full list with ATS + source
+- `data/pipeline/PIPELINE.md` — live pipeline
+- `PHILOSOPHICAL_MAP.md` — 360° philosophy
+- `scripts/gen_docx.py` — DOCX generator
+- `lib/career-ops/scan.mjs` — scanner
 
 ## Next Move
-1. ✅ TEST PASSED: `python3 scripts/gen_docx.py Seaspan` generated valid resume (23 meaningful lines)
-2. Files generated:
-   - Resume: `Aman_Kumar_Seaspan_Change_Management_Specialist.docx` (OneDrive + Linux)
-   - Cover Letter: `Cover_Letter_Seaspan_Change_Management_Specialist.docx` (OneDrive + Linux)
-3. When Kash provides the hiring manager name (awaiting since Jul 14), proceed with networking cadence
-
-## Relevant Files
-- `scripts/gen_docx.py`: Seaspan branch added at lines ~399 (summary), ~500 (competencies), ~842 (experience bullets), ~960 (technical), ~994 (role_str), ~1023 (date)
-- `2026-07-15/WAVE_1/01_Brex.md`: prior full-package reference (Brex was previous target before Seaspan)
-- `data/pipeline/PIPELINE.md`: reflects Brex at ✅ SUBMITTED, Seaspan at 🔵 SHOT (to be updated when resume is generated)
-- `data/networking/CADENCE_FOOTER.md`: Brex T+0 cadence live, Seaspan awaiting HM name
-
-## Key Execution Lessons & Strategy
-- **Content branch completeness is non-negotiable.** The `_COMPANIES_WITH_CONTENT` gate + line-count validation in `gen_docx.py` prevents thin output. Always add branches for actively SHOT companies.
-- **1-page conciseness pattern:** merged BUILT FROM ZERO into summary line, 5-6 bullets max, condensed education to single line — carry forward to new companies.
-- **Generic else-branch trap:** The fallback generates generic bullets unrelated to target role. Never rely on it for active SHOOTs.
-- **Company-specific keyword weave:** Seaspan needed ADKAR/Kotter/PROSCI language + change governance framework vocabulary — entirely different from Brex's "built from zero / AI-driven" keywords.
+Shoot Highbridge Human Capital — VP Ops ($130K-$160K, Tier 1, 9/10)
