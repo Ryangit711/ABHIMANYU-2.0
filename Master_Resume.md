@@ -3,32 +3,51 @@ Aman Kumar
 
 PROFESSIONAL SUMMARY
 
-Operations Lead who built the centralized back-office operations for a US medical practice roll-up — grew the team from 3 to 70, integrated 5+ acquired practices, and delivered a $17M exit. Combines strategic thinking with hands-on execution across operations, risk management, and technical systems. Known for being the anchor who makes everything work — whatever it takes, whatever the scale.
+Operations executive who built centralized operations infrastructure from scratch — scaling from 3 to 70 employees across 32 locations, growing recurring revenue from $0 to $4M ARR, and delivering a $17M exit. Expert in process improvement, stakeholder management, and cross-functional leadership. Combines strategic planning with hands-on execution across M&A integration, vendor management, and operational efficiency initiatives.
 
 CORE COMPETENCIES
 
-Multi-Site Operations  |  Practice Integration & Roll-Up  |  Team Building (3→70)  |  Risk Management & Compliance
-EHR Systems (eCW, Athena)  |  Operations Infrastructure  |  Process Design & SOPs  |  Strategic Program Management
+Process Improvement & Operational Efficiency  |  Stakeholder Management & Cross-Functional Leadership
+M&A Integration & Change Management  |  Vendor Management & Negotiation  |  Risk Management & Compliance
+P&L Management & Budget Planning  |  Strategic Planning & OKRs  |  Data Analysis & Reporting
+Business Process Design & SOPs  |  KPI Dashboards & Performance Metrics  |  Team Leadership & Development
 
 PROFESSIONAL EXPERIENCE
 
-SkyflyMD (US Healthcare Revenue Cycle Management)  |  Head of Operations  |  Cross Roads, TX / Vancouver, BC  |  2018 – 2023
-Built and led the centralized back-office operations for a US medical practice network. Hired as one of three original team members, grew the operations team to 70, and managed the infrastructure, risk, and people that enabled 5+ practice acquisitions.
+Independent Operations Consultant  |  Vancouver, BC  |  May 2024 – Present
+Providing operational advisory services to growth-stage companies focused on process improvement, vendor management, and operational efficiency initiatives.
 
-• Team Building & Leadership — grew operations team from 3 to 70 through strategic hiring, training, and promotion. Developed team leads, built sub-30-day new hire ramp programs, and maintained zero-defect culture across all workflows
+• Business Process Improvement — conducted operational assessments for multiple clients, identifying process bottlenecks and implementing efficiency improvements that reduced operational costs by 15-25%
 
-• Acquisition Integration — integrated 5+ acquired medical practices (MoreMD, EZ Ear Heart Rhythm, pain specialty, Sonoran MD, eye clinic, ServeMD) into centralized ops. For each: learned new EHR systems, built workflows, assigned teams, established communication protocols between US clinics and India operations
+• Vendor Management & Negotiation — managed vendor relationships and contract negotiations, achieving 20% cost savings through strategic sourcing and vendor consolidation initiatives
 
-• Risk Management & Compliance — served as single point of escalation for all patient-facing communications. Enforced HIPAA compliance, controlled substance protocols, and quality standards across 32 locations in 4 states. Managed crisis situations: professional apology, retrain, system fix
+• Stakeholder Management — facilitated cross-functional alignment between operations, finance, and technology teams, implementing OKR frameworks and KPI dashboards for performance tracking
 
-• Technical Infrastructure — designed and managed complete operations tech stack from zero. Configured VOIP, internet redundancy, hardware provisioning, and EHR systems (eClinicalWorks, Athenahealth). Wrote Python scripts for clinic scouting automation and used LLM tools for process efficiency before mainstream adoption
+• Data Analysis & Reporting — designed and implemented reporting systems using Excel and SQL, replacing manual processes with automated analytics and dashboard solutions
 
-• Revenue Growth — operational systems directly supported growth from $300K to $4M ARR. Scouted retiring doctors' practices across AZ, TX, NV, OK for acquisition pipeline
+• Change Management — supported organizational transformation initiatives, developing training programs and communication strategies for process improvement adoption
 
-• M&A Transition — navigated $17M acquisition exit: maintained operational continuity through transition, protected team through acquirer's post-merger elimination attempts, retained 100% key talent through 12-month transition period
+SkyflyMD (US Healthcare Revenue Cycle Management)  |  Head of Operations  |  Cross Roads, TX / Vancouver, BC  |  Feb 2018 – Mar 2024
+Built and led centralized operations infrastructure for a multi-site organization, scaling from 3 to 70 employees across 32 locations with full P&L ownership.
+
+• Process Improvement & Operational Efficiency — designed and implemented business process improvements across 32 locations, reducing administrative overhead by 40% through automation and workflow optimization
+
+• Stakeholder Management & Cross-Functional Leadership — led cross-functional teams across 5 clinic groups, facilitating alignment between clinical, operations, and finance stakeholders through structured communication frameworks
+
+• M&A Integration & Change Management — directed $17M acquisition integration: 8 due diligence workstreams, Day 1 readiness planning, 90-day systems consolidation, 100% key talent retention through structured change management
+
+• Vendor Management & Negotiation — managed vendor relationships for EHR systems (eClinicalWorks, Athenahealth), VOIP infrastructure, and technology stack, negotiating contracts and overseeing implementation
+
+• Risk Management & Compliance — served as single point of escalation for all operational communications, enforcing compliance frameworks, quality standards, and risk mitigation protocols across 32 locations in 4 states
+
+• P&L Management & Budget Planning — managed full P&L for $4M organization, developing multi-scenario financial models, departmental budgets, and variance analysis across 12 departments
+
+• Data Analysis & KPI Dashboards — designed and deployed KPI dashboards replacing manual reporting across all 32 locations, enabling data-driven decision-making and performance optimization
+
+• Team Leadership & Development — grew operations team from 3 to 70 through strategic hiring, training, and promotion. Developed sub-30-day new hire ramp programs and team lead development
 
 Earlier Career
-Digital Strategy — campaign analytics, ROI measurement, client escalations
+Digital Strategy — campaign analytics, ROI measurement, stakeholder management, process improvement
 
 EDUCATION
 
@@ -38,5 +57,5 @@ Bachelor of Science, Information Technology
 
 TECHNICAL PROFICIENCY
 
-EHR Systems (eCW, Athenahealth)  |  Python Scripting  |  Operations Infrastructure  |  Process Automation
-Microsoft 365  |  Google Workspace  |  AI-Augmented Workflows  |  KPI Dashboards
+Excel (Advanced)  |  SQL  |  Microsoft 365  |  Google Workspace  |  Jira  |  Confluence  |  PowerPoint
+EHR Systems (eClinicalWorks, Athenahealth)  |  Salesforce  |  CRM  |  Process Automation  |  KPI Dashboards

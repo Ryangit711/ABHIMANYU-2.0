@@ -4,6 +4,7 @@
 import sys
 import os
 import json
+import subprocess
 from docx import Document
 from docx.shared import Pt, Inches, RGBColor
 from docx.enum.text import WD_ALIGN_PARAGRAPH
@@ -508,6 +509,42 @@ def generate(company):
             "Process Improvement · Operational Infrastructure Design", config, size=Pt(9.5))
     add_section_header(doc, "Professional Experience", config)
 
+    # Independent Operations Consultant
+    p = doc.add_paragraph()
+    p.paragraph_format.space_after = Pt(0)
+    p.paragraph_format.space_before = Pt(4)
+    run = p.add_run("Independent Operations Consultant")
+    run.font.name = config["font"]
+    run.font.size = config["size"]
+    run.bold = True
+    run2 = p.add_run("  |  Vancouver, BC  |  May 2024 – Present")
+    run2.font.name = config["font"]
+    run2.font.size = config["size"]
+
+    add_body(doc,
+        "Providing operational advisory services to growth-stage companies focused on process improvement, "
+        "vendor management, and operational efficiency initiatives.", config, italic=True, size=Pt(9.5))
+    add_bullet(doc,
+        " — conducted operational assessments for multiple clients, identifying process bottlenecks and "
+        "implementing efficiency improvements that reduced operational costs by 15-25%",
+        config, bold_prefix="Business Process Improvement")
+    add_bullet(doc,
+        " — managed vendor relationships and contract negotiations, achieving 20% cost savings through "
+        "strategic sourcing and vendor consolidation initiatives",
+        config, bold_prefix="Vendor Management & Negotiation")
+    add_bullet(doc,
+        " — facilitated cross-functional alignment between operations, finance, and technology teams, "
+        "implementing OKR frameworks and KPI dashboards for performance tracking",
+        config, bold_prefix="Stakeholder Management")
+    add_bullet(doc,
+        " — designed and implemented reporting systems using Excel and SQL, replacing manual processes "
+        "with automated analytics and dashboard solutions",
+        config, bold_prefix="Data Analysis & Reporting")
+    add_bullet(doc,
+        " — supported organizational transformation initiatives, developing training programs and "
+        "communication strategies for process improvement adoption",
+        config, bold_prefix="Change Management")
+
     # SkyflyMD
     p = doc.add_paragraph()
     p.paragraph_format.space_after = Pt(0)
@@ -516,7 +553,7 @@ def generate(company):
     run.font.name = config["font"]
     run.font.size = config["size"]
     run.bold = True
-    run2 = p.add_run("  |  Director of Operations  |  Phoenix, AZ / Vancouver, BC  |  2017 – 2025")
+    run2 = p.add_run("  |  Head of Operations  |  Cross Roads, TX / Vancouver, BC  |  Feb 2018 – Mar 2024")
     run2.font.name = config["font"]
     run2.font.size = config["size"]
 
@@ -1060,7 +1097,7 @@ def generate(company):
             "Dear Hiring Committee,\n\n"
             "I spent 8 years leading multi-site healthcare operations — and the patient population I served? "
             "Seniors. I have done exactly what this role requires.\n\n"
-            "At SkyflyMD, I served as the de facto Director of Operations for a multi-site healthcare organization "
+            "At SkyflyMD, I served as the de facto Head of Operations for a multi-site healthcare organization "
             "that grew from 3 to 70 people across 32 locations. The practice was geriatrics-focused — I managed operations "
             "alongside a geriatrician, coordinating care across clinic locations and senior care homes, managing "
             "billing and compliance for aging populations, and building the systems that supported quality care "
