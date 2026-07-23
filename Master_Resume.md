@@ -15,17 +15,17 @@ Business Process Design & SOPs  |  KPI Dashboards & Performance Metrics  |  Team
 PROFESSIONAL EXPERIENCE
 
 Independent Operations Consultant  |  Vancouver, BC  |  May 2024 – Present
-Providing operational advisory services to growth-stage companies focused on process improvement, vendor management, and operational efficiency initiatives.
+Providing operational support to small businesses — process design, vendor coordination, and hands-on problem solving where it was needed most.
 
-• Business Process Improvement — conducted operational assessments for multiple clients, identifying process bottlenecks and implementing efficiency improvements that reduced operational costs by 15-25%
+• Business Process Improvement — identified bottlenecks in daily operations and built practical workflows to fix them — scheduling, coordination, vendor follow-ups, and reporting that the team needed but nobody had time to create
 
-• Vendor Management & Negotiation — managed vendor relationships and contract negotiations, achieving 20% cost savings through strategic sourcing and vendor consolidation initiatives
+• Vendor Management — coordinated vendor relationships, compared quotes, negotiated terms, and kept track of contracts — the kind of operational glue that keeps a small business running
 
-• Stakeholder Management — facilitated cross-functional alignment between operations, finance, and technology teams, implementing OKR frameworks and KPI dashboards for performance tracking
+• Data Analysis & Reporting — built tracking systems in Excel to replace manual paperwork — revenue reports, operational dashboards, and performance metrics that gave leadership real-time visibility
 
-• Data Analysis & Reporting — designed and implemented reporting systems using Excel and SQL, replacing manual processes with automated analytics and dashboard solutions
+• Cross-Functional Coordination — worked across departments to align priorities, communicate changes, and make sure nothing fell through the cracks during busy periods
 
-• Change Management — supported organizational transformation initiatives, developing training programs and communication strategies for process improvement adoption
+• Process Design & SOPs — documented workflows and created simple SOPs so the team could onboard new hires faster and maintain quality during high-growth periods
 
 SkyflyMD (US Healthcare Revenue Cycle Management)  |  Head of Operations  |  Cross Roads, TX / Vancouver, BC  |  Feb 2018 – Mar 2024
 Built and led centralized operations infrastructure for a multi-site organization, scaling from 3 to 70 employees across 32 locations with full P&L ownership.
