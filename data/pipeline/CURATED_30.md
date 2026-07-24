@@ -70,15 +70,41 @@ Sales/BD roles · Retail/restaurant ops · Technical engineering · Heavy quant/
 
 ---
 
-## EXECUTION ORDER
+## EXECUTION ORDER (Consulting First · Sweet Spot $100K-$160K)
 
-**This week:** SHOOT Tier 1 (7 verified live). EY Canada first (C-pipe, strongest). Then 1Password (best overall fit).
+**Strategy:** Consulting pipe first. $100K-$160K only. Don't shoot too high until consulting is exhausted.
 
-**Next week:** SHOOT Tier 2 (5 targets). Verify + SHOOT.
+### THIS WEEK — Consulting First
 
-**Week after:** SHOOT Tier 3 (5 targets). Verify before SHOOT.
+| Priority | Company | Role | Pipe | Salary | Why First |
+|:--------:|---------|------|:----:|:------:|-----------|
+| 1 | **EY Canada** | Sr Manager, Strategy & Execution | C | $144K-$216K | C-pipe. Vancouver. Posted Jul 8. Bottom of range = sweet spot. |
+| 2 | **PwC Canada** | Workforce Transformation Consulting, Manager | C | $112K-$162K | C-pipe. Vancouver. Sweet spot. New find. |
 
-**Replacements needed:** 8 dead targets need fresh replacements. Scan T and I pipes for new ops/strategy roles in Vancouver/Remote Canada.
+### THIS WEEK — Sweet Spot (after consulting)
+
+| Priority | Company | Role | Pipe | Salary | Why |
+|:--------:|---------|------|:----:|:------:|-----|
+| 3 | **1Password** | Ops & PM, Implementation | T | $111K-$150K | Remote Canada. Best overall fit. |
+| 4 | **EvenUp** | Strategy & Ops Mgr, Rev Ops | S | $115K-$130K | Remote Canada. Good fit. |
+
+### NEXT WEEK — Verify + SHOOT
+
+| Priority | Company | Role | Pipe | Salary | Why |
+|:--------:|---------|------|:----:|:------:|-----|
+| 5 | OpenTable | Sr Manager, Revenue Strategy & Ops | T | $130K-$145K | Verify SQL requirement. |
+| 6 | Arc'teryx | Senior Manager, ReBIRD Operations | I | $126K-$165K | On-site North Vancouver. |
+| 7 | Diligent | Director, Post-sales Strategy & Ops | T | $131K-$164K | SaaS post-sales. |
+| 8 | Human Agency | Chief of Staff to MD of AI | S | $120K-$160K | IC contract — discuss. |
+
+### WEEK AFTER — Tier 2 + 3
+
+| Priority | Company | Role | Pipe | Salary | Notes |
+|:--------:|---------|------|:----:|:------:|-------|
+| 9 | Kaseya | Staff Business Operations | T | $110K-$125K | SaaS. |
+| 10 | Teck | Manager, Business Partnership | I | $132K-$163K | Corporate. |
+| 11 | veritree | Director, Customer Success | T | $150K-$200K | Stretch. |
+| 12-17 | Tier 3 | Various | Mixed | Various | Verify before SHOOT.
 
 ---
 

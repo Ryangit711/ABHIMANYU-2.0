@@ -16,17 +16,18 @@
 
 ## CURATED Targets — VERIFIED 2026-07-23
 
-### Tier 1 — SHOOT THIS WEEK (7 verified live)
+### Tier 1 — SHOOT THIS WEEK (8 verified live)
 
 | # | Company | Role | Pipe | Salary | ATS | Status | Fit |
 |:-:|---------|------|:----:|:------:|:---:|:------:|:---:|
 | 1 | **EY Canada** | Sr Manager, Strategy & Execution | C | $144K-$216K | SuccessFactors | 🟢 LIVE | 9/10 |
-| 2 | **1Password** | Ops & Program Manager, Implementation | T | $111K-$150K | Ashby | 🟢 LIVE | 9/10 |
-| 3 | **EvenUp** | Strategy & Ops Mgr, Rev Ops | S | $115K-$130K | Greenhouse | 🟢 LIVE | 8/10 |
-| 4 | **OpenTable** | Sr Manager, Revenue Strategy & Ops | T | $130K-$145K | Greenhouse | 🟡 VERIFY | 8/10 |
-| 5 | **Arc'teryx** | Senior Manager, ReBIRD Operations | I | $126K-$165K | Lever | 🟢 LIVE | 8/10 |
-| 6 | **Diligent** | Director, Post-sales Strategy & Ops | T | $131K-$164K | Greenhouse | 🟢 LIVE | 8/10 |
-| 7 | **Human Agency** | Chief of Staff to MD of AI | S | $120K-$160K | Greenhouse | ⚠️ IC | 7/10 |
+| 2 | **PwC Canada** | Workforce Transformation Consulting, Manager | C | $112K-$162K | Workday | 🟢 LIVE | 9/10 |
+| 3 | **1Password** | Ops & Program Manager, Implementation | T | $111K-$150K | Ashby | 🟢 LIVE | 9/10 |
+| 4 | **EvenUp** | Strategy & Ops Mgr, Rev Ops | S | $115K-$130K | Greenhouse | 🟢 LIVE | 8/10 |
+| 5 | **OpenTable** | Sr Manager, Revenue Strategy & Ops | T | $130K-$145K | Greenhouse | 🟡 VERIFY | 8/10 |
+| 6 | **Arc'teryx** | Senior Manager, ReBIRD Operations | I | $126K-$165K | Lever | 🟢 LIVE | 8/10 |
+| 7 | **Diligent** | Director, Post-sales Strategy & Ops | T | $131K-$164K | Greenhouse | 🟢 LIVE | 8/10 |
+| 8 | **Human Agency** | Chief of Staff to MD of AI | S | $120K-$160K | Greenhouse | ⚠️ IC | 7/10 |
 
 ### Tier 2 — SHOOT NEXT WEEK (5 likely live)
 
@@ -72,15 +73,16 @@
 - **Offers:** 0
 - **Rejected:** 2 (Indeed, Practice Better)
 
-## Execution Order
+## Execution Order (Consulting First · Sweet Spot $100K-$160K)
 
-1. **SHOOT EY Canada** (C-pipe, Vancouver, strongest consulting target)
-2. **SHOOT 1Password** (T-pipe, Remote Canada, best overall fit)
-3. **SHOOT EvenUp** (S-pipe, Remote Canada, good fit)
-4. Verify OpenTable SQL requirement → SHOOT or skip
-5. SHOOT Arc'teryx (I-pipe, on-site North Vancouver)
-6. SHOOT Diligent (T-pipe, SaaS post-sales)
-7. Discuss Human Agency (IC contract — proceed or skip?)
+1. **SHOOT EY Canada** (C-pipe, Vancouver, $144K-$216K — consulting first)
+2. **SHOOT PwC Canada** (C-pipe, Vancouver, $112K-$162K — consulting, sweet spot)
+3. **SHOOT 1Password** (T-pipe, Remote Canada, $111K-$150K — best overall fit)
+4. **SHOOT EvenUp** (S-pipe, Remote Canada, $115K-$130K — good fit)
+5. Verify OpenTable SQL requirement → SHOOT or skip
+6. SHOOT Arc'teryx (I-pipe, on-site North Vancouver)
+7. SHOOT Diligent (T-pipe, SaaS post-sales)
+8. Discuss Human Agency (IC contract — proceed or skip?)
 
 ## CALLBACK_READY DNA Sheets
 
