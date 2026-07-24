@@ -39,9 +39,10 @@ Digital Strategy — campaign analytics, ROI measurement, stakeholder management
 
 EDUCATION
 
-Master of Business Administration (MBA) — International Business & IT
-Post-Baccalaureate Diploma in Technical Management & Services — KPU, Surrey, BC
-Bachelor of Science, Information Technology
+Master of Business Administration (MBA) — International Business & IT | 2020–2021
+Post Graduate Diploma in Business Management (PGDBM) | 2019–2020
+Post-Baccalaureate Diploma in Technical Management & Services — KPU, Surrey, BC | 2023–2025
+Bachelor of Science, Information Technology | 2012–2016
 
 TECHNICAL PROFICIENCY
 

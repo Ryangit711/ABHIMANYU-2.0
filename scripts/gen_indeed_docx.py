@@ -203,12 +203,15 @@ def generate_resume():
     # Education
     add_section_header(doc, "Education")
     add_body_text(doc, 
-        "Master of Business Administration (MBA)", bold=True, space_after=0)
+        "Master of Business Administration (MBA) — International Business & IT, 2020–2021", bold=True, space_after=0)
     add_body_text(doc,
-        "Post-Baccalaureate Diploma in Business Management — Kwantlen Polytechnic University, Surrey, BC",
+        "Post Graduate Diploma in Business Management (PGDBM), 2019–2020",
         size=Pt(9), space_after=0)
     add_body_text(doc,
-        "Bachelor of Science, Information Technology",
+        "Post-Baccalaureate Diploma in Technical Management & Services — KPU, Surrey, BC, 2023–2025",
+        size=Pt(9), space_after=0)
+    add_body_text(doc,
+        "Bachelor of Science, Information Technology, 2012–2016",
         size=Pt(9), space_after=0)
     
     # Technical Proficiency

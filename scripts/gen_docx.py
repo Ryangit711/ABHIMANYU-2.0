@@ -932,11 +932,11 @@ def generate(company):
     # Education
     add_section_header(doc, "Education", config)
     if company == "DoorDash_Canada":
-        add_body(doc, "MBA, Strategy & Finance  |  BSc, Information Technology  |  Post-Bacc Diploma, KPU", config, size=Pt(9), space_after=0)
+        add_body(doc, "MBA, International Business & IT, 2020–2021  |  PGDBM, 2019–2020  |  Post-Bacc Diploma, Technical Mgmt & Services — KPU, 2023–2025  |  BSc, Information Technology, 2012–2016", config, size=Pt(9), space_after=0)
     elif company == "Brex":
-        add_body(doc, "MBA, International Business & IT  |  Post-Bacc Diploma, Technical Mgmt & Services — KPU  |  BSc, Information Technology", config, size=Pt(9), space_after=0)
+        add_body(doc, "MBA, International Business & IT, 2020–2021  |  PGDBM, 2019–2020  |  Post-Bacc Diploma, Technical Mgmt & Services — KPU, 2023–2025  |  BSc, Information Technology, 2012–2016", config, size=Pt(9), space_after=0)
     else:
-        add_body(doc, "Master of Business Administration (MBA)  |  Post-Bacc Diploma, Technical Mgmt & Services — KPU  |  Post-Grad Diploma, Business Mgmt (IT)  |  BSc, Information Technology", config, size=Pt(9), space_after=0)
+        add_body(doc, "Master of Business Administration (MBA) — International Business & IT, 2020–2021  |  Post Graduate Diploma in Business Management (PGDBM), 2019–2020  |  Post-Baccalaureate Diploma, Technical Mgmt & Services — KPU, 2023–2025  |  BSc, Information Technology, 2012–2016", config, size=Pt(9), space_after=0)
 
     # Technical Proficiency
     add_section_header(doc, "Technical Proficiency", config)

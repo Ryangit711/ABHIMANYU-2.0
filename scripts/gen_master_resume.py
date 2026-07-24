@@ -262,9 +262,10 @@ add_bullet(doc, "Client Services Representative (2014–2016) — managed enterp
 
 # Education
 add_section_header(doc, "Education")
-add_body(doc, "Master of Business Administration (MBA)", bold=True, space_after=0)
-add_body(doc, "Post-Baccalaureate Diploma in Business Management — KPU, Surrey, BC", size=Pt(9), space_after=0)
-add_body(doc, "Bachelor of Science, Information Technology", size=Pt(9), space_after=0)
+add_body(doc, "Master of Business Administration (MBA) — International Business & IT, 2020–2021", bold=True, space_after=0)
+add_body(doc, "Post Graduate Diploma in Business Management (PGDBM), 2019–2020", size=Pt(9), space_after=0)
+add_body(doc, "Post-Baccalaureate Diploma in Technical Management & Services — KPU, Surrey, BC, 2023–2025", size=Pt(9), space_after=0)
+add_body(doc, "Bachelor of Science, Information Technology, 2012–2016", size=Pt(9), space_after=0)
 
 # Technical
 add_section_header(doc, "Technical Proficiency")
@@ -334,9 +335,10 @@ h1 {{ font-size: 16pt; font-weight: bold; text-align: center; margin: 0; padding
 <p class="bullet">Client Services Representative (2014–2016) — managed enterprise-level client escalations and complex issue resolution for a SaaS platform. Reduced average resolution time by 40% through systematic triage protocols and cross-functional escalation workflows.</p>
 
 <p class="section-header">Education</p>
-<p class="body-text"><b>Master of Business Administration (MBA)</b></p>
-<p class="body-text" style="font-size: 9pt;">Post-Baccalaureate Diploma in Business Management — KPU, Surrey, BC</p>
-<p class="body-text" style="font-size: 9pt;">Bachelor of Science, Information Technology</p>
+<p class="body-text"><b>Master of Business Administration (MBA) — International Business &amp; IT, 2020–2021</b></p>
+<p class="body-text" style="font-size: 9pt;">Post Graduate Diploma in Business Management (PGDBM), 2019–2020</p>
+<p class="body-text" style="font-size: 9pt;">Post-Baccalaureate Diploma in Technical Management &amp; Services — KPU, Surrey, BC, 2023–2025</p>
+<p class="body-text" style="font-size: 9pt;">Bachelor of Science, Information Technology, 2012–2016</p>
 
 <p class="section-header">Technical Proficiency</p>
 <p class="body-text" style="font-size: 9pt;">Financial Modeling &amp; Analysis  |  P&amp;L Management &amp; FP&amp;A  |  M&amp;A Due Diligence &amp; Integration  |  Board-Level Reporting &amp; Governance  |  OKR &amp; KPI Frameworks  |  Data Visualization &amp; Dashboards  |  EHR Systems &amp; Practice Management  |  Revenue Cycle Management  |  Google Workspace / MS Office  |  CRM Platforms  |  Project Management Tools  |  AI-Augmented Workflows &amp; Automation</p>
